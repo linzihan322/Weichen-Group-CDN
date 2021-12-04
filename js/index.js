@@ -357,15 +357,6 @@
             pages: "8863-8871",
             doi: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03319"
         }, {
-            title: "An Ultrastable Aqueous Iodine-Hydrogen Gas Battery",
-            author: "Zhengxin Zhu, Yahan Meng, Yi Cui, Wei Chen*",
-            year: 2021,
-            journal: "Advanced Functional Materials",
-            volumn: "",
-            issue: "",
-            pages: "2101024",
-            doi: "https://doi.org/10.1002/adfm.202101024"
-        }, {
             title: "Electrolyte Regulation of Bismuth Ions toward High Performance Aqueous Manganese-based Batteries",
             author: "Mingming Wang#, Yahan Meng#, Na Chen, Mingyan Chuai, Chunyue Shen, Xinhua Zheng, Yuan Yuan, Jifei Sun, Yan Xu, Wei Chen*",
             year: 2021,
@@ -393,7 +384,6 @@
             pages: "464-469",
             doi: "https://doi.org/10.1016/j.ensm.2021.07.050"
         },
-
 
             {
             title: "An Ultrastable Aqueous Iodine-Hydrogen Gas Battery",
