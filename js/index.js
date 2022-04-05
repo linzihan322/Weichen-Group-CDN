@@ -59,10 +59,20 @@
 })({
     0: function (e, t, n) {
         e.exports = n("56d7")
-    }, "0010": function (e, t, n) {
-        e.exports = n.p + "img/Jinghao Chen.jpg"
     }, "00e1": function (e, t, n) {
         e.exports = n.p + "img/Cover3.jpg"
+    
+    }, "001a": function (e, t, n) {
+        e.exports = n.p + "img/Xiaoyang Wang.jpg"
+    }, "001b": function (e, t, n) {
+        e.exports = n.p + "img/Hongxu Liu.jpg"
+    }, "001c": function (e, t, n) {
+        e.exports = n.p + "img/Kui Xu.jpg"
+    }, "001d": function (e, t, n) {
+        e.exports = n.p + "img/Ziqi Zhang.jpg"
+
+    }, "0010": function (e, t, n) {
+        e.exports = n.p + "img/Jinghao Chen.jpg"
     }, "021a": function (e, t, n) {
         e.exports = n.p + "img/Xinhua Zheng.jpg"
     }, "0313": function (e, t, n) {
@@ -311,7 +321,64 @@
                     })), 128))]
                 })), _: 1
             })])])
-        })), zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), ta = [{
+        })), zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), ta = [
+            {
+            title: "Solid electrolyte interface regulated by solvent-in-water electrolyte enables high-voltage and stable aqueous Mg-MnO2 batteries",
+            author: "Yan Xu, Zaichun Liu, Xinhua Zheng, Ke Li, Mingming Wang, Wei Yu, Hanlin Hu*, Wei Chen*",
+            year: 2022,
+            journal: "Advanced Energy Materials",
+            volumn: "2103352",
+            issue: "",
+            pages: "1-9",
+            doi: "https://doi.org/10.1002/aenm.202103352"
+        },{
+            title: "A proton-barrier separator induced via Hofmeister effect for high-performance electrolytic MnO2-Zn batteries",
+            author: "Yuan Yuan, Jinlong Yang*, Zaichun Liu, Rui Tan, Mingyan Chuai, Jifei Sun, Yan Xu, Xinhua Zheng, Mingming Wang, Touqeer Ahmad, Na Chen, Zhengxin Zhu, Ke Li, Wei Chen*",
+            year: 2022,
+            journal: "Journal of the American Chemical Society",
+            volumn: "2103705",
+            issue: "",
+            pages: "1-9",
+            doi: "https://doi.org/10.1002/aenm.202103705"
+        },{
+            title: "Recent advances in solid-liquid-gas three-phase interfaces in electrocatalysis for energy conversion and storage",
+            author: "Haosong Jiang#, Ruihao Luo#, Yiming Li#, Wei Chen*",
+            year: 2022,
+            journal: "EcoMat",
+            volumn: "e12199",
+            issue: "",
+            pages: "",
+            doi: "http://doi.org/10.1002/eom2.12199"
+        }, {
+            title: "Facile Fabrication of Bifunctional Hydrogen Catalytic Electrodes for Long-Life Nickel–Hydrogen Gas Batteries",
+            author: "Taoli Jiang, Ke Li, Sunhyeong Park, Kai Zheng, Yahan Meng, Yuan Yuan, Zaichun Liu, Zhengxin Zhu, Xinhua Zheng, Shuang Liu, Wei Chen*",
+            year: 2022,
+            journal: "Nano Letters",
+            volumn: "22",
+            issue: "4",
+            pages: "1741-1749",
+            doi: "https://pubs.acs.org/doi/10.1021/acs.nanolett.1c04940"
+        }, {
+            title: "Atomic Tuning of Single-Atom Fe–N–C Catalysts with Phosphorus for Robust Electrochemical CO2 Reduction",
+            author: "Ke Li, Shengbo Zhang, Xiuli Zhang, Shuang Liu, Haosong Jiang, Taoli Jiang, Chunyue Shen, Yi Yu, Wei Chen*",
+            year: 2022,
+            journal: "Nano Letters",
+            volumn: "22",
+            issue: "4",
+            pages: "1557-1565",
+            doi: "https://pubs.acs.org/doi/10.1021/acs.nanolett.1c04382"
+        },{
+            title: "Tuning electrolyte solvation structures to enable stable aqueous Al/MnO2 battery",
+            author: "Yan Xu, Jiale Ma, Taoli Jiang, Weiping Wang, Mingming Wang, Xinhua Zheng, Jifei Sun, Yuan Yuan, Mingyan Chuai, Na Chen, Zhenyu Li*, Hanlin Hu*, Wei Chen*",
+            year: 2022,
+            journal: "Energy Storage Materials",
+            volumn: "47",
+            issue: "",
+            pages: "113-121",
+            doi: "https://doi.org/10.1016/j.ensm.2022.01.060"
+        },  
+        
+           {
             title: "An Ultrafast and Ultra-Low-Temperature Hydrogen Gas-Proton Battery",
             author: "Zhengxin Zhu, Weiping Wang, Yichen Yin, Yahan Meng, Zaichun Liu, Taoli Jiang, Qia Peng, Jifei Sun, Wei Chen*",
             year: 2021,
@@ -334,9 +401,9 @@
             author: "Mingyan Chuai, Jinlong Yang*, Mingming Wang, Yuan Yuan, Zaichun Liu, Yan Xu, Jifei Sun, Xinhua Zheng, Na Chen, Wei Chen*",
             year: 2021,
             journal: "eScience",
-            volumn: "",
+            volumn: "1",
             issue: "",
-            pages: "2101024",
+            pages: "178-185",
             doi: "https://doi.org/10.1016/j.esci.2021.11.002"
         }, {
             title: "Nickel hydrogen gas batteries: From aerospace to grid-scale energy storage applications",
@@ -1003,7 +1070,28 @@
         });
         n("5ef3");
         ja.render = ya, ja.__scopeId = "data-v-27f795e3";
-        var Oa = ja, va = [{
+        var Oa = ja, va = [
+        {
+            time: "March 29, 2022",
+            event: 'Our research paper entitled "Solid electrolyte interface regulated by solvent-in-water electrolyte enables high-voltage and stable aqueous Mg-MnO2 batteries" was published in Advanced Energy Materials. Congratulations to Yan!'
+        }, {
+            time: "March 8, 2022",
+            event: 'Our research paper entitled "A proton-barrier separator induced via Hofmeister effect for high-performance electrolytic MnO2-Zn batteries" was published in Advanced Energy Materials. Congratulations to Yuanyuan!'
+        }, {
+            time: "March 8, 2022",
+            event: 'Our review article entitled "Recent advances in solid-liquid-gas three-phase interfaces in electrocatalysis for energy conversion and storage" was published in EcoMat. Congratulations to Haosong, Ruihao and Yimin!'
+        }, {
+            time: "February 7, 2022",
+            event: 'Our research paper entitled "Facile Fabrication of Bifunctional Hydrogen Catalytic Electrodes for Long-Life Nickel–Hydrogen Gas Batteries" was published in Nano Letters. Congratulations to Taoli!'
+        }, {
+            time: "February 1, 2022",
+            event: 'Our research paper entitled "Atomic Tuning of Single-Atom Fe–N–C Catalysts with Phosphorus for Robust Electrochemical CO2 Reduction" was published in Nano Letters. Congratulations to Ke!'
+        }, {
+            time: "February 1, 2022",
+            event: 'Our research paper entitled "Tuning electrolyte solvation structures to enable stable aqueous Al/MnO2 battery" was published in Energy Storage Materials. Congratulations to Yan!'
+        },
+        
+        {
             time: "November 21, 2021",
             event: 'Our research paper entitled "An Ultrafast and Ultra-Low-Temperature Hydrogen Gas-Proton Battery" was published in Journal of the American Chemical Society. Congratulations to Zhengxin!!'
         }, {
@@ -1219,16 +1307,55 @@
                 })), 128)), za, (Object(a["openBlock"])(!0), Object(a["createBlock"])(a["Fragment"], null, Object(a["renderList"])(r.alumni, (function (e, t) {
                     return Object(a["openBlock"])(), Object(a["createBlock"])(u, Object(a["mergeProps"])({key: t}, e), null, 16)
                 })), 128)), Object(a["createVNode"])(l, {target: ".scrollbar .el-scrollbar__wrap", bottom: "200"})])
-            })), qa = (n("4de4"), n("b4ce")), Qa = n.n(qa), $a = n("1895"), eo = n.n($a), to = n("a37c"), no = n.n(to),
-            ao = n("24c4"), oo = n.n(ao), io = n("abf9"), ro = n.n(io), co = n("58d5"), uo = n.n(co), lo = n("cc7a"),
-            so = n.n(lo), ho = n("a614"), po = n.n(ho), go = n("99b3"), mo = n.n(go), fo = n("021a"), bo = n.n(fo),
-            yo = n("5338"), jo = n.n(yo), Oo = n("f1dc"), vo = n.n(Oo), So = n("559b"), Co = n.n(So), ko = n("1040"),
-            No = n.n(ko), Wo = n("9c54"), Io = n.n(Wo), Bo = n("1558"), wo = n.n(Bo), Lo = n("3d76"), xo = n.n(Lo),
-            Mo = n("f13f"), Ao = n.n(Mo), Po = n("97f2"), Vo = n.n(Po), Ho = n("43fc"), Zo = n.n(Ho), Yo = n("0010"),
-            Do = n.n(Yo), _o = n("e51d"), Jo = n.n(_o), Fo = n("c344"), To = n.n(Fo), Go = n("0313"), Ro = n.n(Go),
-            Eo = n("0c7d"), Xo = n.n(Eo), Uo = n("67ea"), zo = n.n(Uo), Ko = n("afd7"), qo = n.n(Ko), Qo = n("6bfc"),
-            $o = n.n(Qo), ei = n("e9f6"), ti = n.n(ei), ni = n("eb7d"), ai = n.n(ni), oi = n("fa29"), ii = n.n(oi),
-            ri = n("f134"), ci = n.n(ri), ui = n("fe89"), li = n.n(ui), si = n("1cb8"), di = n.n(si), hi = [{
+            })), qa = (n("4de4"), n("b4ce")), Qa = n.n(qa), 
+            $a = n("1895"), eo = n.n($a), to = n("a37c"), no = n.n(to), ao = n("24c4"), oo = n.n(ao), io = n("abf9"), ro = n.n(io), 
+            co = n("58d5"), uo = n.n(co), lo = n("cc7a"), so = n.n(lo), ho = n("a614"), po = n.n(ho), go = n("99b3"), mo = n.n(go),
+            fo = n("021a"), bo = n.n(fo), yo = n("5338"), jo = n.n(yo), Oo = n("f1dc"), vo = n.n(Oo), So = n("559b"), Co = n.n(So), 
+            ko = n("1040"), No = n.n(ko), Wo = n("9c54"), Io = n.n(Wo), Bo = n("1558"), wo = n.n(Bo), Lo = n("3d76"), xo = n.n(Lo),
+            Mo = n("f13f"), Ao = n.n(Mo), Po = n("97f2"), Vo = n.n(Po), Ho = n("43fc"), Zo = n.n(Ho), Yo = n("0010"), Do = n.n(Yo), 
+            _o = n("e51d"), Jo = n.n(_o), Fo = n("c344"), To = n.n(Fo), Go = n("0313"), Ro = n.n(Go), Eo = n("0c7d"), Xo = n.n(Eo), 
+            Uo = n("67ea"), zo = n.n(Uo), Ko = n("afd7"), qo = n.n(Ko), Qo = n("6bfc"), $o = n.n(Qo), 
+            
+            eb = n("001a"), tb = n.n(eb), nb = n("001b"), ab = n.n(nb), ob = n("001c"), ib = n.n(ob),rb = n("001d"), cb = n.n(rb),
+            
+            ei = n("e9f6"), ti = n.n(ei), 
+            ni = n("eb7d"), ai = n.n(ni), oi = n("fa29"), ii = n.n(oi),
+            ri = n("f134"), ci = n.n(ri), ui = n("fe89"), li = n.n(ui), 
+            si = n("1cb8"), di = n.n(si), hi = [{
+                name: "王晓阳",
+                name_en: "Xiaoyang Wang",
+                email: "xiaoyangw@ustc.edu.cn",
+                identity: "Postdoc",
+                year: "",
+                photo: tb.a,
+                duration: ""
+            },{
+                name: "刘虹序",
+                name_en: "Hongxu Liu",
+                email: "lhxtju@163.com",
+                identity: "Visiting scholar",
+                year: "",
+                photo: ab.a,
+                duration: ""
+            },{
+                name: "徐葵",
+                name_en: "Kui Xu",
+                email: "51204700080@stu.ecnu.edu.cn",
+                identity: "Visiting scholar",
+                year: "",
+                photo: ib.a,
+                duration: ""
+            },{
+                name: "张子奇",
+                name_en: "Ziqi Zhang",
+                email: "zq2100075534@mail.ustc.edu.cn",
+                identity: "Undergraduate",
+                year: "2020",
+                photo: cb.a,
+                duration: ""
+            },
+            
+            {
                 name: "李科",
                 name_en: "Ke Li",
                 email: "kelee@ustc.edu.cn",
@@ -1236,7 +1363,7 @@
                 year: "",
                 photo: eo.a,
                 duration: ""
-            }, {
+            },{
                 name: "刘再春",
                 name_en: "Zaichun Liu",
                 email: "liuzaichun@ustc.edu.cn",
@@ -1455,10 +1582,10 @@
                 name: "马瑞泽",
                 name_en: "Ruize Ma",
                 email: "maruize@mail.ustc.edu.cn",
-                identity: "Undergraduate",
+                identity: "Alumni",
                 year: 2019,
                 photo: di.a,
-                duration: ""
+                duration: "2021.6-2022.3"
             }, {
                 name: "王卫平",
                 name_en: "Weiping Wang",
@@ -1811,7 +1938,7 @@
     }, df15: function (e, t, n) {
         "use strict";
         n("3932")
-    }, e17c: function (e, t, n) {
+    }, e17c: function (e, t, n) {        
     }, e51d: function (e, t, n) {
         e.exports = n.p + "img/Qia Peng.jpg"
     }, e9f6: function (e, t, n) {
