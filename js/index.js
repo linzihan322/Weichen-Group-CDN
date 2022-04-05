@@ -1333,16 +1333,16 @@
                 name: "刘虹序",
                 name_en: "Hongxu Liu",
                 email: "lhxtju@163.com",
-                identity: "Visiting scholar",
-                year: "",
+                identity: "Visiting Scholar",
+                year: "2022",
                 photo: ab.a,
                 duration: ""
             },{
                 name: "徐葵",
                 name_en: "Kui Xu",
                 email: "51204700080@stu.ecnu.edu.cn",
-                identity: "Visiting scholar",
-                year: "",
+                identity: "Visiting Scholar",
+                year: "2022",
                 photo: ib.a,
                 duration: ""
             },{
