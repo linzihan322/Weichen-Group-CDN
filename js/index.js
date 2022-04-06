@@ -335,7 +335,7 @@
             title: "A proton-barrier separator induced via Hofmeister effect for high-performance electrolytic MnO2-Zn batteries",
             author: "Yuan Yuan, Jinlong Yang*, Zaichun Liu, Rui Tan, Mingyan Chuai, Jifei Sun, Yan Xu, Xinhua Zheng, Mingming Wang, Touqeer Ahmad, Na Chen, Zhengxin Zhu, Ke Li, Wei Chen*",
             year: 2022,
-            journal: "Journal of the American Chemical Society",
+            journal: "Advanced Energy Materials",
             volumn: "2103705",
             issue: "",
             pages: "1-9",
@@ -1321,40 +1321,7 @@
             ei = n("e9f6"), ti = n.n(ei), 
             ni = n("eb7d"), ai = n.n(ni), oi = n("fa29"), ii = n.n(oi),
             ri = n("f134"), ci = n.n(ri), ui = n("fe89"), li = n.n(ui), 
-            si = n("1cb8"), di = n.n(si), hi = [{
-                name: "王晓阳",
-                name_en: "Xiaoyang Wang",
-                email: "xiaoyangw@ustc.edu.cn",
-                identity: "Postdoc",
-                year: "",
-                photo: tb.a,
-                duration: ""
-            },{
-                name: "刘虹序",
-                name_en: "Hongxu Liu",
-                email: "lhxtju@163.com",
-                identity: "Visiting Scholar",
-                year: "2022",
-                photo: ab.a,
-                duration: ""
-            },{
-                name: "徐葵",
-                name_en: "Kui Xu",
-                email: "51204700080@stu.ecnu.edu.cn",
-                identity: "Visiting Scholar",
-                year: "2022",
-                photo: ib.a,
-                duration: ""
-            },{
-                name: "张子奇",
-                name_en: "Ziqi Zhang",
-                email: "zq2100075534@mail.ustc.edu.cn",
-                identity: "Undergraduate",
-                year: "2020",
-                photo: cb.a,
-                duration: ""
-            },
-            
+            si = n("1cb8"), di = n.n(si), hi = [
             {
                 name: "李科",
                 name_en: "Ke Li",
@@ -1618,7 +1585,43 @@
                 year: "",
                 photo: li.a,
                 duration: "2021.6-2021.8"
-            }], pi = hi, gi = Object(a["withScopeId"])("data-v-73efe385");
+            },
+
+            {
+                name: "王晓阳",
+                name_en: "Xiaoyang Wang",
+                email: "xiaoyangw@ustc.edu.cn",
+                identity: "Postdoc",
+                year: "",
+                photo: tb.a,
+                duration: ""
+            },{
+                name: "刘虹序",
+                name_en: "Hongxu Liu",
+                email: "lhxtju@163.com",
+                identity: "Visiting Scholar",
+                year: "2022",
+                photo: ab.a,
+                duration: ""
+            },{
+                name: "徐葵",
+                name_en: "Kui Xu",
+                email: "51204700080@stu.ecnu.edu.cn",
+                identity: "Visiting Scholar",
+                year: "2022",
+                photo: ib.a,
+                duration: ""
+            },{
+                name: "张子奇",
+                name_en: "Ziqi Zhang",
+                email: "zq2100075534@mail.ustc.edu.cn",
+                identity: "Undergraduate",
+                year: "2020",
+                photo: cb.a,
+                duration: ""
+            }
+                     
+        ], pi = hi, gi = Object(a["withScopeId"])("data-v-73efe385");
         Object(a["pushScopeId"])("data-v-73efe385");
         var mi = {class: "info"}, fi = {class: "name-en"}, bi = {key: 0, class: "name"}, yi = {key: 1, class: "year"},
             ji = {class: "email"}, Oi = {key: 2, class: "duration"};
