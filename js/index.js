@@ -50,7 +50,7 @@
         return r.d(t, "a", t), t
     }, r.o = function (e, t) {
         return Object.prototype.hasOwnProperty.call(e, t)
-    }, r.p = "https://cdn.jsdelivr.net/gh/linzihan322/Weichen-Group-CDN@latest/";
+    }, r.p = "https://testingcf.jsdelivr.net/gh/linzihan322/Weichen-Group-CDN@latest/";
     var c = window["webpackJsonp"] = window["webpackJsonp"] || [], u = c.push.bind(c);
     c.push = t, c = c.slice();
     for (var l = 0; l < c.length; l++) t(c[l]);
@@ -175,7 +175,7 @@
             name: "NavBar", data: function () {
                 return {
                     desktop: this.handleResize(),
-                    menuItem: ["Home", "News", "Research", "Members", "Publications", "Openings", "Contact"]
+                    menuItem: ["Home", "News", "Research", "Members", "Publications","Gallery", "Openings", "Contact"]
                 }
             }, mounted: function () {
                 var e = this;
@@ -323,6 +323,64 @@
             })])])
         })), zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), ta = [
             {
+                title: "Production of a hybrid capacitive storage device via hydrogen gas and carbon electrodes coupling",
+                author: "Zhengxin Zhu#, Zaichun Liu#, Yichen Yin, Yuan Yuan, Yahan Meng, Taoli Jiang, Qia Peng, Weiping Wang, Wei Chen*",
+                year: 2022,
+                journal: "Nature Communications",
+                volumn: "13",
+                issue: "",
+                pages: "2805",
+                doi: "https://doi.org/10.1002/aenm.202103352"
+            },{
+            title: "Development of high areal capacity electrolytic MnO2-Zn battery via an iodine mediator",
+            author: "Xinhua Zheng#, Ruihao Luo#, Touqeer Ahmad, Jifei Sun, Shuang Liu, Na Chen, Mingming Wang, Yuan Yuan, Mingyan Chuai, Yan Xu, Taoli Jiang, Wei Chen*",
+            year: 2022,
+            journal: "Energy & Environmental Materials",
+            volumn: "",
+            issue: "",
+            pages: "in press",
+            doi: "https://doi.org/10.1002/eem2.12433 "
+        },{
+            title: "Recent Progress in Organic Species for Redox Flow Batteries",
+            author: "Zening Li#, Taoli Jiang#, Mohsin Ali, Chengxu Wu, Wei Chen*",
+            year: 2022,
+            journal: "Energy Storage Materials",
+            volumn: "50",
+            issue: "",
+            pages: "105-138",
+            doi: "https://doi.org/10.1016/j.ensm.2022.04.038"
+        },{
+            title: "Toward dendrite-free and anti-corrosion Zn anodes by regulating a bismuth-based energizer",
+            author: "Mingming Wang#, Yahan Meng#, Ke Li#, Touqeer Ahmad, Na Chen, Yan Xu, Jifei Sun, Mingyan Chuai, Xinhua Zheng, Yuan Yuan, Chunyue Shen, Ziqi Zhang, Wei Chen*",
+            year: 2022,
+            journal: "eScience",
+            volumn: "",
+            issue: "",
+            pages: "in press",
+            doi: "https://doi.org/10.1016/j.esci.2022.04.003"
+        },{
+            title: "Nucleophilic interfacial layer enables stable Zn anode for aqueous Zn batteries",
+            author: "Yan Xu, Xinhua Zheng, Jifei Sun, Mingyan Chuai, Mingming Wang, Yuan Yuan, Na Chen, Hanlin Hu*, Wei Chen*",
+            year: 2022,
+            journal: "Nano Letters",
+            volumn: "22",
+            issue: "8",
+            pages: "3298-3306",
+            doi: "https://doi.org/10.1021/acs.nanolett.2c00398"
+        },{
+            title: "Solid electrolyte interface regulated by solvent-in-water electrolyte enables high-voltage and stable aqueous Mg-MnO2 batteries",
+            author: "Yan Xu, Zaichun Liu, Xinhua Zheng, Ke Li, Mingming Wang, Wei Yu, Hanlin Hu*, Wei Chen*",
+            year: 2022,
+            journal: "Advanced Energy Materials",
+            volumn: "2103352",
+            issue: "",
+            pages: "1-9",
+            doi: "https://doi.org/10.1002/aenm.202103352"
+        },
+			
+			
+			
+			{
             title: "Solid electrolyte interface regulated by solvent-in-water electrolyte enables high-voltage and stable aqueous Mg-MnO2 batteries",
             author: "Yan Xu, Zaichun Liu, Xinhua Zheng, Ke Li, Mingming Wang, Wei Yu, Hanlin Hu*, Wei Chen*",
             year: 2022,
@@ -416,13 +474,13 @@
             doi: "https://doi.org/10.1016/j.coelec.2021.100859"
         }, {
             title: "Boosting Electrolytic MnO2-Zn Batteries by a Bromine Mediator",
-            author: "Xinhua Zheng, Yongchao Wang, Yan Xu, Touqeer Ahmad, Yuan Yuan, Jifei Sun, Ruihao Luo, Mingmin Wang, Wei Chen*",
+            author: "Xinhua Zheng, Yongchao Wang, Yan Xu, Touqeer Ahmad, Yuan Yuan, Jifei Sun, Ruihao Luo, Mingming Wang, Wei Chen*",
             year: 2021,
             journal: "Nano Letters",
             volumn: "21",
             issue: "20",
             pages: "8863-8871",
-            doi: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03319"
+            doi: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03319 "
         }, {
             title: "Electrolyte Regulation of Bismuth Ions toward High Performance Aqueous Manganese-based Batteries",
             author: "Mingming Wang#, Yahan Meng#, Na Chen, Mingyan Chuai, Chunyue Shen, Xinhua Zheng, Yuan Yuan, Jifei Sun, Yan Xu, Wei Chen*",
@@ -1072,6 +1130,23 @@
         ja.render = ya, ja.__scopeId = "data-v-27f795e3";
         var Oa = ja, va = [
         {
+            time: "May 19, 2022",
+            event: 'Our research paper entitled "Production of a hybrid capacitive storage device via hydrogen gas and carbon electrodes coupling" was published in Nature Communications. Congratulations to Zhengxin!'
+        },{
+            time: "May 15, 2022",
+            event: 'Our research paper entitled "Development of high areal capacity electrolytic MnO2-Zn battery via an iodine mediator" was published in Energy & Environmental Materials. Congratulations to Xinhua and Ruihao!'
+        },{
+            time: "April 28, 2022",
+            event: 'Our review article entitled "Recent Progress in Organic Species for Redox Flow Batteries" was published in Energy Storage Materials. Congratulations to Zening and Taoli!'
+        },{
+            time: "April 14, 2022",
+            event: 'Our research paper entitled "Toward dendrite-free and anti-corrosion Zn anodes by regulating a bismuth-based energizer" was published in eScience. Congratulations to Mingming!'
+        },{
+            time: "April 6, 2022",
+            event: 'Our research paper entitled "Nucleophilic interfacial layer enables stable Zn anode for aqueous Zn batteries" was published in Nano Letters. Congratulations to Yan!'
+        },
+		
+		{
             time: "March 29, 2022",
             event: 'Our research paper entitled "Solid electrolyte interface regulated by solvent-in-water electrolyte enables high-voltage and stable aqueous Mg-MnO2 batteries" was published in Advanced Energy Materials. Congratulations to Yan!'
         }, {
