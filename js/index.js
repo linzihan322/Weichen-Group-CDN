@@ -367,15 +367,6 @@
             issue: "8",
             pages: "3298-3306",
             doi: "https://doi.org/10.1021/acs.nanolett.2c00398"
-        },{
-            title: "Solid electrolyte interface regulated by solvent-in-water electrolyte enables high-voltage and stable aqueous Mg-MnO2 batteries",
-            author: "Yan Xu, Zaichun Liu, Xinhua Zheng, Ke Li, Mingming Wang, Wei Yu, Hanlin Hu*, Wei Chen*",
-            year: 2022,
-            journal: "Advanced Energy Materials",
-            volumn: "2103352",
-            issue: "",
-            pages: "1-9",
-            doi: "https://doi.org/10.1002/aenm.202103352"
         },
 			
 			
