@@ -50,7 +50,7 @@
         return r.d(t, "a", t), t
     }, r.o = function (e, t) {
         return Object.prototype.hasOwnProperty.call(e, t)
-    }, r.p = "https://testingcf.jsdelivr.net/gh/linzihan322/Weichen-Group-CDN@latest/";
+    }, r.p = "https://fastly.jsdelivr.net/gh/linzihan322/Weichen-Group-CDN@latest/";
     var c = window["webpackJsonp"] = window["webpackJsonp"] || [], u = c.push.bind(c);
     c.push = t, c = c.slice();
     for (var l = 0; l < c.length; l++) t(c[l]);
@@ -175,7 +175,7 @@
             name: "NavBar", data: function () {
                 return {
                     desktop: this.handleResize(),
-                    menuItem: ["Home", "News", "Research", "Members", "Publications","Gallery", "Openings", "Contact"]
+                    menuItem: ["Home", "News", "Research", "Members", "Publications", "Openings", "Contact"]
                 }
             }, mounted: function () {
                 var e = this;
@@ -277,11 +277,15 @@
         var Gn = {class: "main"}, Rn = Object(a["createVNode"])("div", {class: "welcome"}, null, -1),
             En = {class: "carousel-about"}, Xn = {class: "content"};
         Object(a["popScopeId"])();
-        var Un = Tn((function (e, t, n, o, i, r) {
+        var Un = Tn(
+		
+		(function (e, t, n, o, i, r) {
             var c = Object(a["resolveComponent"])("el-carousel-item"), u = Object(a["resolveComponent"])("el-carousel"),
-                l = Object(a["resolveComponent"])("column-title"), s = Object(a["resolveComponent"])("Publication"),
+                l = Object(a["resolveComponent"])("column-title"), l1 = Object(a["resolveComponent"])("column-title"), s = Object(a["resolveComponent"])("Publication"),
                 d = Object(a["resolveComponent"])("el-timeline-item"), h = Object(a["resolveComponent"])("el-timeline");
-            return Object(a["openBlock"])(), Object(a["createBlock"])("div", Gn, [Rn, Object(a["createVNode"])("div", En, [Object(a["createVNode"])(u, {class: "carousel"}, {
+            return Object(a["openBlock"])(), Object(a["createBlock"])("div", Gn, [Rn, Object(a["createVNode"])
+			("div", En, [Object(a["createVNode"])(u, {class: "carousel"}, 
+			{
                 default: Tn((function () {
                     return [(Object(a["openBlock"])(!0), Object(a["createBlock"])(a["Fragment"], null, Object(a["renderList"])(i.carousel, (function (e) {
                         return Object(a["openBlock"])(), Object(a["createBlock"])(c, {key: e}, {
@@ -294,19 +298,33 @@
                         }, 1024)
                     })), 128))]
                 })), _: 1
-            })]), Object(a["createVNode"])("div", Xn, [Object(a["createVNode"])(l, {
+            })]), 
+			
+			
+			Object(a["createVNode"])
+			("div", Xn, [Object(a["createVNode"])
+			(l, {
                 title: "Publications",
                 link: "/Publications"
-            }), (Object(a["openBlock"])(!0), Object(a["createBlock"])(a["Fragment"], null, Object(a["renderList"])(i.publications.slice(0, 5), (function (e, t) {
+            }), 
+
+			(Object(a["openBlock"])(!0), Object(a["createBlock"])(a["Fragment"], null, Object(a["renderList"])(i.publications.slice(0, 5), (function (e, t) 
+			{
                 return Object(a["openBlock"])(), Object(a["createBlock"])(s, Object(a["mergeProps"])({key: e.title}, e), {
                     default: Tn((function () {
                         return [Object(a["createTextVNode"])(Object(a["toDisplayString"])(i.publications.length - t) + ".  ", 1)]
                     })), _: 2
                 }, 1040)
-            })), 128)), Object(a["createVNode"])(l, {
+            })), 128)), 
+			
+			
+			
+			Object(a["createVNode"])(l, {
                 title: "News&Events",
                 link: "/News"
-            }), Object(a["createVNode"])(h, {class: "event"}, {
+            }), 
+			
+			Object(a["createVNode"])(h, {class: "event"}, {
                 default: Tn((function () {
                     return [(Object(a["openBlock"])(!0), Object(a["createBlock"])(a["Fragment"], null, Object(a["renderList"])(i.events.slice(0, 5), (function (e, t) {
                         return Object(a["openBlock"])(), Object(a["createBlock"])(d, {
@@ -320,8 +338,25 @@
                         }, 1032, ["timestamp"])
                     })), 128))]
                 })), _: 1
-            })])])
-        })), zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), ta = [
+            }),
+			
+			
+			Object(a["createVNode"])(l1, {
+			    title: "Gallery (under constraction)",
+			    link: null
+			}), 
+
+            
+
+
+			])])
+        })), 
+		
+
+		
+		zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), 
+		
+		ta = [
             {
                 title: "Production of a hybrid capacitive storage device via hydrogen gas and carbon electrodes coupling",
                 author: "Zhengxin Zhu#, Zaichun Liu#, Yichen Yin, Yuan Yuan, Yahan Meng, Taoli Jiang, Qia Peng, Weiping Wang, Wei Chen*",
@@ -330,7 +365,7 @@
                 volumn: "13",
                 issue: "",
                 pages: "2805",
-                doi: "https://doi.org/10.1002/aenm.202103352"
+                doi: "https://doi.org/10.1038/s41467-022-30450-0"
             },{
             title: "Development of high areal capacity electrolytic MnO2-Zn battery via an iodine mediator",
             author: "Xinhua Zheng#, Ruihao Luo#, Touqeer Ahmad, Jifei Sun, Shuang Liu, Na Chen, Mingming Wang, Yuan Yuan, Mingyan Chuai, Yan Xu, Taoli Jiang, Wei Chen*",
@@ -1277,7 +1312,10 @@
         }, {
             time: "July 8, 2019",
             event: "Prof. Wei Chen started his research group at USTC!"
-        }], Sa = va, Ca = {
+        }], 
+		
+		Sa = va, 
+		Ca = {
             name: "Home", components: {ColumnTitle: ua, Publication: Oa}, data: function () {
                 return {carousel: [Kn.a, Qn.a, ea.a], events: Sa, publications: na}
             }
@@ -1288,7 +1326,8 @@
         Object(a["pushScopeId"])("data-v-46084462");
         var Wa = {class: "content"};
         Object(a["popScopeId"])();
-        var Ia = Na((function (e, t, n, o, i, r) {
+        
+		var Ia = Na((function (e, t, n, o, i, r) {
             var c = Object(a["resolveComponent"])("column-title"),
                 u = Object(a["resolveComponent"])("el-timeline-item"), l = Object(a["resolveComponent"])("el-timeline"),
                 s = Object(a["resolveComponent"])("el-backtop");
@@ -1307,7 +1346,9 @@
                     })), 128))]
                 })), _: 1
             }), Object(a["createVNode"])(s, {target: ".scrollbar .el-scrollbar__wrap", bottom: "200"})])
-        })), Ba = {
+        })), 
+		
+		Ba = {
             name: "News", components: {ColumnTitle: ua}, data: function () {
                 return {events: Sa}
             }
@@ -1328,10 +1369,11 @@
                     })), _: 2
                 }, 1040)], 64)
             })), 128)), Object(a["createVNode"])(l, {target: ".scrollbar .el-scrollbar__wrap", bottom: "200"})])
-        })), Pa = 0, Va = {
-            name: "Publications", components: {ColumnTitle: ua, Publication: Oa}, data: function () {
-                return {publications: na}
-            }, methods: {
+        })), 
+		
+		Pa = 0, Va = {
+            name: "Publications", components: {ColumnTitle: ua, Publication: Oa}, data: function () { return {publications: na} }, 
+		methods: {
                 showYear: function (e) {
                     return e !== Pa && (Pa = e, !0)
                 }
@@ -1341,7 +1383,8 @@
         Va.render = Aa, Va.__scopeId = "data-v-6d62ccc2";
         var Ha = Va, Za = Object(a["withScopeId"])("data-v-ca1d286a");
         Object(a["pushScopeId"])("data-v-ca1d286a");
-        var Ya = {class: "content"},
+        
+		var Ya = {class: "content"},
             Da = Object(a["createVNode"])("div", {class: "group-title"}, "Principal Investigator", -1),
             _a = {class: "info"}, Ja = {class: "column"},
             Fa = Object(a["createStaticVNode"])('<span class="row name" data-v-ca1d286a>Wei Chen</span><span class="row name-cn" data-v-ca1d286a>陈维</span><a href="mailto:weichen1@ustc.edu.cn" class="row" data-v-ca1d286a>weichen1@ustc.edu.cn</a><a href="https://scholar.google.com/citations?hl=en&amp;user=8QDJgikAAAAJ" target="_blank" class="row" data-v-ca1d286a>Google Scholar</a><a class="row" href="http://applchem.ustc.edu.cn/2018/0607/c15402a388964/page.htm" target="_blank" data-v-ca1d286a> Department of Applied Chemistry Page </a><a class="row" href="http://www.hfnl.ustc.edu.cn/detail?id=16124" target="_blank" data-v-ca1d286a> Hefei National Laboratory for Physical Sciences at the Microscale Page </a>', 6),
@@ -1807,11 +1850,13 @@
             var c = Object(a["resolveComponent"])("ColumnTitle"),
                 u = Object(a["resolveComponent"])("el-descriptions-item"),
                 l = Object(a["resolveComponent"])("el-descriptions");
-            return Object(a["openBlock"])(), Object(a["createBlock"])("div", Yi, [Object(a["createVNode"])(c, {title: "Contact"}), Object(a["createVNode"])(l, {
+            return Object(a["openBlock"])(), Object(a["createBlock"])("div", Yi, [Object(a["createVNode"])(c, {title: "Contact"}), Object(a["createVNode"])(l, 
+                {
                 title: "Professor Wei Chen",
                 column: "1",
                 border: ""
-            }, {
+                }, 
+            {
                 default: Zi((function () {
                     return [Object(a["createVNode"])(u, {label: "Department"}, {
                         default: Zi((function () {
@@ -1866,20 +1911,18 @@
         })), tr = {name: "Contact", components: {ColumnTitle: ua}};
         n("b04d");
         tr.render = er, tr.__scopeId = "data-v-4b4802b4";
-        var nr = tr, ar = [{path: "/", redirect: "/Home"}, {path: "/Home", name: "Home", component: ka}, {
-                path: "/News",
-                name: "News",
-                component: wa
-            }, {path: "/Research", name: "Research", component: Hi}, {
-                path: "/Publications",
-                name: "Publications",
-                component: Ha
-            }, {path: "/Members", name: "Members", component: Ni}, {
-                path: "/Openings",
-                name: "Openings",
-                component: nr
-            }, {path: "/Contact", name: "Contact", component: Ki}],
-            or = Object(Fn["a"])({history: Object(Fn["b"])(), routes: ar}), ir = or,
+        
+		
+		var nr = tr, ar = 
+			[{path: "/", redirect: "/Home"}, 
+			{path: "/Home", name: "Home", component: ka}, 
+			{path: "/News", name: "News", component: wa}, 
+			{path: "/Research", name: "Research", component: Hi}, 
+			{path: "/Publications", name: "Publications", component: Ha},
+			{path: "/Members", name: "Members", component: Ni},
+			{path: "/Openings", name: "Openings", component: nr}, 
+			{path: "/Contact", name: "Contact", component: Ki},],
+			or = Object(Fn["a"])({history: Object(Fn["b"])(), routes: ar}), ir = or,
             rr = Object(a["withScopeId"])("data-v-643016c6"), cr = rr((function (e, t, n, o, i, r) {
                 return Object(a["openBlock"])(), Object(a["createBlock"])("svg", {
                     ref: "svg",
@@ -1900,8 +1943,7 @@
                     iconName: function () {
                         return "#icon-".concat(this.iconClass)
                     }, svgClass: function () {
-                        return this.className ? "svg-icon " + this.className : "svg-icon"
-                    }
+                        return this.className ? "svg-icon " + this.className : "svg-icon"}
                 }
             };
         n("bfd5");
