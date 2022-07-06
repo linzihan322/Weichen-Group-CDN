@@ -342,7 +342,7 @@
 			
 			
 			Object(a["createVNode"])(l1, {
-			    title: "Gallery (under constraction)",
+			    title: "Gallery (under construction)",
 			    link: null
 			}), 
 
@@ -1387,7 +1387,7 @@
 		var Ya = {class: "content"},
             Da = Object(a["createVNode"])("div", {class: "group-title"}, "Principal Investigator", -1),
             _a = {class: "info"}, Ja = {class: "column"},
-            Fa = Object(a["createStaticVNode"])('<span class="row name" data-v-ca1d286a>Wei Chen</span><span class="row name-cn" data-v-ca1d286a>陈维</span><a href="mailto:weichen1@ustc.edu.cn" class="row" data-v-ca1d286a>weichen1@ustc.edu.cn</a><a href="https://scholar.google.com/citations?hl=en&amp;user=8QDJgikAAAAJ" target="_blank" class="row" data-v-ca1d286a>Google Scholar</a><a class="row" href="http://applchem.ustc.edu.cn/2018/0607/c15402a388964/page.htm" target="_blank" data-v-ca1d286a> Department of Applied Chemistry Page </a><a class="row" href="http://www.hfnl.ustc.edu.cn/detail?id=16124" target="_blank" data-v-ca1d286a> Hefei National Laboratory for Physical Sciences at the Microscale Page </a>', 6),
+            Fa = Object(a["createStaticVNode"])('<span class="row name" data-v-ca1d286a>Wei Chen</span><span class="row name-cn" data-v-ca1d286a>陈维</span><a href="mailto:weichen1@ustc.edu.cn" class="row" data-v-ca1d286a>weichen1@ustc.edu.cn</a><a href="https://scholar.google.com/citations?hl=en&amp;user=8QDJgikAAAAJ" target="_blank" class="row" data-v-ca1d286a>Google Scholar</a><a class="row" href="http://applchem.ustc.edu.cn/2018/0607/c15402a388964/page.htm" target="_blank" data-v-ca1d286a> Department of Applied Chemistry Page </a><a class="row" href="http://www.hfnl.ustc.edu.cn/detail?id=16124" target="_blank" data-v-ca1d286a> Hefei National Research Center for Physical Sciences at the Microscale Page </a>', 6),
             Ta = {class: "time-table"}, Ga = Object(a["createVNode"])("div", {class: "group-title"}, "Postdocs", -1),
             Ra = Object(a["createVNode"])("div", {class: "group-title"}, "Ph.D. Students", -1),
             Ea = Object(a["createVNode"])("div", {class: "group-title"}, "M.S. Students", -1),
@@ -1537,7 +1537,7 @@
             }, {
                 name: "刘双",
                 name_en: "Shuang Liu",
-                email: "519152106@qq.com",
+                email: "shuangliu2021@mail.ustc.edu.cn",
                 identity: "Ph.D. Student",
                 year: 2021,
                 photo: Io.a,
@@ -1601,7 +1601,7 @@
             }, {
                 name: "谢泽辉",
                 name_en: "Zehui Xie",
-                email: "1228617442@qq.com",
+                email: "xiezh@mail.ustc.edu.cn",
                 identity: "M.S. Student",
                 year: 2021,
                 photo: To.a,
