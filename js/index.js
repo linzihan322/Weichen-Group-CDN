@@ -56,7 +56,12 @@
     for (var l = 0; l < c.length; l++) t(c[l]);
     var s = u;
     i.push([0, "chunk-vendors"]), n()
-})({
+})
+
+
+// photo number
+
+({
     0: function (e, t, n) {
         e.exports = n("56d7")
     }, "00e1": function (e, t, n) {
@@ -70,6 +75,18 @@
         e.exports = n.p + "img/Kui Xu.jpg"
     }, "001d": function (e, t, n) {
         e.exports = n.p + "img/Ziqi Zhang.jpg"
+		
+	}, "001e": function (e, t, n) {
+	    e.exports = n.p + "img/Yirui Ma.jpg"
+	}, "001f": function (e, t, n) {
+	    e.exports = n.p + "img/Li Song.jpg"
+	}, "001g": function (e, t, n) {
+	    e.exports = n.p + "img/Yuancheng Feng.jpg"
+	}, "001h": function (e, t, n) {
+	    e.exports = n.p + "img/Linxiang Li.jpg"
+	}, "001i": function (e, t, n) {
+	    e.exports = n.p + "img/Shuyang Wei.jpg"
+	
 
     }, "0010": function (e, t, n) {
         e.exports = n.p + "img/Jinghao Chen.jpg"
@@ -352,12 +369,61 @@
 			])])
         })), 
 		
-
+		
+		//paper list
 		
 		zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), 
 		
 		ta = [
             {
+                title: "Rechargeable Batteries for Grid Scale Energy Storage",
+                author: "Zhengxin Zhu#, Taoli Jiang#, Mohsin Ali#, Yahan Meng, Yang Jin, Yi Cui, Wei Chen*",
+                year: 2022,
+                journal: "Chemical Reviews",
+                volumn: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1021/acs.chemrev.2c00289"
+            },{
+                title: "Descriptor-Driven Computational Design of Bifunctional Double-Atom Hydrogen Evolution and Oxidation Reaction Electrocatalysts for Rechargeable Hydrogen Gas Batteries",
+                author: "Zaichun Liu, Jinlong Yang*, Faxing Wang, Yuan Yuan, Taoli Jiang, Zhengxin Zhu, Ke Li, Shuang Liu, Kai Zhang, Weiping Wang, Mingyan Chuai, Jifei Sun, Yuping Wu*, Wei Chen*, ",
+                year: 2022,
+                journal: "Nano Letters",
+                volumn: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1021/acs.nanolett.2c02569"
+            },{
+                title: "In-situ dynamic construction of copper-tin-sulfide catalyst for high-performance electrochemical CO2 conversion to formate",
+                author: "Ke Li, Jingwen Xu, Tingting Zheng, Yuan Yuan, Shuang Liu, Chunyue Shen, Taoli Jiang, Jifei Sun, Zaichun Liu, Yan Xu, Mingyan Chuai, Chuan Xia*, Wei Chen*",
+                year: 2022,
+                journal: "ACS Catalysis",
+                volumn: "12",
+                issue: "16",
+                pages: "9922-9932",
+                doi: "https://doi.org/10.1021/acscatal.2c02627"
+            },{
+                title: "Electrochemical CO2 Reduction to C2+ Products Using Cu-Based Electrocatalysts: A Review",
+                author: "Touqeer Ahmad, Shuang Liu, Muhammad Sajid, Ke Li, Mohsin Ali, Liang Liu, Wei Chen*",
+                year: 2022,
+                journal: "Nano Research Energy",
+                volumn: "1",
+                issue: "",
+                pages: "e9120021",
+                doi: "https://doi.org/10.26599/NRE.2022.9120021"
+            },{
+                title: "Theory-Driven Design of Cationic Accelerator for High-Performance Electrolytic MnO2-Zn Batteries",
+                author: "Mingyan Chuai, Jinlong Yang*, Rui Tan, Zaichun Liu, Yuan Yuan, Yan Xu, Jifei Sun, Mingming Wang, Xinhua Zheng, Na Chen, Wei Chen*",
+                year: 2022,
+                journal: "Advanced Materials",
+                volumn: "34",
+                issue: "",
+                pages: "2203249",
+                doi: "https://doi.org/10.1002/adma.202203249"
+            },
+			
+			
+			{
                 title: "Production of a hybrid capacitive storage device via hydrogen gas and carbon electrodes coupling",
                 author: "Zhengxin Zhu#, Zaichun Liu#, Yichen Yin, Yuan Yuan, Yahan Meng, Taoli Jiang, Qia Peng, Weiping Wang, Wei Chen*",
                 year: 2022,
@@ -411,18 +477,18 @@
             author: "Yan Xu, Zaichun Liu, Xinhua Zheng, Ke Li, Mingming Wang, Wei Yu, Hanlin Hu*, Wei Chen*",
             year: 2022,
             journal: "Advanced Energy Materials",
-            volumn: "2103352",
+            volumn: "12",
             issue: "",
-            pages: "1-9",
+            pages: "2103352",
             doi: "https://doi.org/10.1002/aenm.202103352"
         },{
             title: "A proton-barrier separator induced via Hofmeister effect for high-performance electrolytic MnO2-Zn batteries",
             author: "Yuan Yuan, Jinlong Yang*, Zaichun Liu, Rui Tan, Mingyan Chuai, Jifei Sun, Yan Xu, Xinhua Zheng, Mingming Wang, Touqeer Ahmad, Na Chen, Zhengxin Zhu, Ke Li, Wei Chen*",
             year: 2022,
             journal: "Advanced Energy Materials",
-            volumn: "2103705",
+            volumn: "12",
             issue: "",
-            pages: "1-9",
+            pages: "2103705",
             doi: "https://doi.org/10.1002/aenm.202103705"
         },{
             title: "Recent advances in solid-liquid-gas three-phase interfaces in electrocatalysis for energy conversion and storage",
@@ -467,9 +533,9 @@
             author: "Zhengxin Zhu, Weiping Wang, Yichen Yin, Yahan Meng, Zaichun Liu, Taoli Jiang, Qia Peng, Jifei Sun, Wei Chen*",
             year: 2021,
             journal: "Journal of the American Chemical Society",
-            volumn: "",
-            issue: "",
-            pages: "",
+            volumn: "143",
+            issue: "48",
+            pages: "20302–20308",
             doi: "https://doi.org/10.1021/jacs.1c09529"
         }, {
             title: "Multifunctional Nickel-Cobalt Phosphates for High-Performance Hydrogen Gas Batteries and Self-Powered Water Splitting",
@@ -1152,10 +1218,31 @@
                 }
             }
         });
-        n("5ef3");
+        
+		
+		//News list
+		
+		n("5ef3");
         ja.render = ya, ja.__scopeId = "data-v-27f795e3";
         var Oa = ja, va = [
         {
+            time: "September 23, 2022",
+            event: 'Our review paper entitled "Rechargeable Batteries for Grid Scale Energy Storage" was published in Chemical Reviews. Congratulations to Zhengxin, Taoli and Ali!'
+        },{
+            time: "September 27, 2022",
+            event: 'Our research paper entitled "Descriptor-Driven Computational Design of Bifunctional Double-Atom Hydrogen Evolution and Oxidation Reaction Electrocatalysts for Rechargeable Hydrogen Gas Batteries" was published in Nano Letters. Congratulations to Zaichun!'
+        },{
+            time: "August 24, 2022",
+            event: 'Our invited review paper entitled "Electrochemical CO2 Reduction to C2+ Products Using Cu-Based Electrocatalysts: A Review" was published in Nano Research Energy. Congratulations to Ahmad!'
+        },{
+            time: "August 1, 2022",
+            event: 'Our research paper entitled "In Situ Dynamic Construction of a Copper Tin Sulfide Catalyst for High-Performance Electrochemical CO2 Conversion to Formate" was published in ACS Catalysis. Congratulations to Ke!'
+        },{
+            time: "June 29, 2022",
+            event: 'Our research paper entitled "Theory-Driven Design of Cationic Accelerator for High-Performance Electrolytic MnO2-Zn Batteries" was published in Advanced Materials. Congratulations to Mingyan!'
+        },
+		
+		{
             time: "May 19, 2022",
             event: 'Our research paper entitled "Production of a hybrid capacitive storage device via hydrogen gas and carbon electrodes coupling" was published in Nature Communications. Congratulations to Zhengxin!'
         },{
@@ -1417,7 +1504,11 @@
                     return Object(a["openBlock"])(), Object(a["createBlock"])(u, Object(a["mergeProps"])({key: t}, e), null, 16)
                 })), 128)), Object(a["createVNode"])(l, {target: ".scrollbar .el-scrollbar__wrap", bottom: "200"})])
             })), qa = (n("4de4"), n("b4ce")), Qa = n.n(qa), 
-            $a = n("1895"), eo = n.n($a), to = n("a37c"), no = n.n(to), ao = n("24c4"), oo = n.n(ao), io = n("abf9"), ro = n.n(io), 
+            
+			
+			//member photo
+			
+			$a = n("1895"), eo = n.n($a), to = n("a37c"), no = n.n(to), ao = n("24c4"), oo = n.n(ao), io = n("abf9"), ro = n.n(io), 
             co = n("58d5"), uo = n.n(co), lo = n("cc7a"), so = n.n(lo), ho = n("a614"), po = n.n(ho), go = n("99b3"), mo = n.n(go),
             fo = n("021a"), bo = n.n(fo), yo = n("5338"), jo = n.n(yo), Oo = n("f1dc"), vo = n.n(Oo), So = n("559b"), Co = n.n(So), 
             ko = n("1040"), No = n.n(ko), Wo = n("9c54"), Io = n.n(Wo), Bo = n("1558"), wo = n.n(Bo), Lo = n("3d76"), xo = n.n(Lo),
@@ -1425,21 +1516,28 @@
             _o = n("e51d"), Jo = n.n(_o), Fo = n("c344"), To = n.n(Fo), Go = n("0313"), Ro = n.n(Go), Eo = n("0c7d"), Xo = n.n(Eo), 
             Uo = n("67ea"), zo = n.n(Uo), Ko = n("afd7"), qo = n.n(Ko), Qo = n("6bfc"), $o = n.n(Qo), 
             
-            eb = n("001a"), tb = n.n(eb), nb = n("001b"), ab = n.n(nb), ob = n("001c"), ib = n.n(ob),rb = n("001d"), cb = n.n(rb),
+            eb = n("001a"), tb = n.n(eb), 
+			nb = n("001b"), ab = n.n(nb), 
+			ob = n("001c"), ib = n.n(ob),
+			rb = n("001d"), cb = n.n(rb), //Ziqi Zhang
+			
+			ub = n("001e"), lb = n.n(ub),//Yirui Ma
+			sb = n("001f"), hb = n.n(sb), 
+			pb = n("001g"), gb = n.n(pb),
+			fb = n("001h"), bb = n.n(fb),
+			yb = n("001i"), jb = n.n(yb),//Shuyang Wei
             
+			// Member list
+			
+			
             ei = n("e9f6"), ti = n.n(ei), 
             ni = n("eb7d"), ai = n.n(ni), oi = n("fa29"), ii = n.n(oi),
             ri = n("f134"), ci = n.n(ri), ui = n("fe89"), li = n.n(ui), 
             si = n("1cb8"), di = n.n(si), hi = [
-            {
-                name: "李科",
-                name_en: "Ke Li",
-                email: "kelee@ustc.edu.cn",
-                identity: "Postdoc",
-                year: "",
-                photo: eo.a,
-                duration: ""
-            },{
+            
+			//postdoc
+			
+			{
                 name: "刘再春",
                 name_en: "Zaichun Liu",
                 email: "liuzaichun@ustc.edu.cn",
@@ -1479,14 +1577,29 @@
                 photo: so.a,
                 duration: ""
             }, {
+                name: "王晓阳",
+                name_en: "Xiaoyang Wang",
+                email: "xiaoyangw@ustc.edu.cn",
+                identity: "Postdoc",
+                year: "",
+                photo: tb.a,
+                duration: ""
+            }, {
                 name: "朱正新",
                 name_en: "Zhengxin Zhu",
                 email: "zzxalf@mail.ustc.edu.cn",
-                identity: "Ph.D. Student",
-                year: 2019,
+                identity: "Postdoc",
+                year: "",
                 photo: po.a,
                 duration: ""
-            }, {
+            }, 
+			 
+			
+			
+			//PhD
+			
+			
+			{
                 name: "蒋涛立",
                 name_en: "Taoli Jiang",
                 email: "jiangtl@mail.ustc.edu.cn",
@@ -1545,12 +1658,34 @@
             }, {
                 name: "张凯",
                 name_en: "Kai Zhang",
-                email: "aguaizk0216@163.com",
+                email: "kaizhang0812@mail.ustc.edu.cn",
                 identity: "Ph.D. Student",
                 year: 2021,
                 photo: wo.a,
                 duration: ""
             }, {
+			    name: "王卫平",
+			    name_en: "Weiping Wang",
+			    email: "wwp2018@mail.ustc.edu.cn",
+			    identity: "Ph.D. Student",
+			    year: "2022",
+			    photo: ai.a,
+			    duration: ""
+			}, {
+			     name: "马毅睿",
+			     name_en: "Yirui Ma",
+			     email: "yirui_ma@mail.ustc.edu.cn",
+			     identity: "Ph.D. Student",
+			     year: "2022",
+			     photo: lb.a,
+			     duration: ""
+			 },
+			
+			
+			//MS
+			
+			
+			{
                 name: "孟亚寒",
                 name_en: "Yahan Meng",
                 email: "yahanmeng@mail.ustc.edu.cn",
@@ -1615,6 +1750,115 @@
                 photo: Ro.a,
                 duration: ""
             }, {
+			     name: "宋莉",
+			     name_en: "Li Song",
+			     email: "lilysongsong@mail.ustc.edu.cn",
+			     identity: "M.S. Student",
+			     year: "2021",
+			     photo: hb.a,
+			     duration: ""
+			 }, {
+                name: "骆睿昊",
+                name_en: "Ruihao Luo",
+                email: "nobeen@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2022,
+                photo: qo.a,
+                duration: ""
+            }, {
+			     name: "刘虹序",
+			     name_en: "Hongxu Liu",
+			     email: "liuhongxu@mail.ustc.edu.cn",
+			     identity: "M.S. Student",
+			     year: "2022",
+			     photo: ab.a,
+			     duration: ""
+			 }, {
+			     name: "冯元宬",
+			     name_en: "Yuancheng Feng",
+			     email: "fengyuancheng@mail.ustc.edu.cn",
+			     identity: "M.S. Student",
+			     year: "2022",
+			     photo: gb.a,
+			     duration: ""
+			 },
+			
+			
+			//Visiting or under
+			 
+			 {
+			     name: "徐葵",
+			     name_en: "Kui Xu",
+			     email: "51204700080@stu.ecnu.edu.cn",
+			     identity: "Visiting Scholar",
+			     year: "2022",
+			     photo: ib.a,
+			     duration: ""
+			 },{
+			     name: "张子奇",
+			     name_en: "Ziqi Zhang",
+			     email: "zq2100075534@mail.ustc.edu.cn",
+			     identity: "Undergraduate",
+			     year: "2020",
+			     photo: cb.a,
+			     duration: ""
+			 },
+			 
+			 {
+			     name: "李林相",
+			     name_en: "Linxiang Li",
+			     email: "lilinxiang1204@mail.ustc.edu.cn",
+			     identity: "Undergraduate",
+			     year: "2020",
+			     photo: bb.a,
+			     duration: ""
+			 },{
+			     name: "魏舒扬",
+			     name_en: "Shuyang Wei",
+			     email: "wsy2002220@mail.ustc.edu.cn",
+			     identity: "Undergraduate",
+			     year: "2020",
+			     photo: jb.a,
+			     duration: ""
+			 },
+			
+			
+						
+			// Alumni
+			
+			{
+			    name: "李科",
+			    name_en: "Ke Li",
+			    email: "kelee@ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "",
+			    photo: eo.a,
+			    duration: "2020.07-2022.07"
+			}, {
+			    name: "朱正新",
+			    name_en: "Zhengxin Zhu",
+			    email: "zzxalf@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "2019",
+			    photo: po.a,
+			    duration: "2019.07-2022.07"
+			}, {
+			    name: "王卫平",
+			    name_en: "Weiping Wang",
+			    email: "wwp2018@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "",
+			    photo: ai.a,
+			    duration: "2021.10-2022.08"
+			}, {
+                name: "明芳望",
+                name_en: "Fangwang Ming",
+                email: "fangwang.ming@kaust.edu.sa",
+                identity: "Alumni",
+                year: "",
+                photo: ci.a,
+                duration: "2019.10-2020.1"
+            }, {
                 name: "江浩松",
                 name_en: "Haosong Jiang",
                 email: "chemy_jiang@mail.ustc.edu.cn",
@@ -1631,14 +1875,14 @@
                 photo: zo.a,
                 duration: "2019.8-2021.9"
             }, {
-                name: "骆睿昊",
-                name_en: "Ruihao Luo",
-                email: "nobeen@mail.ustc.edu.cn",
-                identity: "Undergraduate",
-                year: 2018,
-                photo: qo.a,
-                duration: ""
-            }, {
+			    name: "骆睿昊",
+			    name_en: "Ruihao Luo",
+			    email: "nobeen@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: 2018,
+			    photo: qo.a,
+			    duration: "2019.10-2022.08"
+			}, {
                 name: "梁东升",
                 name_en: "Dongsheng Liang",
                 email: "liangdongsheng@mail.ustc.edu.cn",
@@ -1662,23 +1906,7 @@
                 year: 2019,
                 photo: di.a,
                 duration: "2021.6-2022.3"
-            }, {
-                name: "王卫平",
-                name_en: "Weiping Wang",
-                email: "wwp2018@mail.ustc.edu.cn",
-                identity: "Visiting Scholar",
-                year: 2021,
-                photo: ai.a,
-                duration: ""
-            }, {
-                name: "明芳望",
-                name_en: "Fangwang Ming",
-                email: "fangwang.ming@kaust.edu.sa",
-                identity: "Alumni",
-                year: "",
-                photo: ci.a,
-                duration: "2019.10-2020.1"
-            }, {
+            },{
                 name: "李一民",
                 name_en: "Yimin Li",
                 email: "libby_cn@mail.ustc.edu.cn",
@@ -1696,39 +1924,6 @@
                 duration: "2021.6-2021.8"
             },
 
-            {
-                name: "王晓阳",
-                name_en: "Xiaoyang Wang",
-                email: "xiaoyangw@ustc.edu.cn",
-                identity: "Postdoc",
-                year: "",
-                photo: tb.a,
-                duration: ""
-            },{
-                name: "刘虹序",
-                name_en: "Hongxu Liu",
-                email: "lhxtju@163.com",
-                identity: "Visiting Scholar",
-                year: "2022",
-                photo: ab.a,
-                duration: ""
-            },{
-                name: "徐葵",
-                name_en: "Kui Xu",
-                email: "51204700080@stu.ecnu.edu.cn",
-                identity: "Visiting Scholar",
-                year: "2022",
-                photo: ib.a,
-                duration: ""
-            },{
-                name: "张子奇",
-                name_en: "Ziqi Zhang",
-                email: "zq2100075534@mail.ustc.edu.cn",
-                identity: "Undergraduate",
-                year: "2020",
-                photo: cb.a,
-                duration: ""
-            }
                      
         ], pi = hi, gi = Object(a["withScopeId"])("data-v-73efe385");
         Object(a["pushScopeId"])("data-v-73efe385");
