@@ -59,14 +59,101 @@
 })
 
 
-// photo number
+// photo-number
 
 ({
     0: function (e, t, n) {
         e.exports = n("56d7")
+		
+	
     }, "00e1": function (e, t, n) {
         e.exports = n.p + "img/Cover3.jpg"
-    
+    }, 19703: function (e, t, n) {
+        e.exports = n.p + "img/research.png"
+    }, b6f7: function (e, t, n) {
+        e.exports = n.p + "img/ustc.png"
+    }, bdf3: function (e, t, n) {
+        e.exports = n.p + "img/logo3.png"
+	}, "7d75": function (e, t, n) {
+        e.exports = n.p + "img/Cover2.jpg"
+	}, "99da": function (e, t, n) {
+        e.exports = n.p + "img/Cover1-group2022.jpg"
+	
+	
+	}, b4ce: function (e, t, n) {
+        e.exports = n.p + "img/Dr.Wei Chen.jpg"	
+	
+	
+	}, "58d5": function (e, t, n) {
+        e.exports = n.p + "img/Jifei Sun.jpg"
+	}, "67ea": function (e, t, n) {
+        e.exports = n.p + "img/Zihan Lin.jpg"
+    }, "6bfc": function (e, t, n) {
+        e.exports = n.p + "img/Dongsheng Liang.jpg"
+	}, "97f2": function (e, t, n) {
+        e.exports = n.p + "img/Chunyue Shen.jpg"
+    }, "99b3": function (e, t, n) {
+        e.exports = n.p + "img/Taoli Jiang.jpg"
+	}, a37c: function (e, t, n) {
+        e.exports = n.p + "img/Zaichun Liu.jpg"
+    }, "9c54": function (e, t, n) {
+        e.exports = n.p + "img/Shuang Liu.jpg"
+	}, "0010": function (e, t, n) {
+        e.exports = n.p + "img/Jinghao Chen.jpg"
+    }, "021a": function (e, t, n) {
+        e.exports = n.p + "img/Xinhua Zheng.jpg"
+    }, "0313": function (e, t, n) {
+        e.exports = n.p + "img/Jingwen Xu.jpg"
+    }, "0c7d": function (e, t, n) {
+        e.exports = n.p + "img/Haosong Jiang.jpg"
+	}, 1040: function (e, t, n) {
+        e.exports = n.p + "img/Mingming Wang.jpg"
+    }, 1558: function (e, t, n) {
+        e.exports = n.p + "img/Kai Zhang.jpg"
+    }, 1895: function (e, t, n) {
+        e.exports = n.p + "img/Ke Li.jpg"
+    }, "1cb8": function (e, t, n) {
+        e.exports = n.p + "img/Ruize Ma.jpg"
+    }, "24c4": function (e, t, n) {
+        e.exports = n.p + "img/Mingyan Chuai.jpg"
+    }, "3d76": function (e, t, n) {
+        e.exports = n.p + "img/Yahan Meng.jpg"
+	}, 5338: function (e, t, n) {
+        e.exports = n.p + "img/Mohsin Ali.jpg"
+    }, "559b": function (e, t, n) {
+        e.exports = n.p + "img/Muhammad Sajid.jpg"
+	}, "43fc": function (e, t, n) {
+        e.exports = n.p + "img/Sunhyeong Park.jpg"
+	}, a614: function (e, t, n) {
+        e.exports = n.p + "img/Zhengxin Zhu.jpg"
+    }, abf9: function (e, t, n) {
+        e.exports = n.p + "img/Yuan Yuan.jpg"
+    }, afd7: function (e, t, n) {
+        e.exports = n.p + "img/Ruihao Luo.jpg"
+    }, c344: function (e, t, n) {
+        e.exports = n.p + "img/Zehui Xie.jpg"
+    }, cc7a: function (e, t, n) {
+        e.exports = n.p + "img/Yan Xu.jpg"
+	}, e51d: function (e, t, n) {
+        e.exports = n.p + "img/Qia Peng.jpg"
+    }, e9f6: function (e, t, n) {
+        e.exports = n.p + "img/Jingchen Zhou.jpg"
+    }, eb7d: function (e, t, n) {
+        e.exports = n.p + "img/Weiping Wang.jpg"
+    }, f134: function (e, t, n) {
+        e.exports = n.p + "img/Fangwang Ming.jpg"
+    }, f13f: function (e, t, n) {
+        e.exports = n.p + "img/Na Chen.jpg"
+    }, f1dc: function (e, t, n) {
+        e.exports = n.p + "img/Touqeer Ahmad.jpg"
+    }, fa29: function (e, t, n) {
+        e.exports = n.p + "img/Yimin Li.jpg"
+    }, fe89: function (e, t, n) {
+        e.exports = n.p + "img/Kai Zheng.jpg"
+		
+	
+		
+	//202206
     }, "001a": function (e, t, n) {
         e.exports = n.p + "img/Xiaoyang Wang.jpg"
     }, "001b": function (e, t, n) {
@@ -76,6 +163,9 @@
     }, "001d": function (e, t, n) {
         e.exports = n.p + "img/Ziqi Zhang.jpg"
 		
+		
+		
+	//20220802
 	}, "001e": function (e, t, n) {
 	    e.exports = n.p + "img/Yirui Ma.jpg"
 	}, "001f": function (e, t, n) {
@@ -86,55 +176,51 @@
 	    e.exports = n.p + "img/Linxiang Li.jpg"
 	}, "001i": function (e, t, n) {
 	    e.exports = n.p + "img/Shuyang Wei.jpg"
+		
 	
-
-    }, "0010": function (e, t, n) {
-        e.exports = n.p + "img/Jinghao Chen.jpg"
-    }, "021a": function (e, t, n) {
-        e.exports = n.p + "img/Xinhua Zheng.jpg"
-    }, "0313": function (e, t, n) {
-        e.exports = n.p + "img/Jingwen Xu.jpg"
-    }, "0972": function (e, t, n) {
+	
+	//20230211
+    }, "001j": function (e, t, n) {
+	    e.exports = n.p + "img/Dongyang Shen.jpg"
+    }, "001k": function (e, t, n) {
+	    e.exports = n.p + "img/Mingying Zhang.jpg"
+    }, "001l": function (e, t, n) {
+	    e.exports = n.p + "img/Nawab Khan.jpg"
+    }, "001m": function (e, t, n) {
+	    e.exports = n.p + "img/Zuodong Zhang.jpg"
+    }, "001n": function (e, t, n) {
+	    e.exports = n.p + "img/Zhen Pan.jpg"
+    
+	
+    // photo link number
+   
+    
+		
+	}, 3932: function (e, t, n) {
+	}, "0972": function (e, t, n) {
         "use strict";
         n("7adf")
-    }, "0c7d": function (e, t, n) {
-        e.exports = n.p + "img/Haosong Jiang.jpg"
     }, "0d15": function (e, t, n) {
         "use strict";
         n("f946")
-    }, 1040: function (e, t, n) {
-        e.exports = n.p + "img/Mingming Wang.jpg"
-    }, 1558: function (e, t, n) {
-        e.exports = n.p + "img/Kai Zhang.jpg"
-    }, "168c": function (e, t, n) {
+	}, "168c": function (e, t, n) {
         "use strict";
         n("9f95")
-    }, 1895: function (e, t, n) {
-        e.exports = n.p + "img/Ke Li.jpg"
-    }, 19703: function (e, t, n) {
-        e.exports = n.p + "img/research.png"
-    }, "1cb8": function (e, t, n) {
-        e.exports = n.p + "img/Ruize Ma.jpg"
-    }, "24c4": function (e, t, n) {
-        e.exports = n.p + "img/Mingyan Chuai.jpg"
-    }, 3932: function (e, t, n) {
-    }, "3d76": function (e, t, n) {
-        e.exports = n.p + "img/Yahan Meng.jpg"
-    }, "3dfe": function (e, t, n) {
+	}, "3dfe": function (e, t, n) {
     }, "425b": function (e, t, n) {
         "use strict";
         n("f963")
-    }, "43fc": function (e, t, n) {
-        e.exports = n.p + "img/Sunhyeong Park.jpg"
-    }, "4dde": function (e, t, n) {
+	}, "4dde": function (e, t, n) {
         "use strict";
         n("526d")
     }, 5174: function (e, t, n) {
     }, "526d": function (e, t, n) {
-    }, 5338: function (e, t, n) {
-        e.exports = n.p + "img/Mohsin Ali.jpg"
-    }, "559b": function (e, t, n) {
-        e.exports = n.p + "img/Muhammad Sajid.jpg"
+    
+		
+		
+		
+		
+		
     }, "56d7": function (e, t, n) {
         "use strict";
         n.r(t);
@@ -169,7 +255,7 @@
                         mode: "horizontal",
                         "background-color": "#ffffff",
                         "text-color": "#005BAA",
-                        "active-text-color": "#1E90FF",
+                        "active-text-color": "#006ACA",
                         router: "true"
                     }, {
                         default: u((function () {
@@ -357,11 +443,12 @@
                 })), _: 1
             }),
 			
-			
+			/*
 			Object(a["createVNode"])(l1, {
 			    title: "Gallery (under construction)",
 			    link: null
 			}), 
+			*/
 
             
 
@@ -374,31 +461,112 @@
 		
 		zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), 
 		
-		ta = [
+		ta = [ //paper list
+            
+			
+			//20230211
             {
+                title: "Constructing robust heterostructured interface for anode-free zinc batteries with ultrahigh capacities",
+                author: "Xinhua Zheng#, Zaichun Liu#, Jifei Sun, Ruihao Luo, Kui Xu, Mingyu Si, Ju Kang, Yuan Yuan, Shuang Liu, Touqeer Ahmad, Taoli Jiang, Na Chen, Mingming Wang, Yan Xu, Mingyan Chuai, Zhengxin Zhu, Qia Peng, Yahan Meng, Kai Zhang, Weiping Wang, Wei Chen*",
+                year: 2023,
+                journal: "Nature Communications",
+                volume: "14",
+                issue: "",
+                pages: "76",
+                doi: "https://doi.org/10.1038/s41467-022-35630-6"
+            },{
+                title: "pH-Universal Decoupled Water Electrolysis Enabled by Electrocatalytic Hydrogen Gas Capacitive Chemistry",
+                author: "Zhengxin Zhu, Taoli Jiang, Jifei Sun, Zaichun Liu, Zehui Xie, Shuang Liu, Yahan Meng, Qia Peng, Weiping Wang, Kai Zhang, Hongxu Liu, Yuan Yuan, Ke Li, Wei Chen*",
+                year: 2023,
+                journal: "JACS Au",
+                volume: "",
+                issue: "",
+                pages: "in press",
+                doi: "https://pubs.acs.org/doi/10.1021/jacsau.2c00624 "
+            },{
+                title: "Crystal facet correlated Zn growth on Cu for aqueous Zn metal batteries",
+                author: "Mingming Wang#, Weiping Wang#, Yahan Meng, Yan Xu, Jifei Sun, Yuan Yuan, Mingyan Chuai, Na Chen, Xinhua Zheng, Ruihao Luo, Kui Xu, Wei Chen*",
+                year: 2023,
+                journal: "Energy Storage Materials",
+                volume: "56",
+                issue: "",
+                pages: "424-431",
+                doi: "https://doi.org/10.1016/j.ensm.2023.01.026"
+            },{
+                title: "Ultralow-Temperature Aqueous Conductive Polymer-Hydrogen Gas Battery",
+                author: "Qia Peng, Zhengxin Zhu, Taoli Jiang, Zaichun Liu, Yahan Meng, Shuang Liu, Yuan Yuan, Kai Zhang, Zehui Xie, Xinhua Zheng, Jingwen Xu, Wei Chen*",
+                year: 2023,
+                journal: "ACS Applied Materials & Interfaces",
+                volume: "15",
+                issue: "1",
+                pages: "1021-1028",
+                doi: "https://pubs.acs.org/doi/10.1021/acsami.2c17486"
+            },{
+                title: "High-Capacity Zinc Anode with 96% Utilization Rate Enabled by Solvation Structure Design",
+                author: "Mingming Wang#, Jiale Ma#, Yahan Meng#, Jifei Sun, Yuan Yuan, Mingyan Chuai, Na Chen, Yan Xu, Xinhua Zheng, Zhenyu Li*, Wei Chen*",
+                year: 2023,
+                journal: "Angewandte Chemie International Edition",
+                volume: "62",
+                issue: "",
+                pages: "e202214966",
+                doi: "https://doi.org/10.1002/anie.202214966"
+            },{
+                title: "Scalable Production of Hydrogen Evolution Corrosion Resistant Zn-Al Alloy Anode for Electrolytic MnO2/Zn Batteries",
+                author: "Jifei Sun, Xinhua Zheng, Ke Li, Gang Ma, Ting Dai, Boyuan Ban, Yuan Yuan, Mingming Wang, Mingyan Chuai, Yan Xu, Zaichun Liu, Taoli Jiang, Zhengxin Zhu, Jian Chen*, Hanlin Hu*, Wei Chen*",
+                year: 2022,
+                journal: "Energy Storage Materials",
+                volume: "",
+                issue: "54",
+                pages: "570-578",
+                doi: "https://doi.org/10.1016/j.ensm.2022.10.059"
+            },{
+                title: "Proton Trapping Agent for Mitigating Hydrogen Evolution Corrosion of Zn for Electrolytic MnO2/Zn Battery",
+                author: "Jifei Sun, Zaichun Liu, Ke Li, Yuan Yuan, Xinhua Zheng, Yan Xu, Mingming Wang, Mingyan Chuai, Hanlin Hu*, Wei Chen*",
+                year: 2022,
+                journal: "ACS Applied Materials & Interfaces",
+                volume: "14",
+                issue: "46",
+                pages: "51900-51909",
+                doi: "https://pubs.acs.org/doi/10.1021/acsami.2c14370"
+            },{
+                title: "Surface Oxygen-Rich Bi@C Nanoparticles for High-Efficiency Electroreduction of CO2 to Formate",
+                author: "Shuang Liu#, Yanpeng Fan#, Ying Wang, Song Jin, Machuan Hou, Wenjiang Zeng, Ke Li, Taoli Jiang, Lang Qin, Zhenhua Yan, Zhanliang Tao, Xinhua Zheng, Chunyue Shen, Zaichun Liu, Touqeer Ahmad, Kai Zhang*, Wei Chen*",
+                year: 2022,
+                journal: "Nano Letters",
+                volume: "22",
+                issue: "22",
+                pages: "9107-9114",
+                doi: "https://doi.org/10.1021/acs.nanolett.2c03573"
+            },
+			
+			
+			
+			
+			//20220802
+			{
                 title: "Rechargeable Batteries for Grid Scale Energy Storage",
                 author: "Zhengxin Zhu#, Taoli Jiang#, Mohsin Ali#, Yahan Meng, Yang Jin, Yi Cui, Wei Chen*",
                 year: 2022,
                 journal: "Chemical Reviews",
-                volumn: "",
-                issue: "",
-                pages: "",
+                volume: "122",
+                issue: "22",
+                pages: "16610–16751",
                 doi: "https://doi.org/10.1021/acs.chemrev.2c00289"
             },{
                 title: "Descriptor-Driven Computational Design of Bifunctional Double-Atom Hydrogen Evolution and Oxidation Reaction Electrocatalysts for Rechargeable Hydrogen Gas Batteries",
                 author: "Zaichun Liu, Jinlong Yang*, Faxing Wang, Yuan Yuan, Taoli Jiang, Zhengxin Zhu, Ke Li, Shuang Liu, Kai Zhang, Weiping Wang, Mingyan Chuai, Jifei Sun, Yuping Wu*, Wei Chen*, ",
                 year: 2022,
                 journal: "Nano Letters",
-                volumn: "",
-                issue: "",
-                pages: "",
+                volume: "22",
+                issue: "19",
+                pages: "7860–7866",
                 doi: "https://doi.org/10.1021/acs.nanolett.2c02569"
             },{
                 title: "In-situ dynamic construction of copper-tin-sulfide catalyst for high-performance electrochemical CO2 conversion to formate",
                 author: "Ke Li, Jingwen Xu, Tingting Zheng, Yuan Yuan, Shuang Liu, Chunyue Shen, Taoli Jiang, Jifei Sun, Zaichun Liu, Yan Xu, Mingyan Chuai, Chuan Xia*, Wei Chen*",
                 year: 2022,
                 journal: "ACS Catalysis",
-                volumn: "12",
+                volume: "12",
                 issue: "16",
                 pages: "9922-9932",
                 doi: "https://doi.org/10.1021/acscatal.2c02627"
@@ -407,7 +575,7 @@
                 author: "Touqeer Ahmad, Shuang Liu, Muhammad Sajid, Ke Li, Mohsin Ali, Liang Liu, Wei Chen*",
                 year: 2022,
                 journal: "Nano Research Energy",
-                volumn: "1",
+                volume: "1",
                 issue: "",
                 pages: "e9120021",
                 doi: "https://doi.org/10.26599/NRE.2022.9120021"
@@ -416,7 +584,7 @@
                 author: "Mingyan Chuai, Jinlong Yang*, Rui Tan, Zaichun Liu, Yuan Yuan, Yan Xu, Jifei Sun, Mingming Wang, Xinhua Zheng, Na Chen, Wei Chen*",
                 year: 2022,
                 journal: "Advanced Materials",
-                volumn: "34",
+                volume: "34",
                 issue: "",
                 pages: "2203249",
                 doi: "https://doi.org/10.1002/adma.202203249"
@@ -428,7 +596,7 @@
                 author: "Zhengxin Zhu#, Zaichun Liu#, Yichen Yin, Yuan Yuan, Yahan Meng, Taoli Jiang, Qia Peng, Weiping Wang, Wei Chen*",
                 year: 2022,
                 journal: "Nature Communications",
-                volumn: "13",
+                volume: "13",
                 issue: "",
                 pages: "2805",
                 doi: "https://doi.org/10.1038/s41467-022-30450-0"
@@ -437,7 +605,7 @@
             author: "Xinhua Zheng#, Ruihao Luo#, Touqeer Ahmad, Jifei Sun, Shuang Liu, Na Chen, Mingming Wang, Yuan Yuan, Mingyan Chuai, Yan Xu, Taoli Jiang, Wei Chen*",
             year: 2022,
             journal: "Energy & Environmental Materials",
-            volumn: "",
+            volume: "",
             issue: "",
             pages: "in press",
             doi: "https://doi.org/10.1002/eem2.12433 "
@@ -446,7 +614,7 @@
             author: "Zening Li#, Taoli Jiang#, Mohsin Ali, Chengxu Wu, Wei Chen*",
             year: 2022,
             journal: "Energy Storage Materials",
-            volumn: "50",
+            volume: "50",
             issue: "",
             pages: "105-138",
             doi: "https://doi.org/10.1016/j.ensm.2022.04.038"
@@ -455,16 +623,16 @@
             author: "Mingming Wang#, Yahan Meng#, Ke Li#, Touqeer Ahmad, Na Chen, Yan Xu, Jifei Sun, Mingyan Chuai, Xinhua Zheng, Yuan Yuan, Chunyue Shen, Ziqi Zhang, Wei Chen*",
             year: 2022,
             journal: "eScience",
-            volumn: "",
-            issue: "",
-            pages: "in press",
+            volume: "2",
+            issue: "5",
+            pages: "509-517",
             doi: "https://doi.org/10.1016/j.esci.2022.04.003"
         },{
             title: "Nucleophilic interfacial layer enables stable Zn anode for aqueous Zn batteries",
             author: "Yan Xu, Xinhua Zheng, Jifei Sun, Mingyan Chuai, Mingming Wang, Yuan Yuan, Na Chen, Hanlin Hu*, Wei Chen*",
             year: 2022,
             journal: "Nano Letters",
-            volumn: "22",
+            volume: "22",
             issue: "8",
             pages: "3298-3306",
             doi: "https://doi.org/10.1021/acs.nanolett.2c00398"
@@ -477,7 +645,7 @@
             author: "Yan Xu, Zaichun Liu, Xinhua Zheng, Ke Li, Mingming Wang, Wei Yu, Hanlin Hu*, Wei Chen*",
             year: 2022,
             journal: "Advanced Energy Materials",
-            volumn: "12",
+            volume: "12",
             issue: "",
             pages: "2103352",
             doi: "https://doi.org/10.1002/aenm.202103352"
@@ -486,7 +654,7 @@
             author: "Yuan Yuan, Jinlong Yang*, Zaichun Liu, Rui Tan, Mingyan Chuai, Jifei Sun, Yan Xu, Xinhua Zheng, Mingming Wang, Touqeer Ahmad, Na Chen, Zhengxin Zhu, Ke Li, Wei Chen*",
             year: 2022,
             journal: "Advanced Energy Materials",
-            volumn: "12",
+            volume: "12",
             issue: "",
             pages: "2103705",
             doi: "https://doi.org/10.1002/aenm.202103705"
@@ -495,7 +663,7 @@
             author: "Haosong Jiang#, Ruihao Luo#, Yiming Li#, Wei Chen*",
             year: 2022,
             journal: "EcoMat",
-            volumn: "e12199",
+            volume: "e12199",
             issue: "",
             pages: "",
             doi: "http://doi.org/10.1002/eom2.12199"
@@ -504,7 +672,7 @@
             author: "Taoli Jiang, Ke Li, Sunhyeong Park, Kai Zheng, Yahan Meng, Yuan Yuan, Zaichun Liu, Zhengxin Zhu, Xinhua Zheng, Shuang Liu, Wei Chen*",
             year: 2022,
             journal: "Nano Letters",
-            volumn: "22",
+            volume: "22",
             issue: "4",
             pages: "1741-1749",
             doi: "https://pubs.acs.org/doi/10.1021/acs.nanolett.1c04940"
@@ -513,7 +681,7 @@
             author: "Ke Li, Shengbo Zhang, Xiuli Zhang, Shuang Liu, Haosong Jiang, Taoli Jiang, Chunyue Shen, Yi Yu, Wei Chen*",
             year: 2022,
             journal: "Nano Letters",
-            volumn: "22",
+            volume: "22",
             issue: "4",
             pages: "1557-1565",
             doi: "https://pubs.acs.org/doi/10.1021/acs.nanolett.1c04382"
@@ -522,7 +690,7 @@
             author: "Yan Xu, Jiale Ma, Taoli Jiang, Weiping Wang, Mingming Wang, Xinhua Zheng, Jifei Sun, Yuan Yuan, Mingyan Chuai, Na Chen, Zhenyu Li*, Hanlin Hu*, Wei Chen*",
             year: 2022,
             journal: "Energy Storage Materials",
-            volumn: "47",
+            volume: "47",
             issue: "",
             pages: "113-121",
             doi: "https://doi.org/10.1016/j.ensm.2022.01.060"
@@ -533,7 +701,7 @@
             author: "Zhengxin Zhu, Weiping Wang, Yichen Yin, Yahan Meng, Zaichun Liu, Taoli Jiang, Qia Peng, Jifei Sun, Wei Chen*",
             year: 2021,
             journal: "Journal of the American Chemical Society",
-            volumn: "143",
+            volume: "143",
             issue: "48",
             pages: "20302–20308",
             doi: "https://doi.org/10.1021/jacs.1c09529"
@@ -542,7 +710,7 @@
             author: "Yahan Meng, Mingming Wang, Zhengxin Zhu, Taoli Jiang, Zaichun Liu, Na Chen, Chunyue Shen, Wei Chen*",
             year: 2021,
             journal: "ACS Applied Energy Materials",
-            volumn: "4",
+            volume: "4",
             issue: "11",
             pages: "12927-12934",
             doi: "https://doi.org/10.1021/acsaem.1c02582"
@@ -551,8 +719,8 @@
             author: "Mingyan Chuai, Jinlong Yang*, Mingming Wang, Yuan Yuan, Zaichun Liu, Yan Xu, Jifei Sun, Xinhua Zheng, Na Chen, Wei Chen*",
             year: 2021,
             journal: "eScience",
-            volumn: "1",
-            issue: "",
+            volume: "1",
+            issue: "2",
             pages: "178-185",
             doi: "https://doi.org/10.1016/j.esci.2021.11.002"
         }, {
@@ -560,7 +728,7 @@
             author: "Taoli Jiang, Wei Chen*",
             year: 2021,
             journal: "Current Opinion in Electrochemistry",
-            volumn: "30",
+            volume: "30",
             issue: "",
             pages: "100859",
             doi: "https://doi.org/10.1016/j.coelec.2021.100859"
@@ -569,7 +737,7 @@
             author: "Xinhua Zheng, Yongchao Wang, Yan Xu, Touqeer Ahmad, Yuan Yuan, Jifei Sun, Ruihao Luo, Mingming Wang, Wei Chen*",
             year: 2021,
             journal: "Nano Letters",
-            volumn: "21",
+            volume: "21",
             issue: "20",
             pages: "8863-8871",
             doi: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03319 "
@@ -578,7 +746,7 @@
             author: "Mingming Wang#, Yahan Meng#, Na Chen, Mingyan Chuai, Chunyue Shen, Xinhua Zheng, Yuan Yuan, Jifei Sun, Yan Xu, Wei Chen*",
             year: 2021,
             journal: "ACS Materials Letters",
-            volumn: "3",
+            volume: "3",
             issue: "11",
             pages: "1558-1565",
             doi: "https://pubs.acs.org/doi/10.1021/acsmaterialslett.1c00480"
@@ -587,7 +755,7 @@
             author: "Mingming Wang, Na Chen, Zhengxin Zhu, Yahan Meng, Chunyue Shen, Xinhua Zheng, Dongsheng Liang, Wei Chen*",
             year: 2021,
             journal: "Small",
-            volumn: "17",
+            volume: "17",
             issue: "",
             pages: "2103921",
             doi: "https://doi.org/10.1002/smll.202103921"
@@ -596,7 +764,7 @@
             author: "Zhengxin Zhu, Yahan Meng, Yichen Yin, Zaichun Liu, Taoli Jiang, Qia Peng, Teng Yin, Mengyao Li, Wei Chen*",
             year: 2021,
             journal: "Energy Storage Materials",
-            volumn: "42",
+            volume: "42",
             issue: "",
             pages: "464-469",
             doi: "https://doi.org/10.1016/j.ensm.2021.07.050"
@@ -607,7 +775,7 @@
             author: "Zhengxin Zhu, Yahan Meng, Yi Cui, Wei Chen*",
             year: 2021,
             journal: "Advanced Functional Materials",
-            volumn: "",
+            volume: "",
             issue: "",
             pages: "2101024",
             doi: "https://doi.org/10.1002/adfm.202101024"
@@ -616,7 +784,7 @@
             author: "Xinhua Zheng, Touqeer Ahmad, Wei Chen*",
             year: 2021,
             journal: "Energy Storage Materials",
-            volumn: "39",
+            volume: "39",
             issue: "",
             pages: "365-394",
             doi: "https://doi.org/10.1016/j.ensm.2021.04.027"
@@ -625,7 +793,7 @@
             author: "Ke Li, Wei Chen*",
             year: 2021,
             journal: "Materials Today Energy",
-            volumn: "",
+            volume: "",
             issue: "20",
             pages: "100638",
             doi: "https://doi.org/10.1016/j.mtener.2021.100638"
@@ -634,7 +802,7 @@
             author: "Mingming Wang, Xinhua Zheng, Xiang Zhang, Dongliang Chao, Shi-Zhang Qiao, Husam N. Alshareef, Yi Cui*, Wei Chen*",
             year: 2021,
             journal: "Advanced Energy Materials",
-            volumn: "11",
+            volume: "11",
             issue: "5",
             pages: "2002904",
             url: "<Go to ISI>://WOS:000600499100001",
@@ -644,7 +812,7 @@
             author: "Zhengxin Zhu, Yahan Meng, Mingming Wang, Yichen Yin, Wei Chen*",
             year: 2021,
             journal: "Materials Today Energy",
-            volumn: "19",
+            volume: "19",
             issue: "",
             pages: "100603",
             url: "",
@@ -654,7 +822,7 @@
             author: "Zhengxin Zhu, Xiang Zhang, Mingming Wang, Wei Chen*",
             year: 2021,
             journal: "Chemical Journal of Chinese Universities",
-            volumn: "42",
+            volume: "42",
             issue: "2",
             pages: "1-9",
             url: "",
@@ -664,7 +832,7 @@
             author: "Kristian Dubrawski, Sungguen Woo, Wei Chen, Xing Xie, Yi Cui*, Craig S. Criddle*",
             year: 2020,
             journal: "Environmental Science & Technology",
-            volumn: "54",
+            volume: "54",
             issue: "22",
             pages: "14732-14739",
             url: "<Go to ISI>://WOS:000592863400060",
@@ -674,7 +842,7 @@
             author: "Haiyan Mao#, Jing Tang#, Jun Xu, Yucan Peng, Jun Chen, Bing Wu, Yuanwen Jiang, Kaipeng Hou, Shuo Chen, Jiangyan Wang, Hye Ryoung Lee, David M. Halat, Bing Zhang, Wei Chen, Ariel Z. Plantz, Zhiyi Lu, Yi Cui*, Jeffrey A. Reimer*",
             year: 2020,
             journal: "Matter",
-            volumn: "3",
+            volume: "3",
             issue: "6",
             pages: "2093-2107",
             url: "<Go to ISI>://WOS:000598228500008",
@@ -684,7 +852,7 @@
             author: "Zhengxin Zhu, Mingming Wang, Yahan Meng, Zihan Lin, Yi Cui*, Wei Chen*",
             year: 2020,
             journal: "Nano Letters",
-            volumn: "20",
+            volume: "20",
             issue: "5",
             pages: "3278-3283",
             url: "<Go to ISI>://WOS:000535255300044",
@@ -694,7 +862,7 @@
             author: "Guodong Li#, Wei Chen#, Hao Zhang#, Yongji Gong, Feifei Shi, Jiangyan Wang, Rufan Zhang, Guangxu Chen, Yang Jin, Tong Wu, Zhiyong Tang, Yi Cui*",
             year: 2020,
             journal: "Advanced Energy Materials",
-            volumn: "10",
+            volume: "10",
             issue: "9",
             pages: "1902085",
             url: "<Go to ISI>://WOS:000510226100001",
@@ -704,7 +872,7 @@
             author: "Yun-Pei Zhu, Jun Yin, Edy Abou-Hamad, Xiaokang Liu, Wei Chen, Tao Yao, Omar F. Mohammed, and Husam N. Alshareef*",
             year: 2020,
             journal: "Advanced Materials",
-            volumn: "32",
+            volume: "32",
             issue: "16",
             pages: "1906368",
             url: "<Go to ISI>://WOS:000529881300031",
@@ -714,7 +882,7 @@
             author: "Yan Xu, Shuyang Zhao, Guangmin Zhou, Wei Chen, Fei Zhou, Ze Rong, Yang Wu, Jia Li, Jinghua Guo*, Yuegang Zhang*",
             year: 2020,
             journal: "ACS Applied Energy Materials",
-            volumn: "3",
+            volume: "3",
             issue: "3",
             pages: "2278-2284",
             url: "<Go to ISI>://WOS:000526598300027",
@@ -724,7 +892,7 @@
             author: "Hongxia Wang#, Yan-Kai Tzeng#, Yongfei Ji#, Yanbin Li, Jun Li, Xueli Zheng, Ankun Yang, Yayuan Liu, Yongji Gong, Lili Cai, Yuzhang Li, Xiaokun Zhang, Wei Chen, Bofei Liu, Haiyu Lu, Nicholas A. Melosh, Zhi-Xun Shen, Karen Chan*, Tianwei Tan*, Steven Chu*, Yi Cui*",
             year: 2020,
             journal: "Nature Nanotechnology",
-            volumn: "15",
+            volume: "15",
             issue: "",
             pages: "131-137",
             url: "",
@@ -734,7 +902,7 @@
             author: "Yecun Wu, Stefan Ringe, Chun-Lan Wu, Wei Chen, Ankun Yang, Hao Chen, Michael Tang, Guangmin Zhou, Harold Y. Hwang, Karen Chan*, Yi Cui*",
             year: 2019,
             journal: "Nano Letters",
-            volumn: "19",
+            volume: "19",
             issue: "10",
             pages: "7293-7300",
             url: "<Go to ISI>://WOS:000490353500074",
@@ -744,7 +912,7 @@
             author: "Hongxia Wang#, Zheng Liang#*, Michael Tang#, Guangxu Chen, Yanbin Li, Wei Chen, Dingchang Lin, Zewen Zhang, Guangmin Zhou, Jun Li, Zhiyi Lu, Karen Chan*, Tianwei Tan*, Yi Cui*",
             year: 2019,
             journal: "Joule",
-            volumn: "3",
+            volume: "3",
             issue: "8",
             pages: "1927-1936",
             url: "<Go to ISI>://WOS:000482204600015",
@@ -754,7 +922,7 @@
             author: "Jiayu Wan#, Jin Xie#, Xian Kong, Zhe Liu, Kai Liu, Feifei Shi, Allen Pei, Hao Chen, Wei Chen, Jun Chen, Xiaokun Zhang, Linqi Zong, Jiangyan Wang, Long-Qing Chen, Jian Qin, Yi Cui*",
             year: 2019,
             journal: "Nature Nanotechnology",
-            volumn: "14",
+            volume: "14",
             issue: "7",
             pages: "705-711",
             url: "<Go to ISI>://WOS:000473760300023",
@@ -764,7 +932,7 @@
             author: "Yangying Zhu#, Jin Xie#, Allen Pei, Bofei Liu, Yecun Wu, Dingchang Lin, Jun Li, Hansen Wang, Hao Chen, Jinwei Xu, Ankun Yang, Chun-Lan Wu, Hongxia Wang, Wei Chen, Yi Cui*",
             year: 2019,
             journal: "Nature Communications",
-            volumn: "10",
+            volume: "10",
             issue: "1",
             pages: "2067",
             url: "<Go to ISI>://WOS:000466871300003",
@@ -774,7 +942,7 @@
             author: "Jiangyan Wang, Lei Liao, HyeRyoung Lee, Feifei Shi, William Huang, Jie Zhao, Allen Pei, Jing Tang, Xueli Zheng, Wei Chen, Yi Cui*",
             year: 2019,
             journal: "Nano Energy",
-            volumn: "61",
+            volume: "61",
             issue: "",
             pages: "404-410",
             url: "<Go to ISI>://WOS:000471201800048",
@@ -784,7 +952,7 @@
             author: "Jun Li, Yangying Zhu, Wei Chen, Zhiyi Lu, Jinwei Xu, Allen Pei, Yucan Peng, Xueli Zheng, Zewen Zhang, Steven Chu, Yi Cui*",
             year: 2019,
             journal: "Joule",
-            volumn: "3",
+            volume: "3",
             issue: "2",
             pages: "557-569",
             url: "<Go to ISI>://WOS:000460076100021",
@@ -794,7 +962,7 @@
             author: "Wei Chen#, Guodong Li#, Allen Pei, Yuzhang Li, Lei Liao, Hongxia Wang, Jiayu Wan, Zheng Liang, Guangxu Chen, Hao Zhang, Jiangyan Wang, Yi Cui*",
             year: 2018,
             journal: "Nature Energy",
-            volumn: "3",
+            volume: "3",
             issue: "5",
             pages: "428-435",
             url: "<Go to ISI>://WOS:000433029700018",
@@ -804,7 +972,7 @@
             author: "Wei Chen, Yang Jin, Jie Zhao, Nian Liu, Yi Cui*",
             year: 2018,
             journal: "Proceedings of the National Academy of Sciences of the United States of America",
-            volumn: "115",
+            volume: "115",
             issue: "46",
             pages: "11694-11699",
             url: "<Go to ISI>://WOS:000449934400032",
@@ -814,7 +982,7 @@
             author: "Guangmin Zhou#, Kai Liu#, Yanchen Fan#, Mengqi Yuan, Bofei Liu, Wei Liu, Feifei Shi, Yayuan Liu, Wei Chen, Jeffrey Lopez, Denys Zhuo, Jie Zhao, Yuchi Tsao, Xuanyi Huang, Qianfan Zhang*, Yi Cui*",
             year: 2018,
             journal: "ACS Central Science",
-            volumn: "4",
+            volume: "4",
             issue: "2",
             pages: "260-267",
             url: "<Go to ISI>://WOS:000426613700018",
@@ -824,7 +992,7 @@
             author: "Hongjie Tang#, Wei Chen#, Jiangyan Wang, Thomas Dugger, Luz Cruz, David Kisailus*",
             year: 2018,
             journal: "Small",
-            volumn: "14",
+            volume: "14",
             issue: "11",
             pages: "1703459",
             url: "<Go to ISI>://WOS:000427592400010",
@@ -834,7 +1002,7 @@
             author: "Rufan Zhang, Bofei Liu, Ankun Yang, Yangying Zhu, Chong Liu, Guangmin Zhou, Jie Sun, Po-Chun Hsu, Wenting Zhao, Dingchang Lin, Yayuan Liu, Allen Pei, Jin Xie, Wei Chen, Jinwei Xu, Yang Jin, Tong Wu, Xuanyi Huang, Yi Cui*",
             year: 2018,
             journal: "Nano Letters",
-            volumn: "18",
+            volume: "18",
             issue: "2",
             pages: "1130-1138",
             url: "<Go to ISI>://WOS:000425559700068",
@@ -844,7 +1012,7 @@
             author: "Yang Jin#, Guangmin Zhou#, Feifei Shi, Denys Zhuo, Jie Zhao, Kai Liu, Yayuan Liu, Chenxi Zu, Wei Chen, Rufan Zhang, Xuanyi Huang, Yi Cui*",
             year: 2017,
             journal: "Nature Communications",
-            volumn: "8",
+            volume: "8",
             issue: "",
             pages: "462",
             url: "<Go to ISI>://WOS:000409458000016",
@@ -854,7 +1022,7 @@
             author: "Guangmin Zhou, Jie Sun, Yang Jin, Wei Chen, Chenxi Zu, Rufan Zhang, Yongcai Qiu, Jie Zhao, Denys Zhuo, Yayuan Liu, Xinyong Tao, Wei Liu, Hye Ryoung Lee, Yi Cui*",
             year: 2017,
             journal: "Advanced Materials",
-            volumn: "29",
+            volume: "29",
             issue: "12",
             pages: "1603366",
             url: "<Go to ISI>://WOS:000396998800001",
@@ -864,7 +1032,7 @@
             author: "Dingchang Lin, Yayuan Liu, Wei Chen, Guangmin Zhou, Kai Liu, Bruce S Dunn, Yi Cui*",
             year: 2017,
             journal: "Nano Letters",
-            volumn: "17",
+            volume: "17",
             issue: "6",
             pages: "3731-3737",
             url: "<Go to ISI>://WOS:000403631600060",
@@ -874,7 +1042,7 @@
             author: "Wei Chen, Yayuan Liu, Yuzhang Li, Jie Sun, Yongcai Qiu, Chong Liu, Guangmin  Zhou, Yi Cui*",
             year: 2016,
             journal: "Nano Letters",
-            volumn: "16",
+            volume: "16",
             issue: "12",
             pages: "7588-7596",
             url: "<Go to ISI>://WOS:000389963200040",
@@ -884,7 +1052,7 @@
             author: "Yongcai Qiu#, Wei Liu#, Wei Chen#, Wei Chen#, Guangmin Zhou, Po-Chun Hsu, Rufan Zhang, Zheng Liang, Shoushan Fan, Yuegang Zhang*, Yi Cui*",
             year: 2016,
             journal: "Science Advances",
-            volumn: "2",
+            volume: "2",
             issue: "6",
             pages: "1501764",
             url: "<Go to ISI>://WOS:000380073800012",
@@ -894,7 +1062,7 @@
             author: "Sanghan Lee, Gyutae Nam, Jie Sun, Jang-Soo Lee, Hyun‐Wook Lee, Wei Chen, Jaephil Cho*, Yi Cui*",
             year: 2016,
             journal: "Angewandte Chemie-International Edition",
-            volumn: "55",
+            volume: "55",
             issue: "30",
             pages: "8599-8604",
             url: "<Go to ISI>://WOS:000383253500018",
@@ -904,7 +1072,7 @@
             author: "Jang-Soo Lee, Gyutae Nam, Jie Sun, Shougo Higashi, Hyun‐Wook Lee, Sanghan Lee, Wei Chen, Yi Cui*, Jaephil Cho*",
             year: 2016,
             journal: "Advanced Energy Materials",
-            volumn: "6",
+            volume: "6",
             issue: "22",
             pages: "1601052",
             url: "<Go to ISI>://WOS:000388993100007",
@@ -914,7 +1082,7 @@
             author: "Wei Chen, Haotian Wang, Yuzhang Li, Yayuan Liu, Jie Sun, Sanghan Lee, Jangsoo Lee, Yi Cui*",
             year: 2015,
             journal: "ACS Central Science",
-            volumn: "1",
+            volume: "1",
             issue: "5",
             pages: "244-251",
             url: "<Go to ISI>://WOS:000365968800007",
@@ -924,7 +1092,7 @@
             author: "Wei Chen, Chuan Xia, H. N. Alshareef*",
             year: 2015,
             journal: "Nano Energy",
-            volumn: "15",
+            volume: "15",
             issue: "",
             pages: "1-8",
             url: "<Go to ISI>://WOS:000364578900001",
@@ -934,7 +1102,7 @@
             author: "Chuan Xia#, Wei Chen#, H. N. Alshareef*",
             year: 2015,
             journal: "Advanced Energy Materials",
-            volumn: "5",
+            volume: "5",
             issue: "8",
             pages: "1401805",
             url: "<Go to ISI>://WOS:000353357600003",
@@ -944,7 +1112,7 @@
             author: "Yayuan Liu, Haotian Wang, Dingchang Lin, Chong Liu, Po-chun Hsu, Wei Liu, Wei Chen, Yi Cui*",
             year: 2015,
             journal: "Energy & Environmental Science",
-            volumn: "8",
+            volume: "8",
             issue: "6",
             pages: "1719-1724",
             url: "<Go to ISI>://WOS:000355985700011",
@@ -954,7 +1122,7 @@
             author: "Wei Chen, Chuan Xia, H. N. Alshareef*",
             year: 2014,
             journal: "ACS Nano",
-            volumn: "8",
+            volume: "8",
             issue: "9",
             pages: "9531-9541",
             url: "<Go to ISI>://WOS:000342184400086",
@@ -964,7 +1132,7 @@
             author: "Wei Chen, R. B. Rakhi, Qingxiao Wang, M. N. Hedhili, H. N. Alshareef*",
             year: 2014,
             journal: "Advanced Functional Materials",
-            volumn: "24",
+            volume: "24",
             issue: "21",
             pages: "3130-3143",
             url: "<Go to ISI>://WOS:000337489400008",
@@ -974,7 +1142,7 @@
             author: "Wei Chen, Chuan Xia, R. B. Rakhi, H. N. Alshareef*",
             year: 2014,
             journal: "Journal of Power Sources",
-            volumn: "267",
+            volume: "267",
             issue: "",
             pages: "521-526",
             url: "<Go to ISI>://WOS:000339601800060",
@@ -984,7 +1152,7 @@
             author: "Wei Chen, R. B. Rakhi, M. N. Hedhili, H. N. Alshareef*",
             year: 2014,
             journal: "Journal of Materials Chemistry A",
-            volumn: "2",
+            volume: "2",
             issue: "15",
             pages: "5236-5243",
             url: "<Go to ISI>://WOS:000333101600010",
@@ -994,7 +1162,7 @@
             author: "R. B. Rakhi, Wei Chen, Mohamed Nejib Hedhili, Dongkyu Cha, H. N. Alshareef*",
             year: 2014,
             journal: "ACS Applied Materials & Interfaces",
-            volumn: "6",
+            volume: "6",
             issue: "6",
             pages: "4196-4206",
             url: "",
@@ -1004,7 +1172,7 @@
             author: "Nulati Yesibolati, Muhammad Shahid, Wei Chen, M. N. Hedhili, M. C. Reuter, F. M. Ross, H. N. Alshareef*",
             year: 2014,
             journal: "Small",
-            volumn: "10",
+            volume: "10",
             issue: "14",
             pages: "2849-2858",
             url: "<Go to ISI>://WOS:000340660900016",
@@ -1014,7 +1182,7 @@
             author: "Wei Chen, R. B. Rakhi, H. N. Alshareef*",
             year: 2013,
             journal: "Journal of Materials Chemistry A",
-            volumn: "1",
+            volume: "1",
             issue: "10",
             pages: "3315-3324",
             url: "<Go to ISI>://WOS:000314784000016",
@@ -1024,7 +1192,7 @@
             author: "Wei Chen, R. B. Rakhi, H. N. Alshareef*",
             year: 2013,
             journal: "Nanoscale",
-            volumn: "5",
+            volume: "5",
             issue: "10",
             pages: "4134-4138",
             url: "<Go to ISI>://WOS:000318362400013",
@@ -1034,7 +1202,7 @@
             author: "Wei Chen, R. B. Rakhi, H. N. Alshareef*",
             year: 2013,
             journal: "Journal of Physical Chemistry C",
-            volumn: "117",
+            volume: "117",
             issue: "29",
             pages: "15009-15019",
             url: "<Go to ISI>://WOS:000322503600016",
@@ -1044,7 +1212,7 @@
             author: "Yaocai Bai, R. B. Rakhi, Wei Chen, H. N. Alshareef*",
             year: 2013,
             journal: "Journal of Power Sources",
-            volumn: "233",
+            volume: "233",
             issue: "",
             pages: "313-319",
             url: "<Go to ISI>://WOS:000316827000043",
@@ -1054,7 +1222,7 @@
             author: "R. B. Rakhi, Wei Chen, Dongkyu Cha, H. N. Alshareef*",
             year: 2013,
             journal: "Materials for Renewable and Sustainable Energy",
-            volumn: "2",
+            volume: "2",
             issue: "3-4",
             pages: "1-13",
             url: "<Go to ISI>://INSPEC:14347287",
@@ -1064,7 +1232,7 @@
             author: "Wei Chen, R. B. Rakhi, H. N. Alshareef*",
             year: 2012,
             journal: "Journal of Materials Chemistry",
-            volumn: "22",
+            volume: "22",
             issue: "29",
             pages: "14394-14402",
             url: "<Go to ISI>://WOS:000305966200013",
@@ -1074,7 +1242,7 @@
             author: "R. B. Rakhi, Wei Chen, Dongkyu Cha, H. N. Alshareef*",
             year: 2012,
             journal: "Nano Letters",
-            volumn: "12",
+            volume: "12",
             issue: "5",
             pages: "2559-2567",
             url: "<Go to ISI>://WOS:000303696400068",
@@ -1084,7 +1252,7 @@
             author: "R. B. Rakhi, Wei Chen, Dongkyu Cha, H. N. Alshareef*",
             year: 2012,
             journal: "Advanced Energy Materials",
-            volumn: "2",
+            volume: "2",
             issue: "3",
             pages: "381-389",
             url: "<Go to ISI>://WOS:000301427900014",
@@ -1094,7 +1262,7 @@
             author: "Xing Xie, Meng Ye, Liangbing Hu, Nian Liu, James R. McDonough, Wei Chen, H. N. Alshareef, Craig S. Criddle*, Yi Cui*",
             year: 2012,
             journal: "Energy & Environmental Science",
-            volumn: "5",
+            volume: "5",
             issue: "1",
             pages: "5265-5270",
             url: "<Go to ISI>://WOS:000299046100016",
@@ -1104,7 +1272,7 @@
             author: "R. B. Rakhi, Wei Chen, Dongkyu Cha, H. N. Alshareef*",
             year: 2012,
             journal: "Journal of Materials Chemistry",
-            volumn: "22",
+            volume: "22",
             issue: "11",
             pages: "5177-5183",
             url: "<Go to ISI>://WOS:000300571400086",
@@ -1114,7 +1282,7 @@
             author: "Wei Chen, R. B. Rakhi, Liangbing Hu, Xing Xie, Yi Cui, H. N. Alshareef*",
             year: 2011,
             journal: "Nano Letters",
-            volumn: "11",
+            volume: "11",
             issue: "12",
             pages: "5165-5172",
             url: "<Go to ISI>://WOS:000297950200012",
@@ -1124,7 +1292,7 @@
             author: "Liangbing Hu#, Wei Chen#, Xing Xie, Nian Liu, Yuan Yang, Hui Wu, Yan Yao, Mauro Pasta, H. N. Alshareef, Yi Cui*",
             year: 2011,
             journal: "ACS Nano",
-            volumn: "5",
+            volume: "5",
             issue: "11",
             pages: "8904-8913",
             url: "<Go to ISI>://WOS:000297143300051",
@@ -1134,7 +1302,7 @@
             author: "R. B. Rakhi, Wei Chen, Dongkyu Cha, H. N. Alshareef*",
             year: 2011,
             journal: "Journal of Materials Chemistry",
-            volumn: "21",
+            volume: "21",
             issue: "40",
             pages: "16197-16204",
             url: "<Go to ISI>://WOS:000295580800049",
@@ -1144,7 +1312,7 @@
             author: "R. B. Rakhi, Dongkyu Cha, Wei Chen, H. N. Alshareef*",
             year: 2011,
             journal: "Journal of Physical Chemistry C",
-            volumn: "115",
+            volume: "115",
             issue: "29",
             pages: "14392-14399",
             url: "<Go to ISI>://WOS:000292892500054",
@@ -1176,30 +1344,83 @@
             name: "ColumnTitle",
             props: {
                 title: {type: String, default: ""},
-                titleColor: {type: String, default: "black"},
+                titleColor: {type: String, default: "#002D56"},
                 link: {type: String, default: ""},
-                linkText: {type: String, default: "More"},
-                linkColor: {type: String, default: "#0094ff"},
-                splitLineColor: {type: String, default: "#0094ff"}
+                linkText: {type: String, default: "\xa0 More"},
+                linkColor: {type: String, default: "#3D94E2"},
+                splitLineColor: {type: String, default: "#3D94E2"}
             }
         };
         n("0d15");
         ca.render = ra, ca.__scopeId = "data-v-6e039567";
         var ua = ca, la = Object(a["withScopeId"])("data-v-27f795e3");
         Object(a["pushScopeId"])("data-v-27f795e3");
-        var sa = {key: 0}, da = {key: 1}, ha = {key: 2, class: "journal"}, pa = {key: 3}, ga = {key: 4}, ma = {key: 5},
-            fa = {key: 6}, ba = Object(a["createTextVNode"])("DOI: ");
+        
+
+
+        //paper format
+
+
+        var 
+        sa = {key: 0}, 
+        da = {key: 1}, 
+        ha = {key: 2, class: "journal"}, 
+        pa = {key: 3}, 
+        ga = {key: 4}, 
+        ma = {key: 5}, 
+        fa = {key: 6}, 
+        ba = Object(a["createTextVNode"])(" \n ");
         Object(a["popScopeId"])();
+        
+        
+       
+
         var ya = la((function (e, t, n, o, i, r) {
             return Object(a["openBlock"])(), Object(a["createBlock"])("p", null, [Object(a["renderSlot"])(e.$slots, "default", {}, void 0, !0), Object(a["createVNode"])("a", {
                 hidden: "",
                 herf: n.year
-            }, null, 8, ["herf"]), "" !== n.author ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", sa, Object(a["toDisplayString"])(n.author) + ", ", 1)) : Object(a["createCommentVNode"])("", !0), "" !== n.title ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", da, Object(a["toDisplayString"])(n.title) + ", ", 1)) : Object(a["createCommentVNode"])("", !0), "" !== n.journal ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", ha, Object(a["toDisplayString"])(n.journal), 1)) : Object(a["createCommentVNode"])("", !0), "" !== n.volume ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", pa, Object(a["toDisplayString"])(e.volumn), 1)) : Object(a["createCommentVNode"])("", !0), "" !== n.issue ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", ga, "(" + Object(a["toDisplayString"])(n.issue) + ")", 1)) : Object(a["createCommentVNode"])("", !0), "" !== n.pages ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", ma, ":" + Object(a["toDisplayString"])(n.pages) + ", ", 1)) : Object(a["createCommentVNode"])("", !0), Object(a["createTextVNode"])(" " + Object(a["toDisplayString"])(n.year) + ". ", 1), "" !== n.doi ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", fa, [ba, Object(a["createVNode"])("a", {
+            }, null, 8, ["herf"]),  
+            
+            ""!== n.author ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            sa, Object(a["toDisplayString"])(n.author) + ",\xa0", 1)) 
+            : Object(a["createCommentVNode"])("", !0),  
+            
+            ""!== n.title ? (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            da, Object(a["toDisplayString"])(n.title) + ", ", 1)) 
+            : Object(a["createCommentVNode"])("", !0),  
+            
+            ""!== n.journal ? 
+            (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            ha, Object(a["toDisplayString"])(n.journal) + ", ", 1)) 
+            : Object(a["createCommentVNode"])("", !0), Object(a["createTextVNode"])(" " + Object(a["toDisplayString"])(n.year) + ", ", 1),  
+            
+            ""!== n.volume ? 
+            (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            pa, Object(a["toDisplayString"])(e.volume)+ ", ", 1)) 
+            : Object(a["createCommentVNode"])("", !0),  
+            
+            ""!== n.issue ? 
+            (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            ga, Object(a["toDisplayString"])(n.issue) + ", ", 1)) 
+            : Object(a["createCommentVNode"])("", !0),  
+            
+            ""!== n.pages ? 
+            (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            ma, Object(a["toDisplayString"])(n.pages) + ". ", 1)) 
+            : Object(a["createCommentVNode"])("", !0),  
+            
+            ""!== n.doi ? 
+            (Object(a["openBlock"])(), Object(a["createBlock"])("span", 
+            fa, [ba, Object(a["createVNode"])("a", {
                 href: r.getDoi,
                 target: "_blank",
                 style: {"word-break": "break-word"}
-            }, Object(a["toDisplayString"])(r.getDoi), 9, ["href"])])) : Object(a["createCommentVNode"])("", !0)])
-        })), ja = (n("2ca0"), {
+            }, Object(a["toDisplayString"])(r.getDoi), 9, ["href"])])) 
+            : Object(a["createCommentVNode"])("", !0)])
+
+        })), 
+        
+        ja = (n("2ca0"), {
             name: "Publication",
             props: {
                 author: {type: String, default: ""},
@@ -1220,12 +1441,46 @@
         });
         
 		
+
+
 		//News list
 		
 		n("5ef3");
         ja.render = ya, ja.__scopeId = "data-v-27f795e3";
         var Oa = ja, va = [
+        
+			
+			
+		//20230211
         {
+            time: "January 24, 2023",
+            event: 'Our research paper entitled "pH-Universal Decoupled Water Electrolysis Enabled by Electrocatalytic Hydrogen Gas Capacitive Chemistry" was published in JACS Au. Congratulations to Zhengxin!'
+        },{
+            time: "January 16, 2023",
+            event: 'Our research paper entitled "Crystal facet correlated Zn growth on Cu for aqueous Zn metal batteries" was published in Energy Storage Materials. Congratulations to Mingming and Weiping!'
+        },{
+            time: "January 05, 2023",
+            event: 'Our research paper entitled "Constructing robust heterostructured interface for anode-free zinc batteries with ultrahigh capacities" was published in Nature Communications. Congratulations to Xinhua and Zaichun!'
+        },{
+            time: "December 21, 2022",
+            event: 'Our research paper entitled "Ultralow-Temperature Aqueous Conductive Polymer-Hydrogen Gas Battery" was published in ACS Applied Materials & Interfaces. Congratulations to Qia!'
+        },{
+            time: "November 10, 2022",
+            event: 'Our research paper entitled "Scalable production of hydrogen evolution corrosion resistant Zn-Al alloy anode for electrolytic MnO2/Zn batteries" was published in Energy Storage Materials. Congratulations to Jifei!'
+        },{
+            time: "November 8, 2022",
+            event: 'Our research paper entitled "Proton-Trapping Agent for Mitigating Hydrogen Evolution Corrosion of Zn for an Electrolytic MnO2/Zn Battery" was published in ACS Applied Materials & Interfaces. Congratulations to Jifei!'
+        },{
+            time: "November 5, 2022",
+            event: 'Our research paper entitled "High-Capacity Zinc Anode with 96 % Utilization Rate Enabled by Solvation Structure Design" was published in Angewandte Chemie International Edition. Congratulations to Mingming!'
+        },{
+            time: "November 1, 2022",
+            event: 'Our research paper entitled "Surface-Oxygen-Rich Bi@C Nanoparticles for High-Efficiency Electroreduction of CO2 to Formate" was published in Nano Letters. Congratulations to Shuang!'
+        },
+        
+                
+        //20220802    
+		{
             time: "September 23, 2022",
             event: 'Our review paper entitled "Rechargeable Batteries for Grid Scale Energy Storage" was published in Chemical Reviews. Congratulations to Zhengxin, Taoli and Ali!'
         },{
@@ -1515,28 +1770,533 @@
             Mo = n("f13f"), Ao = n.n(Mo), Po = n("97f2"), Vo = n.n(Po), Ho = n("43fc"), Zo = n.n(Ho), Yo = n("0010"), Do = n.n(Yo), 
             _o = n("e51d"), Jo = n.n(_o), Fo = n("c344"), To = n.n(Fo), Go = n("0313"), Ro = n.n(Go), Eo = n("0c7d"), Xo = n.n(Eo), 
             Uo = n("67ea"), zo = n.n(Uo), Ko = n("afd7"), qo = n.n(Ko), Qo = n("6bfc"), $o = n.n(Qo), 
-            
-            eb = n("001a"), tb = n.n(eb), 
-			nb = n("001b"), ab = n.n(nb), 
-			ob = n("001c"), ib = n.n(ob),
-			rb = n("001d"), cb = n.n(rb), //Ziqi Zhang
-			
-			ub = n("001e"), lb = n.n(ub),//Yirui Ma
-			sb = n("001f"), hb = n.n(sb), 
-			pb = n("001g"), gb = n.n(pb),
-			fb = n("001h"), bb = n.n(fb),
-			yb = n("001i"), jb = n.n(yb),//Shuyang Wei
-            
-			// Member list
-			
-			
             ei = n("e9f6"), ti = n.n(ei), 
             ni = n("eb7d"), ai = n.n(ni), oi = n("fa29"), ii = n.n(oi),
             ri = n("f134"), ci = n.n(ri), ui = n("fe89"), li = n.n(ui), 
-            si = n("1cb8"), di = n.n(si), hi = [
+            si = n("1cb8"), di = n.n(si), 
             
+			
+			//member photo number
+			
+			
+			//202206
+			eb = n("001a"), tb = n.n(eb), //Xiaoyang Wang
+			nb = n("001b"), ab = n.n(nb), //Hongxu Liu
+			ob = n("001c"), ib = n.n(ob), //Kui Xu
+			rb = n("001d"), cb = n.n(rb), //Ziqi Zhang
+			
+			
+			//20220802
+			ub = n("001e"), lb = n.n(ub), //Yirui Ma
+			sb = n("001f"), hb = n.n(sb), //Li Song
+			pb = n("001g"), gb = n.n(pb), //Yuancheng Feng
+			fb = n("001h"), bb = n.n(fb), //Linxiang Li
+			yb = n("001i"), jb = n.n(yb), //Shuyang Wei
+            
+			
+			//20230211
+            ac = n("001j"), bc = n.n(ac), //Dongyang Shen
+            cc = n("001k"), dc = n.n(cc), //Mingying Zhang
+            ec = n("001l"), fc = n.n(ec), //Nawab Khan
+            gc = n("001m"), hc = n.n(gc), //Zuodong Zhang
+            ic = n("001n"), jc = n.n(ic), //Zhen Pan
+            
+		
+			
+			/*
+            c = n("001"), c = n.n(c),
+            */
+			
+			
+			
+			
+			
+            
+			
+			
+            
+				
+			// Member list  - must be in right order	
+			
+			hi = [	
+			
 			//postdoc
 			
+				
+				
+			{
+                name: "刘再春",
+                name_en: "Zaichun Liu",
+                email: "liuzaichun@ustc.edu.cn",
+                identity: "Postdoc",
+                year: "",
+                photo: no.a
+            }, {
+                name: "王晓阳",
+                name_en: "Xiaoyang Wang",
+                email: "xiaoyangw@ustc.edu.cn",
+                identity: "Postdoc",
+                year: "",//2021.12
+                photo: tb.a,
+                duration: ""
+            }, {
+                name: "朱正新",
+                name_en: "Zhengxin Zhu",
+                email: "zzxalf@mail.ustc.edu.cn",
+                identity: "Postdoc",
+                year: "",
+                photo: po.a,
+                duration: ""
+            }, 
+			 
+			
+			
+
+
+			//PhD
+			
+			
+			{
+                name: "蒋涛立",
+                name_en: "Taoli Jiang",
+                email: "jiangtl@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2020,
+                photo: mo.a,
+                duration: ""
+            }, {
+                name: "郑新华",
+                name_en: "Xinhua Zheng",
+                email: "xhzheng@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2020,
+                photo: bo.a,
+                duration: ""
+            }, {
+                name: "穆赫辛 阿里",
+                name_en: "Mohsin Ali",
+                email: "mohsinali144@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2020,
+                photo: jo.a,
+                duration: ""
+            }, {
+                name: "",
+                name_en: "Touqeer Ahmad",
+                email: "touqeer@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2020,
+                photo: vo.a,
+                duration: ""
+            }, {
+                name: "",
+                name_en: "Muhammad Sajid",
+                email: "sajid@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2020,
+                photo: Co.a,
+                duration: ""
+            }, 
+            
+            
+            {
+                name: "王明明",
+                name_en: "Mingming Wang",
+                email: "mmwang1@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2021,
+                photo: No.a,
+                duration: ""
+            }, {
+                name: "刘双",
+                name_en: "Shuang Liu",
+                email: "shuangliu2021@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2021,
+                photo: Io.a,
+                duration: ""
+            }, {
+                name: "张凯",
+                name_en: "Kai Zhang",
+                email: "kaizhang0812@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2021,
+                photo: wo.a,
+                duration: ""
+            }, {
+                name: "潘真",
+                name_en: "Zhen Pan",
+                email: "zhenp@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: 2021,
+                photo: jc.a,
+                duration: ""
+            },
+            
+            
+            {
+			    name: "王卫平",
+			    name_en: "Weiping Wang",
+			    email: "wwp2018@mail.ustc.edu.cn",
+			    identity: "Ph.D. Student",
+			    year: "2022",
+			    photo: ai.a,
+			    duration: ""
+			}, {
+			    name: "马毅睿",
+			    name_en: "Yirui Ma",
+			    email: "yirui_ma@mail.ustc.edu.cn",
+			    identity: "Ph.D. Student",
+			    year: "2022",
+			    photo: lb.a,
+			    duration: ""
+			}, {
+                name: "王汉",
+                name_en: "Nawab Khan",
+                email: "",
+                identity: "Ph.D. Student",
+                year: "2022",
+                photo: fc.a,
+                duration: ""
+            }, {
+                name: "沈冬阳",
+                name_en: "Dongyang Shen",
+                email: "shendongyang@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: "2023",
+                photo: bc.a,
+                duration: ""
+            },
+			
+			
+
+
+			//MS
+			
+			
+			{
+                name: "孟亚寒",
+                name_en: "Yahan Meng",
+                email: "yahanmeng@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2020,
+                photo: xo.a,
+                duration: ""
+            }, {
+                name: "陈娜",
+                name_en: "Na Chen",
+                email: "chna@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2020,
+                photo: Ao.a,
+                duration: ""
+            }, {
+                name: "沈淳悦",
+                name_en: "Chunyue Shen",
+                email: "shency@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2020,
+                photo: Vo.a,
+                duration: ""
+            }, {
+                name: "朴宣炯",
+                name_en: "Sunhyeong Park",
+                email: "sunh0410@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2020,
+                photo: Zo.a,
+                duration: ""
+            },
+            
+
+
+
+            {
+                name: "陈景豪",
+                name_en: "Jinghao Chen",
+                email: "chenjh279@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2021,
+                photo: Do.a,
+                duration: ""
+            }, {
+                name: "彭洽",
+                name_en: "Qia Peng",
+                email: "pengqia@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2021,
+                photo: Jo.a,
+                duration: ""
+            }, {
+                name: "谢泽辉",
+                name_en: "Zehui Xie",
+                email: "xiezh@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2021,
+                photo: To.a,
+                duration: ""
+            }, {
+                name: "许婧雯",
+                name_en: "Jingwen Xu",
+                email: "jingwenxu@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: 2021,
+                photo: Ro.a,
+                duration: ""
+            }, {
+			    name: "宋莉",
+			    name_en: "Li Song",
+			    email: "lilysongsong@mail.ustc.edu.cn",
+			    identity: "M.S. Student",
+			    year: "2021",
+			    photo: hb.a,
+			    duration: ""
+			}, {
+                name: "张明颖",
+                name_en: "Mingying Zhang",
+                email: "MYZhang17@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: "2021",
+                photo: dc.a,
+                duration: ""
+            },
+            
+            
+            
+            
+            {
+                name: "骆睿昊",
+                name_en: "Ruihao Luo",
+                email: "nobeen@mail.ustc.edu.cn",
+                identity: "M.S. Student",
+                year: "2022",
+                photo: qo.a,
+                duration: ""
+            }, {
+			    name: "刘虹序",
+			    name_en: "Hongxu Liu",
+			    email: "liuhongxu@mail.ustc.edu.cn",
+			    identity: "M.S. Student",
+			    year: "2022",
+			    photo: ab.a,
+			    duration: ""
+			}, {
+			    name: "冯元宬",
+			    name_en: "Yuancheng Feng",
+			    email: "fengyuancheng@mail.ustc.edu.cn",
+			    identity: "M.S. Student",
+			    year: "2022",
+			    photo: gb.a,
+			    duration: ""
+			}, {
+			    name: "张作栋",
+			    name_en: "Zudong Zhang",
+			    email: "zuod@mail.ustc.edu.cn",
+			    identity: "M.S. Student",
+			    year: "2022",
+			    photo: hc.a,
+			    duration: ""
+			},
+			
+			
+
+
+
+			// Visiting or undergrad
+			 
+			{
+			     name: "徐葵",
+			     name_en: "Kui Xu",
+			     email: "51204700080@stu.ecnu.edu.cn",
+			     identity: "Visiting Scholar",
+			     year: "2022",
+			     photo: ib.a,
+			     duration: ""
+		    },
+             
+             
+            {
+			    name: "张子奇",
+			    name_en: "Ziqi Zhang",
+			    email: "zq2100075534@mail.ustc.edu.cn",
+			    identity: "Undergraduate",
+			    year: "2020",
+			    photo: cb.a,
+			    duration: ""
+			}, {
+			    name: "李林相",
+			    name_en: "Linxiang Li",
+			    email: "lilinxiang1204@mail.ustc.edu.cn",
+			    identity: "Undergraduate",
+			    year: "2020",
+			    photo: bb.a,
+			    duration: ""
+			}, {
+			    name: "魏舒扬",
+			    name_en: "Shuyang Wei",
+			    email: "wsy2002220@mail.ustc.edu.cn",
+			    identity: "Undergraduate",
+			    year: "2020",
+			    photo: jb.a,
+			    duration: ""
+			},
+			
+			
+						
+
+
+			// Alumni
+			
+
+                //postdoc
+
+			{
+			    name: "李科",
+			    name_en: "Ke Li",
+			    email: "kelee@ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "Postdoc",
+			    photo: eo.a,
+			    duration: "2020.07-2022.07"
+			}, {
+                name: "揣明艳",
+                name_en: "Mingyan Chuai",
+                email: "chuaimy20@ustc.edu.cn",
+                identity: "Alumni",
+                year: "Postdoc",
+                photo: oo.a,
+                duration: ""
+            }, {
+                name: "袁园",
+                name_en: "Yuan Yuan",
+                email: "yuany93@ustc.edu.cn",
+                identity: "Alumni",
+                year: "Postdoc",
+                photo: ro.a,
+                duration: ""
+            }, {
+                name: "孙继飞",
+                name_en: "Jifei Sun",
+                email: "jifeisun@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Postdoc",
+                photo: uo.a,
+                duration: ""
+            }, {
+                name: "胥燕",
+                name_en: "Yan Xu",
+                email: "yanxu15@ustc.edu.cn",
+                identity: "Alumni",
+                year: "Postdoc",
+                photo: so.a,
+                duration: ""
+            }, 
+            
+            
+                //phd
+
+            {
+			    name: "朱正新",
+			    name_en: "Zhengxin Zhu",
+			    email: "zzxalf@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "PhD 2019",
+			    photo: po.a,
+			    duration: "2019.07-2022.07"
+			},
+            
+            
+                //visiting
+
+            {
+                name: "明芳望",
+                name_en: "Fangwang Ming",
+                email: "fangwang.ming@kaust.edu.sa",
+                identity: "Alumni",
+                year: "Visiting",
+                photo: ci.a,
+                duration: "2019.10-2020.1"
+            }, {
+			    name: "王卫平",
+			    name_en: "Weiping Wang",
+			    email: "wwp2018@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "Visiting",
+			    photo: ai.a,
+			    duration: "2021.10-2022.08"
+			}, 
+            
+
+
+                //underg.
+
+            {
+                name: "江浩松",
+                name_en: "Haosong Jiang",
+                email: "chemy_jiang@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2018",
+                photo: Xo.a,
+                duration: "2019.8-2021.5"
+            }, {
+                name: "林子涵",
+                name_en: "Zihan Lin",
+                email: "linzihan322@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2018",
+                photo: zo.a,
+                duration: "2019.8-2021.9"
+            }, {
+			    name: "骆睿昊",
+			    name_en: "Ruihao Luo",
+			    email: "nobeen@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "Underg. 2018",
+			    photo: qo.a,
+			    duration: "2019.10-2022.07"
+			}, {
+                name: "梁东升",
+                name_en: "Dongsheng Liang",
+                email: "liangdongsheng@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2017",
+                photo: $o.a,
+                duration: "2019.9-2021.7"
+            }, {
+                name: "周靖辰",
+                name_en: "Jingchen Zhou",
+                email: "zc424087508@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2018",
+                photo: ti.a,
+                duration: "2020.9-2021.9"
+            }, {
+                name: "李一民",
+                name_en: "Yimin Li",
+                email: "libby_cn@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2018",
+                photo: ii.a,
+                duration: "2019.12-2021.5"
+            }, {
+                name: "郑凯",
+                name_en: "Kai Zheng",
+                email: "zhengk@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2018",
+                photo: li.a,
+                duration: "2021.6-2021.8"
+            }, {
+                name: "马瑞泽",
+                name_en: "Ruize Ma",
+                email: "maruize@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: "Underg. 2019",
+                photo: di.a,
+                duration: "2021.6-2022.3"
+            },
+				
+			/*
 			{
                 name: "刘再春",
                 name_en: "Zaichun Liu",
@@ -1923,6 +2683,9 @@
                 photo: li.a,
                 duration: "2021.6-2021.8"
             },
+			
+			
+			*/
 
                      
         ], pi = hi, gi = Object(a["withScopeId"])("data-v-73efe385");
@@ -1960,20 +2723,20 @@
                     WeiChen: Qa.a,
                     timeline: [{
                         content: "Professor, Dept. of Applied Chemistry, USTC",
-                        time: "Jul.2019-"
+                        time: "Jul.2019	-"
                     }, {
                         content: "Scientist, EEnotech",
-                        time: "Jun.2018-Jun.2019"
+                        time: "Jun.2018		-	Jun.2019"
                     }, {
                         content: "Postdoc, Stanford University",
-                        time: "Apr.2014-May2018"
+                        time: "Apr.2014		-	May2018"
                     }, {
                         content: "Ph.D., King Abdullah Univ. of Sci.&Tech.",
-                        time: "Jan.2011-Dec.2013"
+                        time: "Jan.2011		-	Dec.2013"
                     }, {
                         content: "M.S., King Abdullah Univ. of Sci.&Tech.",
-                        time: "Sept.2009-Dec.2010"
-                    }, {content: "B.S., Univ. of Sci.&Tech. Beijing", time: "Sept.2004-Jun.2008"}]
+                        time: "Sept.2009	-	Dec.2010"
+                    }, {content: "B.S., Univ. of Sci.&Tech. Beijing", time: "Sept.2004 - Jun.2008"}]
                 }
             }, computed: {
                 postdocs: function () {
@@ -2030,7 +2793,10 @@
         };
         n("8df7");
         Vi.render = Mi, Vi.__scopeId = "data-v-9bfed8cc";
-        var Hi = Vi, Zi = Object(a["withScopeId"])("data-v-32a332f6");
+        
+		
+		
+		var Hi = Vi, Zi = Object(a["withScopeId"])("data-v-32a332f6");
         Object(a["pushScopeId"])("data-v-32a332f6");
         var Yi = {class: "content"}, Di = Object(a["createTextVNode"])("Department of Applied Chemistry"),
             _i = Object(a["createTextVNode"])("School of Chemistry and Materials Science"),
@@ -2095,10 +2861,12 @@
         })), zi = {name: "Contact", components: {ColumnTitle: ua}};
         n("425b");
         zi.render = Ui, zi.__scopeId = "data-v-32a332f6";
-        var Ki = zi, qi = Object(a["withScopeId"])("data-v-4b4802b4");
+        
+		
+		var Ki = zi, qi = Object(a["withScopeId"])("data-v-4b4802b4");
         Object(a["pushScopeId"])("data-v-4b4802b4");
         var Qi = {class: "content"},
-            $i = Object(a["createStaticVNode"])('<div class="ad" data-v-4b4802b4><p class="subtitle" data-v-4b4802b4>Postdoc positions are immediately available</p><p data-v-4b4802b4>We accept highly motivated postdocs to join the group and work on (but not limited to) the following projects: </p><p data-v-4b4802b4> 1) Batteries </p><p data-v-4b4802b4> 2) Catalysis </p><p data-v-4b4802b4>3) Nanomaterials and nanostructures</p><p data-v-4b4802b4>4) Emerging techniques for energy storage and production</p><p data-v-4b4802b4> Please click the <a href="https://www.cailiaoren.com/zp_793.html" data-v-4b4802b4>link</a> here or send an email to <a href="mailto:weichen1@ustc.edu.cn" data-v-4b4802b4>weichen1@ustc.edu.cn</a> for details. </p></div><div class="ad" data-v-4b4802b4><p class="subtitle" data-v-4b4802b4>Openings to graduate and undergraduate students, exchange and visiting scholars (long-term available) </p><p data-v-4b4802b4>The Chen research group has capability to hire up to 3 Ph.D. students and up to 3 Master students every year. </p><p data-v-4b4802b4>We welcome creative undergraduate students, exchange and visiting scholars to join our group. </p><p data-v-4b4802b4>Please send an email to <a href="mailto:weichen1@ustc.edu.cn" data-v-4b4802b4>weichen1@ustc.edu.cn</a> for details.</p></div>', 2);
+            $i = Object(a["createStaticVNode"])('<div class="ad" data-v-4b4802b4><p class="subtitle" data-v-4b4802b4>Postdoc positions are immediately available.</p><p data-v-4b4802b4>We accept highly motivated postdocs to join the group and work on (but not limited to) the following projects: </p><p data-v-4b4802b4> 1) Batteries </p><p data-v-4b4802b4> 2) Catalysis </p><p data-v-4b4802b4>3) Nanomaterials and nanostructures</p><p data-v-4b4802b4>4) Emerging techniques for energy storage and production</p><p data-v-4b4802b4> Please click the <a href="https://www.cailiaoren.com/zp_793.html" data-v-4b4802b4>link</a> here or send an email to <a href="mailto:weichen1@ustc.edu.cn" data-v-4b4802b4>weichen1@ustc.edu.cn</a> for details. </p></div><div class="ad" data-v-4b4802b4><p class="subtitle" data-v-4b4802b4>Openings to graduate and undergraduate students, exchange and visiting scholars (long-term available). </p><p data-v-4b4802b4>The Chen research group has capability to hire up to 3 Ph.D. students and up to 3 Master students every year. </p><p data-v-4b4802b4>We welcome creative undergraduate students, exchange and visiting scholars to join our group. </p><p data-v-4b4802b4>Please send an email to <a href="mailto:weichen1@ustc.edu.cn" data-v-4b4802b4>weichen1@ustc.edu.cn</a> for details.</p></div>', 2);
         Object(a["popScopeId"])();
         var er = qi((function (e, t, n, o, i, r) {
             var c = Object(a["resolveComponent"])("ColumnTitle");
@@ -2148,9 +2916,8 @@
         var dr = function (e) {
             return e.keys().map(e)
         }, hr = n("cfd9");
-        dr(hr), sr.mount("#app"), console.log("Last update:20210907 22:01")
-    }, "58d5": function (e, t, n) {
-        e.exports = n.p + "img/Jifei Sun.jpg"
+        dr(hr), sr.mount("#app"), console.log("Last update:20230211")
+    
     }, "5c5c": function (e, t, n) {
     }, "5ef3": function (e, t, n) {
         "use strict";
@@ -2158,14 +2925,8 @@
     }, "63d3": function (e, t, n) {
         "use strict";
         n("bfbb")
-    }, "67ea": function (e, t, n) {
-        e.exports = n.p + "img/Zihan Lin.jpg"
-    }, "6bfc": function (e, t, n) {
-        e.exports = n.p + "img/Dongsheng Liang.jpg"
     }, 7762: function (e, t, n) {
     }, "7adf": function (e, t, n) {
-    }, "7d75": function (e, t, n) {
-        e.exports = n.p + "img/Cover2.jpg"
     }, "7ec5": function (e, t, n) {
     }, "82ff": function (e, t, n) {
         "use strict";
@@ -2174,17 +2935,9 @@
     }, "8df7": function (e, t, n) {
         "use strict";
         n("e17c")
-    }, "97f2": function (e, t, n) {
-        e.exports = n.p + "img/Chunyue Shen.jpg"
-    }, "99b3": function (e, t, n) {
-        e.exports = n.p + "img/Taoli Jiang.jpg"
-    }, "99da": function (e, t, n) {
-        e.exports = n.p + "img/Cover1-group2020.jpg"
-    }, "9c54": function (e, t, n) {
-        e.exports = n.p + "img/Shuang Liu.jpg"
+    
     }, "9f95": function (e, t, n) {
-    }, a37c: function (e, t, n) {
-        e.exports = n.p + "img/Zaichun Liu.jpg"
+    
     }, a5f7: function (e, t, n) {
         "use strict";
         n.r(t);
@@ -2196,29 +2949,15 @@
         });
         r.a.add(c);
         t["default"] = c
-    }, a614: function (e, t, n) {
-        e.exports = n.p + "img/Zhengxin Zhu.jpg"
-    }, abf9: function (e, t, n) {
-        e.exports = n.p + "img/Yuan Yuan.jpg"
-    }, afd7: function (e, t, n) {
-        e.exports = n.p + "img/Ruihao Luo.jpg"
-    }, b04d: function (e, t, n) {
+    
+		
+	
+	}, b04d: function (e, t, n) {
         "use strict";
-        n("8917")
-    }, b4ce: function (e, t, n) {
-        e.exports = n.p + "img/Dr.Wei Chen.jpg"
-    }, b6f7: function (e, t, n) {
-        e.exports = n.p + "img/ustc.png"
-    }, bdf3: function (e, t, n) {
-        e.exports = n.p + "img/logo3.png"
-    }, bfbb: function (e, t, n) {
+        n("8917")}, bfbb: function (e, t, n) {
     }, bfd5: function (e, t, n) {
         "use strict";
         n("3dfe")
-    }, c344: function (e, t, n) {
-        e.exports = n.p + "img/Zehui Xie.jpg"
-    }, cc7a: function (e, t, n) {
-        e.exports = n.p + "img/Yan Xu.jpg"
     }, cfd9: function (e, t, n) {
         var a = {"./logo.svg": "a5f7"};
 
@@ -2244,25 +2983,9 @@
     }, df15: function (e, t, n) {
         "use strict";
         n("3932")
-    }, e17c: function (e, t, n) {        
-    }, e51d: function (e, t, n) {
-        e.exports = n.p + "img/Qia Peng.jpg"
-    }, e9f6: function (e, t, n) {
-        e.exports = n.p + "img/Jingchen Zhou.jpg"
-    }, eb7d: function (e, t, n) {
-        e.exports = n.p + "img/Weiping Wang.jpg"
-    }, f134: function (e, t, n) {
-        e.exports = n.p + "img/Fangwang Ming.jpg"
-    }, f13f: function (e, t, n) {
-        e.exports = n.p + "img/Na Chen.jpg"
-    }, f1dc: function (e, t, n) {
-        e.exports = n.p + "img/Touqeer Ahmad.jpg"
-    }, f946: function (e, t, n) {
+    }, e17c: function (e, t, n) {
+	}, f946: function (e, t, n) {
     }, f963: function (e, t, n) {
-    }, fa29: function (e, t, n) {
-        e.exports = n.p + "img/Yimin Li.jpg"
-    }, fe89: function (e, t, n) {
-        e.exports = n.p + "img/Kai Zheng.jpg"
     }, ffc7: function (e, t, n) {
         "use strict";
         n("5174")
