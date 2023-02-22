@@ -185,7 +185,7 @@
     }, "001k": function (e, t, n) {
 	    e.exports = n.p + "img/Mingying Zhang.jpg"
     }, "001l": function (e, t, n) {
-	    e.exports = n.p + "img/Nawab Khan.jpg"
+	    e.exports = n.p + "img/Nawab Ali Khan.jpg"
     }, "001m": function (e, t, n) {
 	    e.exports = n.p + "img/Zuodong Zhang.jpg"
     }, "001n": function (e, t, n) {
@@ -1951,9 +1951,9 @@
 			    photo: lb.a,
 			    duration: ""
 			}, {
-                name: "王汉",
-                name_en: "Nawab Khan",
-                email: "",
+                name: "王汗",
+                name_en: "Nawab Ali Khan",
+                email: "Nawabkhan08@mail.ustc.edu.cn",
                 identity: "Ph.D. Student",
                 year: "2022",
                 photo: fc.a,
@@ -2165,7 +2165,7 @@
                 identity: "Alumni",
                 year: "Postdoc",
                 photo: oo.a,
-                duration: ""
+                duration: "2020.09-2022.10"
             }, {
                 name: "袁园",
                 name_en: "Yuan Yuan",
@@ -2173,7 +2173,7 @@
                 identity: "Alumni",
                 year: "Postdoc",
                 photo: ro.a,
-                duration: ""
+                duration: "2020.09-2022.10"
             }, {
                 name: "孙继飞",
                 name_en: "Jifei Sun",
@@ -2181,7 +2181,7 @@
                 identity: "Alumni",
                 year: "Postdoc",
                 photo: uo.a,
-                duration: ""
+                duration: "2020.10-2022.10"
             }, {
                 name: "胥燕",
                 name_en: "Yan Xu",
@@ -2189,7 +2189,7 @@
                 identity: "Alumni",
                 year: "Postdoc",
                 photo: so.a,
-                duration: ""
+                duration: "2020.10-2022.10"
             }, 
             
             
