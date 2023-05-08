@@ -462,7 +462,95 @@
 		zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), 
 		
 		ta = [ //paper list
+            /*
+            {
+                title: "",
+                author: "",
+                year: 2023,
+                journal: "",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: ""
+            },
+            */
+           
+            //20230508
+            {
+                title: "Ultrafast Thermal Synthesis of Non-Noble Metal Based Electrocatalysts for Overall Water Splitting",
+                author: "Sunhyeong Park, Taoli Jiang, Kai Zheng, Zihan Lin, Yahan Meng, Mingming Wang, Jinghao Chen, Wei Chen*",
+                year: 2023,
+                journal: "ACS Applied Energy Materials",
+                volume: "",
+                issue: "",
+                pages: "in press",
+                doi: ""
+            },{
+                title: "Aqueous Zinc–Chlorine Battery Modulated by a MnO2 Redox Adsorbent",
+                author: "Na Chen#, Weiping Wang#, Yirui Ma, Mingyan Chuai, Xinhua Zheng, Mingming Wang, Yan Xu, Yuan Yuan, Jifei Sun, Ke Li, Yahan Meng, Chunyue Shen, Wei Chen*",
+                year: 2023,
+                journal: "Small Methods",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: " https://doi.org/10.1002/smtd.202201553"
+            },{
+                title: "Solid-Liquid-Gas Management for Low-Cost Hydrogen Gas Batteries",
+                author: "Taoli Jiang#, Shuyang Wei#, Linxiang Li#, Kai Zheng, Xinhua Zheng, Sunhyeong Park, Shuang Liu, Zhengxin Zhu, Zaichun Liu, Yahan Meng, Qia Peng, Yuancheng Feng, Wei Chen*",
+                year: 2023,
+                journal: "ACS Nano",
+                volume: "17",
+                issue: "8",
+                pages: "7821-7829",
+                doi: "https://pubs.acs.org/doi/10.1021/acsnano.3c00798"
+            },{
+                title: " three-dimensional zincophilic nano-copper host enables dendrite-free and anode-free Zn batteries",
+                author: "Kui Xu#, Xinhua Zheng#, Ruihao Luo, Jifei Sun, Yirui Ma, Na Chen, Mingming Wang, Li Song, Qingbiao Zhao*, Wei Chen*",
+                year: 2023,
+                journal: "Materials Today Energy",
+                volume: "34",
+                issue: "",
+                pages: "101284",
+                doi: " https://doi.org/10.1016/j.mtener.2023.101284"
+            },{
+                title: "Electrochemical reduction of CO2 via a CuO/SnO2 heterojunction catalyst",
+                author: "Chunyue Shen, Ke Li, Yirui Ma, Shuang Liu, Xiaoyang Wang, Jingwen Xu, Mingming Wang, Yahan Meng, Na Chen, Wei Chen*",
+                year: 2023,
+                journal: "Chemical Physics Letters",
+                volume: "818",
+                issue: "",
+                pages: "140438",
+                doi: " https://doi.org/10.1016/j.cplett.2023.140438"
+            },{
+                title: "Metal-Organic Frameworks for Nanoconfinement of Chlorine in Rechargeable Lithium-Chlorine Batteries",
+                author: "Yan Xu, Long Jiao, Jiale Ma, Pan Zhang, Yongfu Tang, Lingmei Liu, Ying Liu, Honghe Ding, Jifei Sun, Mingming Wang, Zhenyu Li*, Hailong Jiang*, Wei Chen*",
+                year: 2023,
+                journal: "Joule",
+                volume: "7",
+                issue: "",
+                pages: "515-528",
+                doi: "https://doi.org/10.1016/j.joule.2023.02.010"
+            },{
+                title: "Reversible, Dendrite-Free, High-Capacity Aluminum Metal Anode Enabled by Aluminophilic Interface Layer",
+                author: "Yahan Meng#, Mingming Wang#, Ke Li#, Zhengxin Zhu, Zaichun Liu, Taoli Jiang, Xinhua Zheng, Kai Zhang, Weiping Wang, Qia Peng, Zehui Xie, Yu Wang, Wei Chen*",
+                year: 2023,
+                journal: "Nano Letters",
+                volume: "23",
+                issue: "6",
+                pages: "2295-2303",
+                doi: " https://doi.org/10.1021/acs.nanolett.2c05077"
+            },{
+                title: "Zinc battery goes to anode-free",
+                author: "Xinhua Zheng, Ruihao Luo, Wei Chen*",
+                year: 2023,
+                journal: "Nano Research Energy",
+                volume: "2",
+                issue: "",
+                pages: "9120053",
+                doi: "https://doi.org/10.26599/NRE.2023.9120053"
+            },
             
+
 			
 			//20230211
             {
@@ -479,9 +567,9 @@
                 author: "Zhengxin Zhu, Taoli Jiang, Jifei Sun, Zaichun Liu, Zehui Xie, Shuang Liu, Yahan Meng, Qia Peng, Weiping Wang, Kai Zhang, Hongxu Liu, Yuan Yuan, Ke Li, Wei Chen*",
                 year: 2023,
                 journal: "JACS Au",
-                volume: "",
-                issue: "",
-                pages: "in press",
+                volume: "3",
+                issue: "2",
+                pages: "488-497",
                 doi: "https://pubs.acs.org/doi/10.1021/jacsau.2c00624 "
             },{
                 title: "Crystal facet correlated Zn growth on Cu for aqueous Zn metal batteries",
@@ -1963,7 +2051,7 @@
                 name_en: "Dongyang Shen",
                 email: "shendongyang@mail.ustc.edu.cn",
                 identity: "Ph.D. Student",
-                year: "2023",
+                year: "2022",
                 photo: bc.a,
                 duration: ""
             },
