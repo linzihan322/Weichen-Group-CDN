@@ -59,9 +59,13 @@
 })
 
 
-// photo-number
+
 
 ({
+
+
+    // photo-number
+
     0: function (e, t, n) {
         e.exports = n("56d7")
 		
@@ -77,9 +81,12 @@
 	}, "7d75": function (e, t, n) {
         e.exports = n.p + "img/Cover2.jpg"
 	}, "99da": function (e, t, n) {
-        e.exports = n.p + "img/Cover1-group2022.jpg"
+        e.exports = n.p + "img/Cover1-group2023.jpg"
+	}, "99ca": function (e, t, n) {
+        e.exports = n.p + "img/Cover1-group2023gradua.jpg"
 	
-	
+
+    
 	}, b4ce: function (e, t, n) {
         e.exports = n.p + "img/Dr.Wei Chen.jpg"	
 	
@@ -219,8 +226,6 @@
 		
 		
 		
-		
-		
     }, "56d7": function (e, t, n) {
         "use strict";
         n.r(t);
@@ -244,6 +249,7 @@
             d = {key: 0, class: "el-icon-d-arrow-left scroll-arrow"},
             h = {key: 1, class: "el-icon-d-arrow-right scroll-arrow"};
         Object(a["popScopeId"])();
+
         var p = u((function (e, t, n, o, i, r) {
             var c = Object(a["resolveComponent"])("el-menu-item"), p = Object(a["resolveComponent"])("el-menu"),
                 g = Object(a["resolveComponent"])("el-scrollbar");
@@ -274,7 +280,9 @@
                     }, 8, ["default-active"])]
                 })), _: 1
             }), i.desktop ? Object(a["createCommentVNode"])("", !0) : (Object(a["openBlock"])(), Object(a["createBlock"])("i", h))])
-        })), g = {
+        })), 
+        
+        g = {
             name: "NavBar", data: function () {
                 return {
                     desktop: this.handleResize(),
@@ -293,8 +301,10 @@
                 }
             }
         };
+
         n("63d3");
         g.render = p, g.__scopeId = "data-v-02e74460";
+        
         var m = g, f = n("b6f7"), b = n.n(f), y = Object(a["withScopeId"])("data-v-49be7a80");
         Object(a["pushScopeId"])("data-v-49be7a80");
         var j = Object(a["createVNode"])("div", {class: "footer desktop"}, [Object(a["createVNode"])("div", {class: "footer-logo"}, [Object(a["createVNode"])("img", {
@@ -314,11 +324,13 @@
                 href: "mailto:weichen1@ustc.edu.cn"
             }, "weichen1@ustc.edu.cn")]), Object(a["createVNode"])("br"), Object(a["createVNode"])("div", {class: "footer-info-title"}, "COPYRIGHT"), Object(a["createVNode"])("div", {class: "footer-info-text"}, "Wei Chen Group 2021"), Object(a["createVNode"])("div", {class: "footer-info-text"}, "Designed by Zihan Lin")])], -1);
         Object(a["popScopeId"])();
+        
         var v = y((function (e, t, n, o, i, r) {
             return Object(a["openBlock"])(), Object(a["createBlock"])(a["Fragment"], null, [j, O], 64)
         })), S = {name: "WebFooter"};
         n("168c");
         S.render = v, S.__scopeId = "data-v-49be7a80";
+        
         var C = S, k = {
             name: "App", components: {NavBar: m, WebFooter: C}, data: function () {
                 return {desktop: !1}
@@ -326,6 +338,7 @@
         };
         n("d0ae");
         k.render = i;
+        
         var N = k, W = (n("0cfa"), n("5040")), I = n.n(W), B = (n("0769"), n("31b0")), w = n.n(B),
             L = (n("7f17"), n("6573")), x = n.n(L), M = (n("5415"), n("d559")), A = n.n(M), P = (n("17fe"), n("6740")),
             V = n.n(P), H = (n("ce24"), n("3de5")), Z = n.n(H), Y = (n("e750"), n("b3eb")), D = n.n(Y),
@@ -380,7 +393,10 @@
         var Gn = {class: "main"}, Rn = Object(a["createVNode"])("div", {class: "welcome"}, null, -1),
             En = {class: "carousel-about"}, Xn = {class: "content"};
         Object(a["popScopeId"])();
-        var Un = Tn(
+        
+        
+        var Un = Tn
+        (
 		
 		(function (e, t, n, o, i, r) {
             var c = Object(a["resolveComponent"])("el-carousel-item"), u = Object(a["resolveComponent"])("el-carousel"),
@@ -451,16 +467,17 @@
 			*/
 
             
-
-
 			])])
         })), 
+
+
 		
 		
-		//paper list
-		
-		zn = n("99da"), Kn = n.n(zn), qn = n("7d75"), Qn = n.n(qn), $n = n("00e1"), ea = n.n($n), 
-		
+        
+
+        
+        //paper list
+					
 		ta = [ //paper list
             /*
             {
@@ -474,17 +491,41 @@
                 doi: ""
             },
             */
-           
+
+            //20230629
+            {
+                title: "Anode-Free Aluminum Electrode with Ultralong Cycle Life and High Coulombic Efficiency Exceeding 99.92% Enabled by a Lattice-Matching Layer",
+                author: "Yahan Meng#, Jiazhi Wang#, Mingming Wang, Qia Peng, Zehui Xie, Zhengxin Zhu, Zaichun Liu, Weiping Wang, Kai Zhang, Hongxu Liu, Yirui Ma, Zhenyu Li*, Wei Chen*",
+                year: 2023,
+                journal: "Advanced Energy Materials",
+                volume: "",
+                issue: "",
+                pages: "in press",
+                doi: "https://doi.org/10.1002/aenm.202301322"
+            },{
+                title: "Ultrafast electrical pulse synthesis of highly active electrocatalysts for beyond-industrial-level hydrogen gas batteries",
+                author: "Taoli Jiang#, Zaichun Liu#, Yuan Yuan, Xinhua Zheng, Sunhyeong Park, Shuyang Wei, Linxiang Li, Yirui Ma, Shuang Liu, Jinghao Chen, Zhengxin Zhu, Yahan Meng, Ke Li, Jifei Sun, Qia Peng, Wei Chen*",
+                year: 2023,
+                journal: "Advanced Materials",
+                volume: "",
+                issue: "",
+                pages: "in press",
+                doi: "https://doi.org/10.1002/adma.202300502"
+            },
+
+
+
+
             //20230508
             {
                 title: "Ultrafast Thermal Synthesis of Non-Noble Metal Based Electrocatalysts for Overall Water Splitting",
                 author: "Sunhyeong Park, Taoli Jiang, Kai Zheng, Zihan Lin, Yahan Meng, Mingming Wang, Jinghao Chen, Wei Chen*",
                 year: 2023,
                 journal: "ACS Applied Energy Materials",
-                volume: "",
-                issue: "",
-                pages: "in press",
-                doi: ""
+                volume: "6",
+                issue: "11",
+                pages: "5787-5796",
+                doi: "https://doi.org/10.1021/acsaem.3c00164"
             },{
                 title: "Aqueous Zinc–Chlorine Battery Modulated by a MnO2 Redox Adsorbent",
                 author: "Na Chen#, Weiping Wang#, Yirui Ma, Mingyan Chuai, Xinhua Zheng, Mingming Wang, Yan Xu, Yuan Yuan, Jifei Sun, Ke Li, Yahan Meng, Chunyue Shen, Wei Chen*",
@@ -492,7 +533,7 @@
                 journal: "Small Methods",
                 volume: "",
                 issue: "",
-                pages: "",
+                pages: "2201553",
                 doi: " https://doi.org/10.1002/smtd.202201553"
             },{
                 title: "Solid-Liquid-Gas Management for Low-Cost Hydrogen Gas Batteries",
@@ -1744,12 +1785,25 @@
             event: "Prof. Wei Chen started his research group at USTC!"
         }], 
 		
+
+        //home photo cover photo
+
+        //cover photo code link
+
+		zn = n("99da"), Kn = n.n(zn),  //img/Cover1-group2023.jpg
+        zz = n("99ca"), Kz = n.n(zz),   //img/Cover1-group2023grad.jpg
+        qn = n("7d75"), Qn = n.n(qn), 
+        $n = n("00e1"), ea = n.n($n), 
+
 		Sa = va, 
 		Ca = {
             name: "Home", components: {ColumnTitle: ua, Publication: Oa}, data: function () {
-                return {carousel: [Kn.a, Qn.a, ea.a], events: Sa, publications: na}
+                return {carousel: [Kn.a, Kz.a, Qn.a, ea.a], events: Sa, publications: na}
             }
         };
+
+
+
         n("df15");
         Ca.render = Un, Ca.__scopeId = "data-v-c2c61112";
         var ka = Ca, Na = Object(a["withScopeId"])("data-v-46084462");
