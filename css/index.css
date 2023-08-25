@@ -54,11 +54,12 @@
 
 
 
-/* big title*/
+/* home page big title*/
+
 .column-title[data-v-6e039567]{margin-top:20px;padding:16px 0}
 .column-title-text[data-v-6e039567]{font-size:30px;font-weight:700}
 .column-split-line[data-v-6e039567]{margin-left:1px;margin-top:1px;height:5px;width:44px}
-.column-link[data-v-6e039567]{text-decoration:none;margin-left:4px}
+.column-link[data-v-6e039567]{text-decoration:none;margin-left:4px;font-size:15px;}
 
 
 
@@ -93,8 +94,9 @@
 
 .column-split-line[data-v-c2c61112]{background:#fff;height:4px;width:40px}
 
+/* event text*/ 
 
-.event[data-v-c2c61112]{font-size:18px}
+.event[data-v-c2c61112]{font-size:16px;line-height:25px}
 .text[data-v-c2c61112]{line-height:30px}
 
 .content[data-v-46084462]{width:80%;margin:auto}
@@ -102,12 +104,22 @@
 
 
 
-/*pub page*/
+/*paper page*/
 
-.content[data-v-6d62ccc2]{width:80%;margin:auto;font-size:17px;line-height: 1.4}
-.publication-year[data-v-6d62ccc2]{color:#002D56;font-size:22px;font-weight:700;margin-top: 30px}
 
-.journal[data-v-27f795e3]{color:#002D56;font-style:italic;font-weight:800}a[data-v-27f795e3]{color:#74B9FB}
+.content[data-v-6d62ccc2]{width:65%;margin: auto;font-size:22px;font-weight:600;line-height: 1.5}
+
+.publication-year[data-v-6d62ccc2]{color:#002D56;font-size:24px;font-weight:700;margin-top: 45px;margin-bottom: 30px}
+
+.author[data-v-27f795e3]{font-size:18px;color:#000000;font-weight:400}
+
+.journal[data-v-27f795e3]{color:#0760B2;font-size:19px;font-style:italic;font-weight:600}
+
+.title[data-v-27f795e3]{color:#002D56;font-size:22px;font-weight:600}
+
+.year, .volume, .issue, .pages[data-v-27f795e3]{color:#00539E;font-size:17px;font-weight:400}
+
+a[data-v-27f795e3]{font-size: 14px;color:#74B9FB;font-style:italic} /* doi */
 
 
 
