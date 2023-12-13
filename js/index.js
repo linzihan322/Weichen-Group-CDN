@@ -193,10 +193,10 @@
 	    e.exports = n.p + "img/Mingying Zhang.jpg"
     }, "001l": function (e, t, n) {
 	    e.exports = n.p + "img/Nawab Ali Khan.jpg"
-        /*
+        
     }, "001m": function (e, t, n) {
 	    e.exports = n.p + "img/Zuodong Zhang.jpg"
-        */
+        
     }, "001n": function (e, t, n) {
 	    e.exports = n.p + "img/Zhen Pan.jpg"
 
@@ -539,6 +539,67 @@
                 doi: ""
             },
             */
+
+            //106
+            //20231213
+            {
+                title: "Organocatalytic Lithium Chloride Oxidation by Covalent Organic Frameworks for Rechargeable Lithium–Chlorine Batteries",
+                author: "Yan Xu, Mingming Wang, Muhammad Sajid, Yahan Meng, Zehui Xie, Lidong Sun, Jian Jin, Wei Chen*",
+                year: 2023,
+                journal: "Angewandte Chemie International Edition",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1002/anie.202315931"
+            },
+            
+            {
+                title: "Enrichment of chlorine in porous organic nanocages for high performance rechargeable lithium-chlorine batteries",
+                author: "Yan Xu, Shenxiang Zhang*, Mingming Wang, Yahan Meng, Zehui Xie, Lidong Sun, Cheng Huang, Wei Chen*",
+                year: 2023,
+                journal: "Journal of the American Chemical Society",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://pubs.acs.org/doi/10.1021/jacs.3c11726"
+            },
+            {
+                title: "Rechargeable Hydrogen-Chlorine Battery Operates in a Wide Temperature Range",
+                author: "Zehui Xie#, Zhengxin Zhu#, Zaichun Liu#, Na Chen, Mingming Wang, Yahan Meng, Qia Peng, Shuang Liu, Weiping Wang, Taoli Jiang, Kai Zhang, Wei Chen*",
+                year: 2023,
+                journal: " Journal of the American Chemical Society",
+                volume: "",
+                issue: "145",
+                pages: "25422-25430",
+                doi: "https://pubs.acs.org/doi/10.1021/jacs.3c09819"
+            },{
+                title: "High-rate, two-electron-transfer vanadium-hydrogen gas battery",
+                author: "Kai Zhang, Xinhua Zheng, Shuang Liu, Zehui Xie, Zaichun Liu, Zhengxin Zhu, Taoli Jiang, Weiping Wang, Mingming Wang, Yirui Ma, Yahan Meng, Qia Peng, Wei Chen*",
+                year: 2023,
+                journal: "Electrochimica Acta",
+                volume: "",
+                issue: "469",
+                pages: "143-216",
+                doi: "https://doi.org/10.1016/j.electacta.2023.143216"
+            },{
+                title: "Aqueous All-Manganese Batteries",
+                author: "Mingming Wang#, Yahan Meng#, Yan Xu, Na Chen, Mingyan Chuai, Yuan Yuan, Jifei Sun, Zaichun Liu, Xinhua Zheng, Ziqi Zhang, Dongjun Li, Wei Chen*",
+                year: 2023,
+                journal: "Energy & Environmental Science",
+                volume: "",
+                issue: "16",
+                pages: "5284-5293",
+                doi: "https://doi.org/10.1039/D3EE01679J "
+            },{
+                title: "Aqueous Organic-Hydrogen Gas-Proton Batteries with Ultrahigh-Rate and Ultralow-Temperature Performance",
+                author: " Shuang Liu, Song Jin, Taoli Jiang, Muhammad Sajid, Jingwen Xu, Kai Zhang, Yanpeng Fan, Qia Peng, Xinhua Zheng, Zehui Xie, Zaichun Liu, Zhengxin Zhu, Xiaoyang Wang, Qingshun Nian, Jinghao Chen, Ke Li, Chunyue Shen, Wei Chen*",
+                year: 2023,
+                journal: "Nano Letters",
+                volume: "23",
+                issue: "20",
+                pages: "9664-9671",
+                doi: "https://doi.org/10.1021/acs.nanolett.3c01304"
+            },
             //20230815
 
             //# 100
@@ -1678,7 +1739,70 @@
         var Oa = ja, va = [
         
 			
-			
+		/*
+		{
+            time: ", 2023",
+            event: 'Our research paper entitled "" was published in . Congratulations to !'
+        },
+        */
+
+		//20231212
+        
+        {
+            time: "December 5, 2023",
+            event: 'Our research paper entitled "Organocatalytic Lithium Chloride Oxidation by Covalent Organic Frameworks for Rechargeable Lithium-Chlorine Batteries" was published inAngewandte Chemie International Edition. Congratulations to Yan!'
+        },{
+            time: "December 5, 2023",
+            event: 'Our research paper entitled "Enrichment of chlorine in porous organic nanocages for high performance rechargeable lithium-chlorine batteries" was published in Journal of the American Chemical Society. Congratulations to Yan!'
+        },{
+            time: "October 25, 2023",
+            event: 'Our research paper entitled "Rechargeable Hydrogen-Chlorine Battery Operates in a Wide Temperature Range" was published in Journal of the American Chemical Society. Congratulations to Zehui, Zhengxin and Zaichun!'
+        },{
+            time: "November 20, 2023",
+            event: 'Our research paper entitled "High-rate, two-electron-transfer vanadium-hydrogen gas battery" was published in Electrochimica Acta. Congratulations to Kai!'
+        },{
+            time: "September 13, 2023",
+            event: 'Our research paper entitled "Aqueous All-Manganese Batteries" was published in Energy & Environmental Science. Congratulations to Mingming and Yahan!'
+        },{
+            time: "August 28, 2023",
+            event: 'Our research paper entitled "Aqueous Organic-Hydrogen Gas-Proton Batteries with Ultrahigh-Rate and Ultralow-Temperature Performance" was published in Nano Letters. Congratulations to Shuang!'
+        },{
+            time: "August 10, 2023",
+            event: 'Our research paper entitled "Balancing Interfacial Reactions through Regulating p-Band Centers by an Indium Tin Oxide Protective Layer for Stable Zn Metal Anodes" was published in Angewandte Chemie International Edition. Congratulations to Yahan and Mingming!'
+        },{
+            time: "July 22, 2023",
+            event: 'Our research paper entitled "Breaking Local Charge Symmetry of Iron Single Atoms for Efficient Electrocatalytic Nitrate Reduction to Ammonia" was published in Angewandte Chemie International Edition. Congratulations to Jingwen!'
+        },{
+            time: "July 17, 2023",
+            event: 'Our research paper entitled "Anions Regulation Engineering Enables Highly Reversible and Dendrite-Free Nickel Metal Anode with Ultrahigh Capacities" was published in Advanced Materials. Congratulations to Mingming and Yahan!'
+        },{
+            time: "June 21, 2023",
+            event: 'Our research paper entitled "Anode-Free Aluminum Electrode with Ultralong Cycle Life and High Coulombic Efficiency Exceeding 99.92% Enabled by a Lattice-Matching Layer" was published in Advanced Energy Materials. Congratulations to Yahan!'
+        },{
+            time: "May 30, 2023",
+            event: 'Our research paper entitled "Ultrafast electrical pulse synthesis of highly active electrocatalysts for beyond-industrial-level hydrogen gas batteries" was published in Advanced Materials. Congratulations to Taoli and Zaichun!'
+        },{
+            time: "May 18, 2023",
+            event: 'Our research paper entitled "Ultrafast Thermal Synthesis of Non-Noble Metal Based Electrocatalysts for Overall Water Splitting" was published in ACS Applied Energy Materials. Congratulations to Sunhyeong!'
+        },{
+            time: "April 22, 2023",
+            event: 'Our research paper entitled "Aqueous Zinc–Chlorine Battery Modulated by a MnO2 Redox Adsorbent" was published in Small Methods. Congratulations to Na and Weiping!'
+        },{
+            time: "April 6, 2023",
+            event: 'Our research paper entitled "Solid-Liquid-Gas Management for Low-Cost Hydrogen Gas Batteries" was published in ACS Nano. Congratulations to Taoli and Shuyang!'
+        },{
+            time: "March 13, 2023",
+            event: 'Our research paper entitled "Electrochemical reduction of CO2 via a CuO/SnO2 heterojunction catalyst" was published in Chemical Physics Letters. Congratulations to Chunyue!'
+        },{
+            time: "March 12, 2023",
+            event: 'Our research paper entitled "Three-dimensional zincophilic nano-copper host enables dendrite-free and anode-free Zn batteries" was published in Materials Today Energy. Congratulations to Kui and Xinhua!'
+        },{
+            time: "March 6, 2023",
+            event: 'Our research paper entitled "Reversible, Dendrite-Free, High-Capacity Aluminum Metal Anode Enabled by Aluminophilic Interface Layer" was published in Nano Letters. Congratulations to Yahan and Mingming!'
+        },{
+            time: "Febaraury 15, 2023",
+            event: 'Our research paper entitled "Metal-Organic Frameworks for Nanoconfinement of Chlorine in Rechargeable Lithium-Chlorine Batteries" was published in Joule. Congratulations to Yan!'
+        },  	
 		//20230211
         {
             time: "January 24, 2023",
@@ -2045,9 +2169,9 @@
             ac = n("001j"), bc = n.n(ac), //Dongyang Shen
             cc = n("001k"), dc = n.n(cc), //Mingying Zhang
             ec = n("001l"), fc = n.n(ec), //Nawab Khan
-            /*
+            
             gc = n("001m"), hc = n.n(gc), //Zuodong Zhang 
-            */
+            
             ic = n("001n"), jc = n.n(ic), //Zhen Pan
             
 		
@@ -2106,15 +2230,7 @@
 			
 				
 				
-			{
-                name: "刘再春",
-                name_en: "Zaichun Liu",
-                email: "liuzaichun@ustc.edu.cn",
-                identity: "Postdoc",
-                year: "",
-                photo: no.a
-                //duration: "2020.9"
-            }, {
+			 {
                 name: "王晓阳",
                 name_en: "Xiaoyang Wang",
                 email: "xiaoyangw@ustc.edu.cn",
@@ -2384,15 +2500,15 @@
 			    year: "2022",
 			    photo: gb.a,
 			    duration: ""
-			}, /*{
+			},{
 			    name: "张作栋",
-			    name_en: "Zudong Zhang",
+			    name_en: "Zuodong Zhang",
 			    email: "zuod@mail.ustc.edu.cn",
 			    identity: "M.S. Student",
 			    year: "2022",
 			    photo: hc.a,
 			    duration: ""
-			},*/ {
+			}, {
 			    name: "",
 			    name_en: "Saba Hazoor",
 			    email: "Saba12@mail.ustc.edu.cn",
@@ -2446,22 +2562,6 @@
 			            
              
             {
-			    name: "张子奇",
-			    name_en: "Ziqi Zhang",
-			    email: "zq2100075534@mail.ustc.edu.cn",
-			    identity: "Undergraduate",
-			    year: "2020",
-			    photo: cb.a,
-			    duration: ""
-			}, {
-			    name: "李林相",
-			    name_en: "Linxiang Li",
-			    email: "lilinxiang1204@mail.ustc.edu.cn",
-			    identity: "Undergraduate",
-			    year: "2020",
-			    photo: bb.a,
-			    duration: ""
-			}, {
 			    name: "魏舒扬",
 			    name_en: "Shuyang Wei",
 			    email: "wsy2002220@mail.ustc.edu.cn",
@@ -2479,7 +2579,15 @@
 			
 
                 //postdoc
-
+                {
+                    name: "刘再春",
+                    name_en: "Zaichun Liu",
+                    email: "liuzaichun@ustc.edu.cn",
+                    identity: "Alumni",
+                    year: "",
+                    photo: no.a,
+                    duration: "2020.9-2023"
+                },
 			{
 			    name: "李科",
 			    name_en: "Ke Li",
@@ -2678,7 +2786,23 @@
                 year: "Underg. 2019",
                 photo: di.a,
                 duration: "2021.6-2022.3"
-            },
+            },{
+			    name: "张子奇",
+			    name_en: "Ziqi Zhang",
+			    email: "zq2100075534@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "2020",
+			    photo: cb.a,
+			    duration: "2022-2023"
+			}, {
+			    name: "李林相",
+			    name_en: "Linxiang Li",
+			    email: "lilinxiang1204@mail.ustc.edu.cn",
+			    identity: "Alumni",
+			    year: "2020",
+			    photo: bb.a,
+			    duration: "2022-2023"
+			}, 
 				
 			/*
 			{
