@@ -531,7 +531,7 @@
             {
                 title: "",
                 author: "",
-                year: 2023,
+                year: 2024,
                 journal: "",
                 volume: "",
                 issue: "",
@@ -540,16 +540,139 @@
             },
             */
 
+
+            //20240407
+            {
+                title: "Self-charging aqueous hydrogen gas batteries",
+                author: " Zhengxin Zhu, Zehui Xie, Weiping Wang, Zaichun Liu, Mingming Wang, Yahan Meng, Qia Peng, Shuang Liu, Taoli Jiang, Kai Zhang, Hongxu Liu, Yirui Ma, Wei Chen*",
+                year: 2024,
+                journal: " Energy & Environmental Science",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: ""
+            },
+            
+            {
+                title: "Development of Durable Zn-MnO2 Battery via a Functionalized Hydrogel Film",
+                author: "Xinhua Zheng, Kui Xu, Yirui Ma, Jifei Sun, Bibo Han, Ruihao Luo, Mingming Wang, Na Chen, Li Song, Qingbiao Zhao, Wei Chen*",
+                year: 2024,
+                journal: "Advanced Energy Materials",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: ""
+            },
+            
+            {
+                title: "Ruthenium-Based Binary Alloy with Oxide Nanosheath for Highly Efficient and Stable Oxygen Evolution Reaction in Acidic Media",
+                author: "Jinghao Chen#, Yirui Ma#, Tao Huang#, Taoli Jiang, Sunhyeon Park, Jingwen Xu, Xiaoyang Wang, Qia Peng, Shuang Liu, Wei Chen*",
+                year: 2024,
+                journal: "Advanced Materials",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: " https://doi.org/10.1002/adma.202312369"
+            },
+            
+            {
+                title: "Low-cost H2/K+ hybrid batteries for large-scale energy storage",
+                author: "Shuang Liu, Ying Wang, Zhengxin Zhu, Jingwen Xu, Zuodong Zhang, Kai Zhang, Song Jin, Zehui Xie, Taoli Jiang, Xiaoyang Wang, Zaichun Liu, Jinghao Chen, Qia Peng, Muhammad Sajid, Touqeer Ahmad, Wei Chen*",
+                year: 2024,
+                journal: "Journal of Power Sources",
+                volume: "",
+                issue: "604",
+                pages: "234491",
+                doi: "https://doi.org/10.1016/j.jpowsour.2024.234491"
+            },
+            
+            {
+                title: "Halogen makes manganese metal batteries rechargeable",
+                author: "Dongyang Shen, Mingming Wang, Wei Chen*",
+                year: 2024,
+                journal: " Nano Research Energy",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.26599/NRE.2024.9120119"
+            },
+            
+            {
+                title: "An Energetic Aqueous Mn Metal Anode",
+                author: "Mingming Wang#, Yahan Meng#, Yan Xu, Dongyang Shen, Peiyan Tong, Wei Chen*",
+                year: 2024,
+                journal: "ACS Energy Letters",
+                volume: "",
+                issue: "9",
+                pages: "1381-1388",
+                doi: "https://doi.org/10.1021/acsenergylett.4c00103"
+            },
+            
+            {
+                title: "A High-Concentration Edge-Nitrogen Doped Porous Carbon Anode via Template Free Strategy for High-Performance Potassium-ion Hybrid Capacitors",
+                author: "Zhen Pan, Ke Li, Lidong Sun, Yang Li, Zuodong Zhang, Yitai Qian*, Wei Chen*",
+                year: 2024,
+                journal: "Energy Material Advances",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://spj.science.org/doi/10.34133/energymatadv.0080 "
+            },
+            
+            {
+                title: "An All-Climate Nonaqueous Hydrogen Gas-Proton Battery",
+                author: " Kai Zhang#, Zaichun Liu#, Nawab Ali Khan, Yirui Ma, Zehui Xie, Jingwen Xu, Taoli Jiang, Hongxu Liu, Zhengxin Zhu, Shuang Liu, Weiping Wang, Yahan Meng, Qia Peng, Xinhua Zheng, Mingming Wang, Wei Chen*",
+                year: 2024,
+                journal: "Nano Letters",
+                volume: "24",
+                issue: "5",
+                pages: "1729-1737",
+                doi: "https://pubs.acs.org/doi/10.1021/acs.nanolett.3c04566"
+            },
+            
+            {
+                title: "Non-Noble Metal High-Entropy Alloy-Based Catalytic Electrode for Long-life Hydrogen Gas Batteries",
+                author: "Shuang Liu#, Ying Wang#, Taoli Jiang,# Song Jin, Muhammad Sajid, Zuodong Zhang, Jingwen Xu, Yanpeng Fan, Xiaoyang Wang, Jinghao Chen, Zaichun Liu, Xinhua Zheng, Kai Zhang, Qingshun Nian, Zhengxin Zhu, Qia Peng, Touqeer Ahmad, Ke Li, Wei Chen*",
+                year: 2024,
+                journal: "ACS Nano",
+                volume: "18",
+                issue: "5",
+                pages: "4229-4240",
+                doi: "https://doi.org/10.1021/acsnano.3c09482"
+            },
+            
+            {
+                title: "A rechargeable non-aqueous manganese metal battery enabled by electrolyte regulation",
+                author: "Dongyang Shen, Xinhua Zheng, Ruihao Luo, Taoli Jiang, Mingming Wang, Mingying Zhang, Qia Peng, Li Song, Shiming Zhou, Zhiguo Hou*, Yitai Qian, Wei Chen*",
+                year: 2024,
+                journal: "Joule",
+                volume: "",
+                issue: "8",
+                pages: "780-798",
+                doi: "https://doi.org/10.1016/j.joule.2024.01.012"
+            },
+
+            {
+                title: "Vanadate based fibrous electrode materials for high performance aqueous zinc ion batteries",
+                author: "Qimeng Wang, Jianping Wu, Mingming Wang, Haizhou Yu, Xiaoyan Qiu*, Wei Chen*",
+                year: 2024,
+                journal: "Advanced Science",
+                volume: "",
+                issue: "11",
+                pages: "2307872",
+                doi: "https://doi.org/10.1002/advs.202307872"
+            },
+
             //106
             //20231213
             {
                 title: "Organocatalytic Lithium Chloride Oxidation by Covalent Organic Frameworks for Rechargeable Lithium–Chlorine Batteries",
                 author: "Yan Xu, Mingming Wang, Muhammad Sajid, Yahan Meng, Zehui Xie, Lidong Sun, Jian Jin, Wei Chen*",
-                year: 2023,
+                year: 2024,
                 journal: "Angewandte Chemie International Edition",
                 volume: "",
-                issue: "",
-                pages: "",
+                issue: "63",
+                pages: "e2023159",
                 doi: "https://doi.org/10.1002/anie.202315931"
             },
             
@@ -558,9 +681,9 @@
                 author: "Yan Xu, Shenxiang Zhang*, Mingming Wang, Yahan Meng, Zehui Xie, Lidong Sun, Cheng Huang, Wei Chen*",
                 year: 2023,
                 journal: "Journal of the American Chemical Society",
-                volume: "",
-                issue: "",
-                pages: "",
+                volume: "145",
+                issue: "50",
+                pages: "27877-27885",
                 doi: "https://pubs.acs.org/doi/10.1021/jacs.3c11726"
             },
             {
@@ -568,8 +691,8 @@
                 author: "Zehui Xie#, Zhengxin Zhu#, Zaichun Liu#, Na Chen, Mingming Wang, Yahan Meng, Qia Peng, Shuang Liu, Weiping Wang, Taoli Jiang, Kai Zhang, Wei Chen*",
                 year: 2023,
                 journal: " Journal of the American Chemical Society",
-                volume: "",
-                issue: "145",
+                volume: "145",
+                issue: "46",
                 pages: "25422-25430",
                 doi: "https://pubs.acs.org/doi/10.1021/jacs.3c09819"
             },{
