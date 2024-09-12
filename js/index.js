@@ -227,7 +227,20 @@
 
     }, "001y": function (e, t, n) {
 	    e.exports = n.p + "img/Yidi Wang.jpg"
-
+    
+    //20240912
+    
+    }, "002a": function (e, t, n) {
+	    e.exports = n.p + "img/Hongbo Chen.jpg"
+    }, "002b": function (e, t, n) {
+        e.exports = n.p + "img/Zhaoheng Liang.jpg"
+    }, "002c": function (e, t, n) {
+        e.exports = n.p + "img/Aoun Raza.jpg"
+    }, "002d": function (e, t, n) {
+        e.exports = n.p + "img/Ziwei Zhang.jpg"
+    }, "002e": function (e, t, n) {
+        e.exports = n.p + "img/Baozhe He.jpg"
+    
     /*
     }, "001z": function (e, t, n) {
 	    e.exports = n.p + "img/.jpg"
@@ -476,7 +489,7 @@
                     {
                         default: Tn((function () 
                         {
-                        return [Object(a["createTextVNode"])(Object(a["toDisplayString"])(i.publications.length - t) + ".  ", 1)]
+                        return [Object(a["createTextVNode"])(Object(a["toDisplayString"])(i.publications.length - t) + ".  ", 1)]
                         })), _: 2
                     }, 1040)
             })), 128)), 
@@ -540,6 +553,48 @@
             },
             */
 
+            //20240912
+            {
+                title: "Rechargeable Alkali Metal-Chlorine Batteries: Advances, Challenges, and Future Perspectives",
+                author: "Zehui Xie#, Lidong Sun#, Muhammad Sajid, Yuancheng Feng, Zhenshan Lv, Wei Chen*",
+                year: 2024,
+                journal: "Chemical Society Reviews",
+                volume: "53",
+                issue: "",
+                pages: "8424-8456",
+                doi: "https://doi.org/10.1039/D4CS00202D"
+            },
+            {
+                title: "Bidentate Coordination Structure Facilitates High-Voltage and High-Utilization Aqueous Zn-I2 Batteries",
+                author: "Mingming Wang#, Yahan Meng#, Muhammad Sajid, Zehui Xie, Peiyan Tong, Zhentao Ma, Kai Zhang, Dongyang Shen, Ruihao Luo, Li Song, Lihui Wu, Xusheng Zheng*, Xiangyang Li*, Wei Chen*",
+                year: 2024,
+                journal: "Angewandte Chemie International Edition",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1002/anie.202404784"
+            },
+            {
+                title: "Non-Sacrificial Anionic Surfactant with High HOMO Energy Level as a General Descriptor for Zinc Anode",
+                author: "Tingting Wei, Yingke Ren, Hong Zhang, Li’e Mo, Yifan Wang, Mingming Wang, Yi He, Peng Tan*, Zhaoqian Li*, Wei Chen*, Linhua Hu*",
+                year: 2024,
+                journal: "Energy Storage Materials",
+                volume: "70",
+                issue: "",
+                pages: "103525",
+                doi: ""
+            },
+            {
+                title: "Carbonate assisted chaotropic electrolyte for zinc ion battery with wide temperature operation",
+                author: "Zehui Xie#, Na Chen#, Mingjun Zhang#, Mingming Wang, Xinhua Zheng, Shuang Liu, Ruihao Luo, Li Song, Yahan Meng, Zaichun Liu, Zhenyu Li*, Wei Chen*",
+                year: 2024,
+                journal: "ACS Energy Letters",
+                volume: "9",
+                issue: "7",
+                pages: "3380-3390",
+                doi: "https://doi.org/10.1021/acsenergylett.4c00833"
+            },
+
 
             //20240407
             {
@@ -547,10 +602,10 @@
                 author: " Zhengxin Zhu, Zehui Xie, Weiping Wang, Zaichun Liu, Mingming Wang, Yahan Meng, Qia Peng, Shuang Liu, Taoli Jiang, Kai Zhang, Hongxu Liu, Yirui Ma, Wei Chen*",
                 year: 2024,
                 journal: " Energy & Environmental Science",
-                volume: "",
+                volume: "17",
                 issue: "",
-                pages: "",
-                doi: ""
+                pages: "5013-5023",
+                doi: "https://doi.org/10.1039/D3EE03913G"
             },
             
             {
@@ -558,10 +613,10 @@
                 author: "Xinhua Zheng, Kui Xu, Yirui Ma, Jifei Sun, Bibo Han, Ruihao Luo, Mingming Wang, Na Chen, Li Song, Qingbiao Zhao, Wei Chen*",
                 year: 2024,
                 journal: "Advanced Energy Materials",
-                volume: "",
+                volume: "14",
                 issue: "",
-                pages: "",
-                doi: ""
+                pages: "2400038",
+                doi: "https://doi.org/10.1002/aenm.202400038"
             },
             
             {
@@ -569,9 +624,9 @@
                 author: "Jinghao Chen#, Yirui Ma#, Tao Huang#, Taoli Jiang, Sunhyeon Park, Jingwen Xu, Xiaoyang Wang, Qia Peng, Shuang Liu, Wei Chen*",
                 year: 2024,
                 journal: "Advanced Materials",
-                volume: "",
+                volume: "36",
                 issue: "",
-                pages: "",
+                pages: "2312369",
                 doi: " https://doi.org/10.1002/adma.202312369"
             },
             
@@ -591,9 +646,9 @@
                 author: "Dongyang Shen, Mingming Wang, Wei Chen*",
                 year: 2024,
                 journal: " Nano Research Energy",
-                volume: "",
+                volume: "3",
                 issue: "",
-                pages: "",
+                pages: "e9120119",
                 doi: "https://doi.org/10.26599/NRE.2024.9120119"
             },
             
@@ -602,8 +657,8 @@
                 author: "Mingming Wang#, Yahan Meng#, Yan Xu, Dongyang Shen, Peiyan Tong, Wei Chen*",
                 year: 2024,
                 journal: "ACS Energy Letters",
-                volume: "",
-                issue: "9",
+                volume: "9",
+                issue: "4",
                 pages: "1381-1388",
                 doi: "https://doi.org/10.1021/acsenergylett.4c00103"
             },
@@ -613,9 +668,9 @@
                 author: "Zhen Pan, Ke Li, Lidong Sun, Yang Li, Zuodong Zhang, Yitai Qian*, Wei Chen*",
                 year: 2024,
                 journal: "Energy Material Advances",
-                volume: "",
+                volume: "5",
                 issue: "",
-                pages: "",
+                pages: "0080",
                 doi: "https://spj.science.org/doi/10.34133/energymatadv.0080 "
             },
             
@@ -736,6 +791,15 @@
                 issue: "",
                 pages: "202308454",
                 doi: "https://doi.org/10.1002/anie.202308454"
+            },{
+                title: "Aqueous Zinc-ion Batteries, Progress in Chemistrys",
+                author: "Zhiying Xie, Xinhua Zheng, Mingming Wang, Haizhou Yu, Xiaoyan Qiu*, Wei Chen*",
+                year: 2023,
+                journal: "Progress in Chemistry",
+                volume: "35",
+                issue: "11",
+                pages: "1701-1726",
+                doi: "https://manu56.magtech.com.cn/progchem/EN/10.7536/PC230329"
             },{
                 title: "Breaking Local Charge Symmetry of Iron Single Atoms for Efficient Electrocatalytic Nitrate Reduction to Ammonia",
                 author: "Jingwen Xu#, Shengbo Zhang#, Hengjie Liu#, Shuang Liu, Yuan Yuan, Yahan Meng, Mingming Wang, Chunyue Shen, Qia Peng, Jinghao Chen, Xiaoyang Wang, Li Song, Ke Li*, Wei Chen*",
@@ -970,8 +1034,8 @@
                 pages: "9922-9932",
                 doi: "https://doi.org/10.1021/acscatal.2c02627"
             },{
-                title: "Electrochemical CO2 Reduction to C2+ Products Using Cu-Based Electrocatalysts: A Review",
-                author: "Touqeer Ahmad, Shuang Liu, Muhammad Sajid, Ke Li, Mohsin Ali, Liang Liu, Wei Chen*",
+                title: "Electrochemical CO2 Reduction to C2+ Products Using Cu-Based Electrocatalysts: A Review",
+                author: "Touqeer Ahmad, Shuang Liu, Muhammad Sajid, Ke Li, Mohsin Ali, Liang Liu, Wei Chen*",
                 year: 2022,
                 journal: "Nano Research Energy",
                 volume: "1",
@@ -1869,6 +1933,55 @@
         },
         */
 
+        //20240912
+
+        {
+                        time: "July 15, 2024",
+                        event: 'Our research paper entitled "Rechargeable Alkali Metal-Chlorine Batteries: Advances, Challenges, and Future Perspectives" was published in Chemical Society Reviews. Congratulations to Zehui and Lidong!'
+                    },{
+                        time: "June 13, 2024",
+                        event: 'Our research paper entitled "Bidentate Coordination Structure Facilitates High-Voltage and High-Utilization Aqueous Zn-I2 Batteries" was published in Angewandte Chemie International Edition. Congratulations to Mingming and Yahan!'
+                    },{
+                        time: "May 1, 2024",
+                        event: 'Our research paper entitled "Non-Sacrificial Anionic Surfactant with High HOMO Energy Level as a General Descriptor for Zinc Anode" was published in Energy Storage Materials. Congratulations to Mingming!'
+                    },{
+                        time: "June 14, 2024",
+                        event: 'Our research paper entitled "Carbonate assisted chaotropic electrolyte for zinc ion battery with wide temperature operation" was published in  ACS Energy Letters. Congratulations to Zehui and Na!'
+                    },{
+                        time: "June 1, 2024",
+                        event: 'Our research paper entitled "Low-cost H2/K+ hybrid batteries for large-scale energy storage" was published in Journal of Power Source. Congratulations to Shuang!'
+                    },{
+                        time: "April 10, 2024",
+                        event: 'Our research paper entitled "Self-charging aqueous hydrogen gas batteries" was published in Energy & Environmental Science. Congratulations to Zhenxing!'
+                    },{
+                        time: "April 21, 2024",
+                        event: 'Our research paper entitled "Development of Durable Zn-MnO2 Battery via a Functionalized Hydrogel Film" was published in Advanced Energy Materials. Congratulations to Xinhua!'
+                    },{
+                        time: "April 6, 2024",
+                        event: 'Our research paper entitled "Ruthenium-Based Binary Alloy with Oxide Nanosheath for Highly Efficient and Stable Oxygen Evolution Reaction in Acidic Media" was published in Advanced Materials. Congratulations to Jinghao and Yirui!'
+                    },{
+                        time: "May 18, 2024",
+                        event: 'Our research paper entitled "Halogen makes manganese metal batteries rechargeable" was published in Nano Research Energy. Congratulations to Dongyang!'
+                    },{
+                        time: "March 20, 2024",
+                        event: 'Our research paper entitled "A rechargeable non-aqueous manganese metal battery enabled by electrolyte regulation" was published in Joule. Congratulations to Dongyang!'
+                    },{
+                        time: "March 4, 2024",
+                        event: 'Our research paper entitled "An Energetic Aqueous Mn Metal Anode" was published in ACS Energy Letters. Congratulations to Mingming and Yahan!'
+                    },{
+                        time: "March 4, 2024",
+                        event: 'Our research paper entitled "A High-Concentration Edge-Nitrogen Doped Porous Carbon Anode via Template Free Strategy for High-Performance Potassium-ion Hybrid Capacitors" was published in Energy Material Advances. Congratulations to Zhen!'
+                    },{            
+                        time: "January 30, 2024",
+                        event: 'Our research paper entitled "An All-Climate Nonaqueous Hydrogen Gas-Proton Battery" was published in Nano Letters. Congratulations to Kai and Zaichun!'
+                    },{
+                        time: "January 26, 2024",
+                        event: 'Our research paper entitled "Non-Noble Metal High-Entropy Alloy-Based Catalytic Electrode for Long-life Hydrogen Gas Batteries" was published in ACS Nano. Congratulations to Shuang and Taoli!'
+                    },{
+                        time: "January 4, 2024",
+                        event: 'Our research paper entitled "Vanadate based fibrous electrode materials for high performance aqueous zinc ion batteries" was published in Advanced Science. Congratulations to Mingming!'
+                    },
+
 		//20231212
         
         {
@@ -1963,7 +2076,7 @@
             event: 'Our research paper entitled "Descriptor-Driven Computational Design of Bifunctional Double-Atom Hydrogen Evolution and Oxidation Reaction Electrocatalysts for Rechargeable Hydrogen Gas Batteries" was published in Nano Letters. Congratulations to Zaichun!'
         },{
             time: "August 24, 2022",
-            event: 'Our invited review paper entitled "Electrochemical CO2 Reduction to C2+ Products Using Cu-Based Electrocatalysts: A Review" was published in Nano Research Energy. Congratulations to Ahmad!'
+            event: 'Our invited review paper entitled "Electrochemical CO2 Reduction to C2+ Products Using Cu-Based Electrocatalysts: A Review" was published in Nano Research Energy. Congratulations to Ahmad!'
         },{
             time: "August 1, 2022",
             event: 'Our research paper entitled "In Situ Dynamic Construction of a Copper Tin Sulfide Catalyst for High-Performance Electrochemical CO2 Conversion to Formate" was published in ACS Catalysis. Congratulations to Ke!'
@@ -2197,7 +2310,7 @@
             return Object(a["openBlock"])(), Object(a["createBlock"])("div", xa, [Object(a["createVNode"])(c, {title: "Publications"}), (Object(a["openBlock"])(!0), Object(a["createBlock"])(a["Fragment"], null, Object(a["renderList"])(i.publications, (function (e, t) {
                 return Object(a["openBlock"])(), Object(a["createBlock"])(a["Fragment"], {key: e.title}, [r.showYear(e.year) ? (Object(a["openBlock"])(), Object(a["createBlock"])("div", Ma, Object(a["toDisplayString"])(e.year), 1)) : Object(a["createCommentVNode"])("", !0), Object(a["createVNode"])(u, e, {
                     default: La((function () {
-                        return [Object(a["createTextVNode"])(Object(a["toDisplayString"])(i.publications.length - t) + ". ", 1)]
+                        return [Object(a["createTextVNode"])(Object(a["toDisplayString"])(i.publications.length - t) + ". ", 1)]
                     })), _: 2
                 }, 1040)], 64)
             })), 128)), Object(a["createVNode"])(l, {target: ".scrollbar .el-scrollbar__wrap", bottom: "200"})])
@@ -2313,6 +2426,13 @@
 
             ed = n("001y"), fd = n.n(ed), //Yidi Wang
 
+            //20240912
+
+            gd = n("002a"), hd = n.n(gd), //Hongbo Chen
+            id = n("002b"), jd = n.n(id), //Zhaoheng Liang
+            kd = n("002c"), ld = n.n(kd), //Aoun Raza
+            md = n("002d"), nd = n.n(md), //Ziwei Zhang
+            od = n("002e"), pd = n.n(od), //Baozhe He
             //gd = n("001z"), hd = n.n(gd), //
 
 
@@ -2443,39 +2563,7 @@
             }, 
             
             
-            {
-                name: "王明明",
-                name_en: "Mingming Wang",
-                email: "mmwang1@mail.ustc.edu.cn",
-                identity: "Ph.D. Student",
-                year: 2021,
-                photo: No.a,
-                duration: ""
-            }, {
-                name: "刘双",
-                name_en: "Shuang Liu",
-                email: "shuangliu2021@mail.ustc.edu.cn",
-                identity: "Ph.D. Student",
-                year: 2021,
-                photo: Io.a,
-                duration: ""
-            }, {
-                name: "张凯",
-                name_en: "Kai Zhang",
-                email: "kaizhang0812@mail.ustc.edu.cn",
-                identity: "Ph.D. Student",
-                year: 2021,
-                photo: wo.a,
-                duration: ""
-            }, {
-                name: "潘真",
-                name_en: "Zhen Pan",
-                email: "zhenp@mail.ustc.edu.cn",
-                identity: "Ph.D. Student",
-                year: 2021,
-                photo: jc.a,
-                duration: ""
-            },
+            
             
             
             {
@@ -2548,11 +2636,27 @@
                 duration: ""
             }, {
                 name: "",
-                name_en: "Mohammad Ali Gabris",
-                email: "magabris@mail.ustc.edu.cn",
+                name_en: "Aoun Raza",
+                email: "aoun.chemist@mail.ustc.edu.cn",
                 identity: "Ph.D. Student",
-                year: 2023,
-                photo: vc.a,
+                year: "2023",
+                photo: ld.a,
+                duration: ""
+            },{
+                name: "陈泓伯",
+                name_en: "Hongbo Chen",
+                email: "be24012002@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: "2024",
+                photo: hd.a,
+                duration: ""
+            },{
+                name: "梁兆恒",
+                name_en: "Zhaoheng Liang",
+                email: "liang.zhaoheng@mail.ustc.edu.cn",
+                identity: "Ph.D. Student",
+                year: "2024",
+                photo: jd.a,
                 duration: ""
             }, 
 
@@ -2562,39 +2666,7 @@
 
         //MS
 
-            {
-                name: "彭洽",
-                name_en: "Qia Peng",
-                email: "pengqia@mail.ustc.edu.cn",
-                identity: "M.S. Student",
-                year: 2021,
-                photo: Jo.a,
-                duration: ""
-            }, {
-                name: "谢泽辉",
-                name_en: "Zehui Xie",
-                email: "xiezh@mail.ustc.edu.cn",
-                identity: "M.S. Student",
-                year: 2021,
-                photo: To.a,
-                duration: ""
-            },{
-			    name: "宋莉",
-			    name_en: "Li Song",
-			    email: "lilysongsong@mail.ustc.edu.cn",
-			    identity: "M.S. Student",
-			    year: "2021",
-			    photo: hb.a,
-			    duration: ""
-			}, {
-                name: "张明颖",
-                name_en: "Mingying Zhang",
-                email: "MYZhang17@mail.ustc.edu.cn",
-                identity: "M.S. Student",
-                year: "2021",
-                photo: dc.a,
-                duration: ""
-            },
+            
             
             
             
@@ -2674,6 +2746,30 @@
 			    year: "2023",
 			    photo: fd.a,
 			    duration: ""
+			},{
+                name: "张子蔚",
+                name_en: "Ziwei Zhang",
+                email: "zwzhang0824@163.com",
+                identity: "M.S. Student",
+                year: "2024",
+                photo: nd.a,
+                duration: ""
+            },{
+                name: "贺宝喆",
+                name_en: "Baozhe He",
+                email: "2383039189@qq.com",
+                identity: "M.S. Student",
+                year: "2024",
+                photo: pd.a,
+                duration: ""
+            },{
+			    name: "魏舒扬",
+			    name_en: "Shuyang Wei",
+			    email: "wsy2002220@mail.ustc.edu.cn",
+			    identity: "M.S. Student",
+			    year: "2024",
+			    photo: jb.a,
+			    duration: ""
 			},
 			
 			
@@ -2684,15 +2780,7 @@
 			 
 			            
              
-            {
-			    name: "魏舒扬",
-			    name_en: "Shuyang Wei",
-			    email: "wsy2002220@mail.ustc.edu.cn",
-			    identity: "Undergraduate",
-			    year: "2020",
-			    photo: jb.a,
-			    duration: ""
-			},
+            
 			
 			
 						
@@ -2780,6 +2868,46 @@
                 year: "PhD 2020",
                 photo: mo.a,
                 duration: "2020.9-2023.6"
+            },{
+                name: "王明明",
+                name_en: "Mingming Wang",
+                email: "mmwang1@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: 2021,
+                photo: No.a,
+                duration: "2019-2024"
+            }, {
+                name: "刘双",
+                name_en: "Shuang Liu",
+                email: "shuangliu2021@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: 2021,
+                photo: Io.a,
+                duration: "2021-2024"
+            }, {
+                name: "张凯",
+                name_en: "Kai Zhang",
+                email: "kaizhang0812@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: 2021,
+                photo: wo.a,
+                duration: "2021-2024"
+            }, {
+                name: "潘真",
+                name_en: "Zhen Pan",
+                email: "zhenp@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: 2021,
+                photo: jc.a,
+                duration: "2021-2024"
+            },{
+                name: "",
+                name_en: "Mohammad Ali Gabris",
+                email: "magabris@mail.ustc.edu.cn",
+                identity: "Alumni",
+                year: 2023,
+                photo: vc.a,
+                duration: "2023-2024"
             },
 
 
@@ -2810,6 +2938,38 @@
                     year: "Master 2020",
                     photo: Zo.a,
                     duration: "2020.9-2023.6"
+                },{
+                    name: "彭洽",
+                    name_en: "Qia Peng",
+                    email: "pengqia@mail.ustc.edu.cn",
+                    identity: "Alumni",
+                    year: 2021,
+                    photo: Jo.a,
+                    duration: "2021-2024"
+                }, {
+                    name: "谢泽辉",
+                    name_en: "Zehui Xie",
+                    email: "xiezh@mail.ustc.edu.cn",
+                    identity: "Alumni",
+                    year: 2021,
+                    photo: To.a,
+                    duration: "2021-2024"
+                },{
+                    name: "宋莉",
+                    name_en: "Li Song",
+                    email: "lilysongsong@mail.ustc.edu.cn",
+                    identity: "Alumni",
+                    year: "2021",
+                    photo: hb.a,
+                    duration: "2021-2024"
+                }, {
+                    name: "张明颖",
+                    name_en: "Mingying Zhang",
+                    email: "MYZhang17@mail.ustc.edu.cn",
+                    identity: "Alumni",
+                    year: "2021",
+                    photo: dc.a,
+                    duration: "2021-2024"
                 },
             
             
