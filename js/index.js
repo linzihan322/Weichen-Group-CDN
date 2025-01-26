@@ -553,6 +553,79 @@
             },
             */
 
+            //20240126
+            {
+                title: "Electrochemical lithium recycling from spent batteries with electricity generation",
+                author: "Weiping Wang, Zaichun Liu, Zhengxin Zhu, Yirui Ma, Kai Zhang, Yahan Meng, Touqeer Ahmad, NawabAli Khan, Qia Peng, Zehui Xie, Zuodong Zhang, Wei Chen*",
+                year: 2024,
+                journal: "Nature Sustainability",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1038/s41893-024-01505-5"
+            },
+            {
+                title: "Scalable, pH-Universal, Multimetallic Aerogel Electrocatalysts for Efficient Hydrogen Gas Batteries",
+                author: "Hongxu Liu#, Yuan Tang#, Taoli Jiang#,*, Ruihao Luo, Jinghao Chen, Zuodong Zhang, Jingwen Xu, Dongyang Shen, Zhen Pan, Shuyang Wei, Shunxin Tan, Yidi Wang, Guili Zhao, Yuancheng Feng, Xingxing Li*, Wei Chen*",
+                year: 2024,
+                journal: "Advanced Functional Materials",
+                volume: "",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1002/adfm.202419078"
+            },
+            {
+                title: "Rechargeable Lithium-Hydrogen Gas Batteries",
+                author: "Zaichun Liu#, Yirui Ma#, Nawab Ali Khan, Taoli Jiang, Zhengxin Zhu, Ke Li, Kai Zhang, Shuang Liu, Zehui Xie, Yuan Yuan, Mingming Wang, Xinhua Zheng, Jifei Sun, Weiping Wang, Yahan Meng, Yan Xu, Mingyan Chuai, Jinlong Yang*, Wei Chen*",
+                year: 2024,
+                journal: "Angewandte Chemie International Edition",
+                volume: "e202419663",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1002/anie.202419663"
+            },
+            {
+                title: "Tuning Mechanism of Sb Atoms on Cu-Based Catalyst for Electrochemical Conversion of CO2 to Syngas",
+                author: "Ke Li#, Jifei Sun#, Shuang Liu, Jingwen Xu, Chunyue Shen, Taoli Jiang, Yuan Yuan, Mingyan Chuai, Yan Xu, Zaichun Liu, Wei Chen*",
+                year: 2024,
+                journal: "ChemCatChem",
+                volume: "e202401406",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1002/cctc.202401406"
+            },
+            {
+                title: "Rechargeable HydrogenGas Batteries: Fundamentals, Principles, Materials, and Applications",
+                author: "Taoli Jiang#, Ziwei Zhang#, Shuyang Wei#, Shunxin Tan, Hongxu Liu, Wei Chen*",
+                year: 2024,
+                journal: "Advanced Materials",
+                volume: "2412108",
+                issue: "",
+                pages: "",
+                doi: "https://doi.org/10.1002/adma.202412108"
+            },
+            {
+                title: "Robust bilayer solid electrolyte interphase for Zn electrode with high utilization and efficiency",
+                author: "Yahan Meng#, Mingming Wang#, Jiazhi Wang#, Xuehai Huang, Xiang Zhou, Muhammad Sajid, Zehui Xie, Ruihao Luo, Zhengxin Zhu, Zuodong Zhang, Nawab Ali Khan, Yu Wang*, Zhenyu Li*, Wei Chen*",
+                year: 2024,
+                journal: "Nature Communications",
+                volume: "15",
+                issue: "8431",
+                pages: "",
+                doi: "https://doi.org/10.1038/s41467-024-52611-z"
+            },
+            {
+                title: "A practical zinc-bromine pouch cell enabled by electrolyte dynamic stabilizer",
+                author: "Xinhua Zheng, Ruihao Luo, Zaichun Liu, Mingming Wang, Muhammad Sajid, Zehui Xie, Jifei Sun, Kui Xu, Li Song, Yuan Yuan, Taoli Jiang, Shuang Liu, Na Chen, Wei Chen*",
+                year: 2024,
+                journal: "Materials Today",
+                volume: "80",
+                issue: "",
+                pages: "353-364",
+                doi: "https://doi.org/10.1016/j.mattod.2024.09.015"
+            },
+
+
             //20240912
             {
                 title: "Rechargeable Alkali Metal-Chlorine Batteries: Advances, Challenges, and Future Perspectives",
@@ -1932,6 +2005,30 @@
             event: 'Our research paper entitled "" was published in . Congratulations to !'
         },
         */
+
+        //20250126
+        {
+            time: "January, 2025",
+            event: 'Our research paper entitled "Electrochemical lithium recycling from spent batteries with electricity generation" was published in Nature Sustainability. Congratulations to Weiping!'
+        },{
+            time: "January 19, 2025",
+            event: 'Our research paper entitled "pH-Universal, Multimetallic Aerogel Electrocatalysts for Efficient Hydrogen Gas Batteries" was published in Advanced Functional Materials. Congratulations to Hongxu and Taoli!'
+        },{
+            time: "November 30, 2024",
+            event: 'Our research paper entitled "Rechargeable Lithium-Hydrogen Gas Batteries" was published in Angewandte Chemie International Edition. Congratulations to Zaichun and Yirui!'
+        },{
+            time: "October 18, 2024",
+            event: 'Our research paper entitled "Tuning Sb Atoms on Cu-Based Catalysts for Electrochemical Conversion of CO2 to Syngas" was published in ChemCatChem. Congratulations to Ke and Jifei!'
+        },{
+            time: "November 7, 2024",
+            event: 'Our research paper entitled "Rechargeable Hydrogen Gas Batteries: Fundamentals, Principles, Materials, and Applications" was published in Advanced Materials. Congratulations to Taoli, Ziwei and Shuyang!'
+        },{
+            time: "September 29, 2024",
+            event: 'Our research paper entitled "Robust bilayer solid electrolyte interphase for Zn electrode with high utilization and efficiency" was published in Nature Communications. Congratulations to Yahan!'
+        },{
+            time: "November 26, 2024",
+            event: 'Our research paper entitled "A practical zinc-bromine pouch cell enabled by electrolyte dynamic stabilizer" was published in Materials Today. Congratulations to Xinhua!'
+        },
 
         //20240912
 
