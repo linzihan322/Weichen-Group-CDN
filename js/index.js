@@ -3014,16 +3014,16 @@
                 name: "王晓阳",
                 name_en: "Xiaoyang Wang",
                 email: "xiaoyangw@ustc.edu.cn",
-                identity: "Postdoc",
-                year: "",
+                identity: "Alumni",
+                year: "Postdoc",
                 photo: tb.a,
                 duration: "2021.12-2025.6"
             }, {
                 name: "朱正新",
                 name_en: "Zhengxin Zhu",
                 email: "zzxalf@mail.ustc.edu.cn",
-                identity: "Postdoc",
-                year: "",
+                identity: "Alumni",
+                year: "Postdoc",
                 photo: po.a,
                 duration: "2022.7-2024.9"
             },{
@@ -3031,7 +3031,7 @@
                     name_en: "Zaichun Liu",
                     email: "liuzaichun@ustc.edu.cn",
                     identity: "Alumni",
-                    year: "",
+                    year: "Postdoc",
                     photo: no.a,
                     duration: "2020.9-2023"
                 },
@@ -3085,7 +3085,7 @@
                 name_en: "Yahan Meng",
                 email: "yahanmeng@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: "",    
+                year: "PhD 2022",    
                 photo: xo.a,
                 duration: "2020.9-2025.6"
             },{
@@ -3093,7 +3093,7 @@
 			    name_en: "Weiping Wang",
 			    email: "wwp2018@mail.ustc.edu.cn",
 			    identity: "Alumni",
-			    year: "2022",
+			    year: "PhD 2022",
 			    photo: ai.a,
 			    duration: "2022.9-2025.6"
 			}, {
@@ -3101,7 +3101,7 @@
 			    name_en: "Yirui Ma",
 			    email: "yirui_ma@mail.ustc.edu.cn",
 			    identity: "Alumni",
-			    year: "2022",
+			    year: "PhD 2022",
 			    photo: lb.a,
 			    duration: "2022.9-2025.6"
 			},  {
@@ -3109,7 +3109,7 @@
                 name_en: "Dongyang Shen",
                 email: "shendongyang@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: "2022",
+                year: "PhD 2022",
                 photo: bc.a,
                 duration: "2022.9-2025.6"
             },{
@@ -3117,7 +3117,7 @@
                 name_en: "Touqeer Ahmad",
                 email: "touqeer@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: "2020",
+                year: "PhD 2020",
                 photo: vo.a,
                 duration: "2020.9-2025.6"
             },{
@@ -3149,7 +3149,7 @@
                 name_en: "Mingming Wang",
                 email: "mmwang1@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: 2021,
+                year: "PhD 2021",
                 photo: No.a,
                 duration: "2019-2024"
             }, {
@@ -3157,7 +3157,7 @@
                 name_en: "Shuang Liu",
                 email: "shuangliu2021@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: 2021,
+                year: "PhD 2021",
                 photo: Io.a,
                 duration: "2021-2024"
             }, {
@@ -3165,7 +3165,7 @@
                 name_en: "Kai Zhang",
                 email: "kaizhang0812@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: 2021,
+                year: "PhD 2021",
                 photo: wo.a,
                 duration: "2021-2024"
             }, {
@@ -3173,7 +3173,7 @@
                 name_en: "Zhen Pan",
                 email: "zhenp@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: 2021,
+                year: "PhD 2021",
                 photo: jc.a,
                 duration: "2021-2024"
             },{
@@ -3181,7 +3181,7 @@
                 name_en: "Mohammad Ali Gabris",
                 email: "magabris@mail.ustc.edu.cn",
                 identity: "Alumni",
-                year: 2023,
+                year: "PhD 2023",
                 photo: vc.a,
                 duration: "2023-2024"
             },
@@ -3195,7 +3195,7 @@
 			    name_en: "Saba Hazoor",
 			    email: "Saba12@mail.ustc.edu.cn",
 			    identity: "Alumni",
-			    year: "2022",
+			    year: "Master 2022",
 			    photo: xc.a,
 			    duration: "2022.9-2025.6"
 			},{
@@ -3227,7 +3227,7 @@
                     name_en: "Qia Peng",
                     email: "pengqia@mail.ustc.edu.cn",
                     identity: "Alumni",
-                    year: 2021,
+                    year: "Master 2021",
                     photo: Jo.a,
                     duration: "2021-2024"
                 }, {
@@ -3235,7 +3235,7 @@
                     name_en: "Zehui Xie",
                     email: "xiezh@mail.ustc.edu.cn",
                     identity: "Alumni",
-                    year: 2021,
+                    year: "Master 2021",
                     photo: To.a,
                     duration: "2021-2024"
                 },{
@@ -3243,7 +3243,7 @@
                     name_en: "Li Song",
                     email: "lilysongsong@mail.ustc.edu.cn",
                     identity: "Alumni",
-                    year: "2021",
+                    year: "Master 2021",
                     photo: hb.a,
                     duration: "2021-2024"
                 }, {
@@ -3251,7 +3251,7 @@
                     name_en: "Mingying Zhang",
                     email: "MYZhang17@mail.ustc.edu.cn",
                     identity: "Alumni",
-                    year: "2021",
+                    year: "Master 2021",
                     photo: dc.a,
                     duration: "2021-2024"
                 },
